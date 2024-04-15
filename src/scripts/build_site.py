@@ -234,7 +234,7 @@ def get_page_info_list(comic_folder: str, comic_info: RawConfigParser, delete_sc
             post_date = tz_info.localize(datetime.strptime(page_info["Post date"], date_format))
         except ValueError:
             print(f"Invalid date found in {page_info}")
-    raise
+            raise
         if post_date > local_time and not publish_all_comics:
             scheduled_post_count += 1
             # Post date is in the future, so delete the folder with the resources
