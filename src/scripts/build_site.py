@@ -229,8 +229,12 @@ def get_page_info_list(comic_folder: str, comic_info: RawConfigParser, delete_sc
             print(f"{page_path} is missing its info.ini file. Skipping")
             continue
         page_info = read_info(filepath, to_dict=True)
-        print(page_info)
-        post_date = tz_info.localize(datetime.strptime(page_info["Post date"], date_format))
+       # print(page_info)
+        try:
+            post_date = tz_info.localize(datetime.strptime(page_info["Post date"], date_format))
+        except ValueError:
+            print(f"Invalid date found in {page_info}")
+    raise
         if post_date > local_time and not publish_all_comics:
             scheduled_post_count += 1
             # Post date is in the future, so delete the folder with the resources
@@ -263,7 +267,7 @@ def get_page_info_list(comic_folder: str, comic_info: RawConfigParser, delete_sc
                                    [comic_folder, comic_info, page_path, page_info])
             if hook_result:
                 page_info = hook_result
-            print(page_info)
+            #print(page_info)
             page_info_list.append(page_info)
 
     page_info_list = sorted(
