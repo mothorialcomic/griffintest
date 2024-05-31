@@ -1,31 +1,58 @@
-import glob
-import os.path
+import os
 import shutil
 
-mydir = r"C:\Users\metaj\Downloads\Rick Griffin Comics\Comics Holding Spot\Housepets"
-comicsfolder = r"C:\Users\metaj\Documents\GitHub\griffintest\your_content\housepets\comics"
-i = 1
-book_list = sorted(glob.glob(mydir+r"\*"), key=lambda s: int(os.path.basename(s)[5:]))
-for book_path in book_list:
-    print(book_path)
-    file_list = glob.glob(book_path + "/*.png")  # Include slash or it will search in the wrong directory!!
-    book_name = os.path.basename(book_path)
-    for file_path in sorted(file_list):
-        file_name = os.path.basename(file_path)
-        date = file_name[:10]
-        title = file_name[11:-4].replace("-", " ").title()
-        title = title.replace("Im", "I'm").replace("Aint", "Ain't").replace("Cant", "Can't").replace("Didnt", "Didn't").replace("Doesnt", "Doesn't").replace("Dont", "Don't").replace("Hadnt", "Hadn't").replace("Hasnt", "Hasn't").replace("Havent", "Haven't").replace("Hed", "He'd").replace("Hes", "He's").replace("Shes", "She's").replace("Id", "I'd").replace("Hows", "How's").replace("Howd", "How'd").replace("Ill", "I'll").replace("Ive", "I've").replace("Isnt", "Isn't").replace("Itll", "It'll").replace("Its", "It's").replace("Lets", "Let's").replace("Shell", "She'll").replace("Theyll", "They'll").replace("Werent", "Weren't").replace("Youd", "You'd").replace("Youll", "You'll")
-        foldername = "{:04}".format(i)
-        os.mkdir(os.path.join(comicsfolder, foldername))
-        shutil.copy(file_path, os.path.join(comicsfolder, foldername, file_name))
-        with open(os.path.join(comicsfolder, foldername, "info.ini"), "w") as f:
-            f.write(f"""Title = {title}
-Post date = {date}
-Filename = {file_name}
+# Define the origin and destination directories
+origin_dir = r'C:\Users\metaj\Downloads\Rick Griffin Comics\Comics Holding Spot\Zootopia'
+destination_dir = r'C:\Users\metaj\Documents\GitHub\griffintest\your_content\zootopia - night terrors\comics'
+
+# Ensure the destination directory exists
+os.makedirs(destination_dir, exist_ok=True)
+
+# List of dates for the 'Post date' field
+dates = [
+    "March 26, 2016", "March 26, 2016", "March 26, 2016",
+    "March 26, 2016", "March 26, 2016", "March 26, 2016",
+    "March 26, 2016"
+]
+
+# Get the list of images in the origin directory, sorted to process them in order
+images = sorted([f for f in os.listdir(origin_dir) if os.path.isfile(os.path.join(origin_dir, f))])
+
+# Go through each image in the origin directory
+for image_index, image in enumerate(images, start=1):
+    image_path = os.path.join(origin_dir, image)
+
+    # Create a new directory for the current image
+    new_folder_name = f"{image_index:03d}"
+    new_folder_path = os.path.join(destination_dir, new_folder_name)
+    os.makedirs(new_folder_path, exist_ok=True)
+
+    # Copy the image to the new directory
+    shutil.copy(image_path, os.path.join(new_folder_path, image))
+
+    # Create an empty post.txt file in the new directory
+    post_txt_path = os.path.join(new_folder_path, 'post.txt')
+    with open(post_txt_path, 'w') as post_txt_file:
+        pass  # Create an empty file
+
+    # Determine the title for the info.ini file
+    title = f"Zootopia - Night Terrors Page {image_index:03d}"
+
+    # Get the post date for the current image
+    post_date = dates[image_index - 1] if image_index - 1 < len(dates) else ""
+
+    # Create the info.ini file with the required content
+    image_filename = os.path.basename(image_path)
+    info_ini_content = f"""Title = {title}
+Post date = {post_date}
+Filename = {image_filename}
 Alt text = 
-Storyline = {book_name}
+Storyline = 
 Characters = 
-Tags = """)
-        with open(os.path.join(comicsfolder, foldername, "post.txt"), "w") as f:
-            f.write("")
-        i += 1
+Tags = 
+"""
+    info_ini_path = os.path.join(new_folder_path, 'info.ini')
+    with open(info_ini_path, 'w') as info_ini_file:
+        info_ini_file.write(info_ini_content)
+
+print("Images have been successfully copied into sequential folders with post.txt and info.ini files.")
