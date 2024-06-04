@@ -1,9 +1,98 @@
-<h1>Welcome!</h1>
-
-<p>Rick Griffin Studios</p>
-
-<p>Click <a href="comic/197/#comic-page">here</a> to go to the first page of the sample comic to see how it looks out-of-the-box.<br>
-    You can also click <a href="latest/#comic-page">here</a> to go to the latest page, which will always point to the most recently published comic. Yep!</p>
-
-
-	
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table Example</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        td, th {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+            vertical-align: top;
+        }
+        .news-column {
+            width: 50%;
+        }
+        .image-link img {
+            width: 800px;
+            height: 500px;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td>
+                            <a class="image-link" href="https://mothorialcomic.github.io/griffintest/ah-club/comic/001/">
+                                <img src="file:///C:/Users/metaj/Documents/GitHub/griffintest/your_content/images/banners/ah-club.jpg" alt="Image 1">
+                            </a>
+                        </td>
+                        <td>
+                            <a class="image-link" href="#">
+                                <img src="file:///C:/Users/metaj/Documents/GitHub/griffintest/your_content/images/banners/inthenewage.jpg" alt="Image 2">
+                            </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <a class="image-link" href="#"><img src="" alt="Image 3"></a>
+                        </td>
+                        <td>
+                            <a class="image-link" href="#"><img src="" alt="Image 4"></a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <a class="image-link" href="#"><img src="" alt="Image 5"></a>
+                        </td>
+                        <td>
+                            <a class="image-link" href="#"><img src="" alt="Image 6"></a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <a class="image-link" href="#"><img src="" alt="Image 7"></a>
+                        </td>
+                        <td>
+                            <a class="image-link" href="#"><img src="" alt="Image 8"></a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <a class="image-link" href="#"><img src="" alt="Image 9"></a>
+                        </td>
+                        <td>
+                            <a class="image-link" href="#"><img src="" alt="Image 10"></a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <a class="image-link" href="#"><img src="" alt="Image 11"></a>
+                        </td>
+                        <td>
+                            <a class="image-link" href="#"><img src="" alt="Image 12"></a>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+            <td class="news-column">
+                <h2>NEWS</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum.</p>
+                <p>Cras vehicula, mauris non tempor aliquam, sapien nisl egestas orci, ac auctor elit sapien nec nisl.</p>
+                <p>Fusce dictum turpis ac sem ullamcorper, non scelerisque felis vehicula. Integer et urna nec urna tincidunt tempor.</p>
+                <p>Donec consectetur, urna eget facilisis suscipit, sapien dui pulvinar leo, eu commodo magna augue ac libero.</p>
+                <p>Sed vel nisl eu lectus mollis tincidunt. Nullam vehicula turpis eu malesuada facilisis.</p>
+                <p>Praesent euismod, libero sit amet tincidunt consectetur, turpis sapien faucibus dui, ut vehicula velit augue non arcu.</p>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
