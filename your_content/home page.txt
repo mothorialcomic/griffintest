@@ -37,7 +37,7 @@
                         </td>
                         <td>
                             <a class="image-link" href="#">
-                                <img src="griffintest/your_content/images/banners/inthenewage.jpg" alt="Image 2">
+                                <img src="/griffintest/your_content/images/banners/inthenewage.jpg" alt="Image 2">
                             </a>
                         </td>
                     </tr>
