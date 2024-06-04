@@ -32,12 +32,12 @@
                     <tr>
                         <td>
                             <a class="image-link" href="https://mothorialcomic.github.io/griffintest/ah-club/comic/001/">
-                                <img src="file:///C:/Users/metaj/Documents/GitHub/griffintest/your_content/images/banners/ah-club.jpg" alt="Image 1">
+                                <img src="/your_content/images/banners/ah-club.jpg" alt="Image 1">
                             </a>
                         </td>
                         <td>
                             <a class="image-link" href="#">
-                                <img src="file:///C:/Users/metaj/Documents/GitHub/griffintest/your_content/images/banners/inthenewage.jpg" alt="Image 2">
+                                <img src="/your_content/images/banners/inthenewage.jpg" alt="Image 2">
                             </a>
                         </td>
                     </tr>
