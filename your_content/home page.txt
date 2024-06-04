@@ -30,6 +30,42 @@
     <table>
         <tr>
             <td>
+                <a class="image-link" href="https://mothorialcomic.github.io/griffintest/ah-club/comic/001/">
+                    <img src="/griffintest/your_content/images/banners/ah-club.jpg" alt="Image 1">
+                </a>
+            </td>
+            <td>
+                <a class="image-link" href="#">
+                    <img src="/griffintest/your_content/images/banners/inthenewage.jpg" alt="Image 2">
+                </a>
+            </td>
+            <td>
+                <a class="image-link" href="#">
+                    <img src="/griffintest/your_content/images/banners/inthenewage.jpg" alt="Image 2">
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a class="image-link" href="https://mothorialcomic.github.io/griffintest/ah-club/comic/001/">
+                    <img src="/griffintest/your_content/images/banners/ah-club.jpg" alt="Image 1">
+                </a>
+            </td>
+            <td>
+                <a class="image-link" href="#">
+                    <img src="/griffintest/your_content/images/banners/inthenewage.jpg" alt="Image 2">
+                </a>
+            </td>
+            <td>
+                <a class="image-link" href="#">
+                    <img src="/griffintest/your_content/images/banners/inthenewage.jpg" alt="Image 2">
+                </a>
+            </td>
+        </tr>
+    </table>
+	<table>
+        <tr>
+            <td>
                 <table class="comicLinks">
                     <tr>
                         <td>
