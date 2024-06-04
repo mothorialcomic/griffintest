@@ -10,7 +10,7 @@
             border-collapse: collapse;
         }
         td, th {
-            border: 1px solid black;
+            border: none;
             padding: 8px;
             text-align: center;
             vertical-align: top;
@@ -21,13 +21,16 @@
         .image-link img {
             width: 100%;
         }
+	.comicLinks {
+	    border-right: 4px black solid;
+	}
     </style>
 </head>
 <body>
     <table>
         <tr>
             <td>
-                <table>
+                <table class="comicLinks">
                     <tr>
                         <td>
                             <a class="image-link" href="https://mothorialcomic.github.io/griffintest/ah-club/comic/001/">
