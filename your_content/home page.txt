@@ -6,7 +6,7 @@
     <title>Table Example</title>
     <style>
 		body {
-			background-image: url(/griffin/your_content/images/bgimage.jpg);
+			background-image: url(/griffintest/your_content/images/bgimage.jpg);
 			background-repeat:no-repeat;
 			background-size:cover;
 		}
