@@ -279,7 +279,7 @@ div#storyline, div#characters, div#tags {
 
 @font-face {
     font-family: rushford;
-    src: url(/your_content/fonts/Rushfordclean-rgz89.otf);
+    src: url(/your_content/fonts/Rushfordclean-rgz89.otf) format("opentype");;
 	font-weight: normal;
     font-style: normal;
 }
