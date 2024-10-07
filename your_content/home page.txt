@@ -41,94 +41,111 @@
     </style>
 </head>
 <body>
-    <table>
-        <tr>
-            <td>
-                <a class="image-link" href="https://mothorialcomic.github.io/griffintest/ah-club/comic/001/">
-                    <img src="/griffintest/your_content/images/banners/housepets2.png" alt="Image 1">
-                </a>
-            </td>
-            <td>
-                <a class="image-link" href="#">
-                    <img src="/griffintest/your_content/images/banners/AH-icon2.png" alt="Image 2">
-                </a>
-            </td>
-            <td>
-                <a class="image-link" href="#">
-                    <img src="/griffintest/your_content/images/banners/in-the-new-age.png" alt="Image 2">
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a class="image-link" href="https://mothorialcomic.github.io/griffintest/ah-club/comic/001/">
-                    <img src="/griffintest/your_content/images/banners/ah-club.jpg" alt="Image 1">
-                </a>
-            </td>
-            <td>
-                <a class="image-link" href="#">
-                    <img src="/griffintest/your_content/images/banners/inthenewage.jpg" alt="Image 2">
-                </a>
-            </td>
-            <td>
-                <a class="image-link" href="#">
-                    <img src="/griffintest/your_content/images/banners/inthenewage.jpg" alt="Image 2">
-                </a>
-            </td>
-        </tr>
-    </table>
-	<table>
-        <tr>
-            <td>
-                <table class="comicLinks">
-                    <tr>
-                        <td>
-                            <a class="image-link" href="https://mothorialcomic.github.io/griffintest/ah-club/comic/001/">
-                                <img src="/griffintest/your_content/images/banners/ah-club.jpg" alt="Image 1">
-                            </a>
-                        </td>
-                        <td>
-                            <a class="image-link" href="#">
-                                <img src="/griffintest/your_content/images/banners/inthenewage.jpg" alt="Image 2">
-                            </a>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <a class="image-link" href="https://mothorialcomic.github.io/griffintest/ah-club/comic/001/">
-                                <img src="/griffintest/your_content/images/banners/ah-club.jpg" alt="Image 1">
-                            </a>
-                        </td>
-                        <td>
-                            <a class="image-link" href="#">
-                                <img src="/griffintest/your_content/images/banners/inthenewage.jpg" alt="Image 2">
-                            </a>
-                        </td>
-                    </tr>
-		    <tr>
-                        <td>
-                            <a class="image-link" href="https://mothorialcomic.github.io/griffintest/ah-club/comic/001/">
-                                <img src="/griffintest/your_content/images/banners/ah-club.jpg" alt="Image 1">
-                            </a>
-                        </td>
-                        <td>
-                            <a class="image-link" href="#">
-                                <img src="/griffintest/your_content/images/banners/inthenewage.jpg" alt="Image 2">
-                            </a>
-                        </td>
-                    </tr>
-                </table>
-            </td>
-            <td class="news-column">
-                <h2>NEWS</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum.</p>
-                <p>Cras vehicula, mauris non tempor aliquam, sapien nisl egestas orci, ac auctor elit sapien nec nisl.</p>
-                <p>Fusce dictum turpis ac sem ullamcorper, non scelerisque felis vehicula. Integer et urna nec urna tincidunt tempor.</p>
-                <p>Donec consectetur, urna eget facilisis suscipit, sapien dui pulvinar leo, eu commodo magna augue ac libero.</p>
-                <p>Sed vel nisl eu lectus mollis tincidunt. Nullam vehicula turpis eu malesuada facilisis.</p>
-                <p>Praesent euismod, libero sit amet tincidunt consectetur, turpis sapien faucibus dui, ut vehicula velit augue non arcu.</p>
-            </td>
-        </tr>
-    </table>
+    <div class="comicList">
+		<table>
+			<tr>
+				<td>
+					<a class="image-link" href="https://mothorialcomic.github.io/griffintest/housepets/comic/0001/">
+						<img src="/griffintest/your_content/images/banners/housepets2.png" alt="Image 1">
+					</a>
+				</td>
+				<td>
+					<a class="image-link" href="https://mothorialcomic.github.io/griffintest/ah-club/comic/001/">
+						<img src="/griffintest/your_content/images/banners/AH-icon2.png" alt="Image 2">
+					</a>
+				</td>
+				<td>
+					<a class="image-link" href="https://mothorialcomic.github.io/griffintest/the-witch-of-kurikuto/comic/001/">
+						<img src="/griffintest/your_content/images/banners/in-the-new-age.png" alt="Image 2">
+					</a>
+				</td>
+				<td>
+					<a class="image-link" href="https://mothorialcomic.github.io/griffintest/the-storyboard/comic/001/">
+						<img src="/griffintest/your_content/images/banners/the-storyboard.png" alt="Image 1">
+					</a>
+				</td>
+				<td>
+					<a class="image-link" href="https://mothorialcomic.github.io/griffintest/skinchange/comic/001/">
+						<img src="/griffintest/your_content/images/banners/hc-icon.png" alt="Image 2">
+					</a>
+				</td>
+				<td>
+					<a class="image-link" href="https://mothorialcomic.github.io/griffintest/zootopia-night-terrors/comic/001/">
+						<img src="/griffintest/your_content/images/banners/hc-icon.png" alt="Image 2">
+					</a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<a class="image-link" href="https://mothorialcomic.github.io/griffintest/ah-club/comic/001/">
+						<img src="/griffintest/your_content/images/banners/ah-club.jpg" alt="Image 1">
+					</a>
+				</td>
+				<td>
+					<a class="image-link" href="#">
+						<img src="/griffintest/your_content/images/banners/inthenewage.jpg" alt="Image 2">
+					</a>
+				</td>
+				<td>
+					<a class="image-link" href="#">
+						<img src="/griffintest/your_content/images/banners/inthenewage.jpg" alt="Image 2">
+					</a>
+				</td>
+			</tr>
+		</table>
+		<table>
+			<tr>
+				<td>
+					<table class="comicLinks">
+						<tr>
+							<td>
+								<a class="image-link" href="https://mothorialcomic.github.io/griffintest/ah-club/comic/001/">
+									<img src="/griffintest/your_content/images/banners/ah-club.jpg" alt="Image 1">
+								</a>
+							</td>
+							<td>
+								<a class="image-link" href="#">
+									<img src="/griffintest/your_content/images/banners/inthenewage.jpg" alt="Image 2">
+								</a>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<a class="image-link" href="https://mothorialcomic.github.io/griffintest/ah-club/comic/001/">
+									<img src="/griffintest/your_content/images/banners/ah-club.jpg" alt="Image 1">
+								</a>
+							</td>
+							<td>
+								<a class="image-link" href="#">
+									<img src="/griffintest/your_content/images/banners/inthenewage.jpg" alt="Image 2">
+								</a>
+							</td>
+						</tr>
+				<tr>
+							<td>
+								<a class="image-link" href="https://mothorialcomic.github.io/griffintest/ah-club/comic/001/">
+									<img src="/griffintest/your_content/images/banners/ah-club.jpg" alt="Image 1">
+								</a>
+							</td>
+							<td>
+								<a class="image-link" href="#">
+									<img src="/griffintest/your_content/images/banners/inthenewage.jpg" alt="Image 2">
+								</a>
+							</td>
+						</tr>
+					</table>
+				</td>
+				<td class="news-column">
+					<h2>NEWS</h2>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum.</p>
+					<p>Cras vehicula, mauris non tempor aliquam, sapien nisl egestas orci, ac auctor elit sapien nec nisl.</p>
+					<p>Fusce dictum turpis ac sem ullamcorper, non scelerisque felis vehicula. Integer et urna nec urna tincidunt tempor.</p>
+					<p>Donec consectetur, urna eget facilisis suscipit, sapien dui pulvinar leo, eu commodo magna augue ac libero.</p>
+					<p>Sed vel nisl eu lectus mollis tincidunt. Nullam vehicula turpis eu malesuada facilisis.</p>
+					<p>Praesent euismod, libero sit amet tincidunt consectetur, turpis sapien faucibus dui, ut vehicula velit augue non arcu.</p>
+				</td>
+			</tr>
+		</table>
+	</div>
 </body>
 </html>
