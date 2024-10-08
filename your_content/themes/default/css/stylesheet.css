@@ -123,7 +123,7 @@ div#storyline, div#characters, div#tags {
 	text-align: center;
 }
 
-.comicWorldInTheNewAge, .comicWorldOther {
+#comicWorldInTheNewAge, #comicWorldOther {
 	visibility: hidden;
 }
 
