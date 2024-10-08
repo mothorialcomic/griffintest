@@ -3,42 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Table Example</title>
-    <style>
-		body {
-			background-image: url(/griffintest/your_content/images/bgimage.jpg);
-			background-repeat:no-repeat;
-			background-size:cover;
-		}
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-        td, th {
-            border: none;
-            padding: 8px;
-            text-align: center;
-            vertical-align: top;
-        }
-        .news-column {
-            width: 50%;
-        }
-        .image-link img {
-            width: 300px;
-			border-radius: 6px;
-        }
-		.image-link img:hover {
-			-webkit-filter: brightness(70%);
-			-webkit-transition: all 1s ease;
-			-moz-transition: all 1s ease;
-			-o-transition: all 1s ease;
-			-ms-transition: all 1s ease;
-			transition: all 1s ease;
-		}
-		.comicLinks {
-			border-right: 4px black solid;
-		}
-    </style>
 </head>
 <body>
 	<h2 class="comicBanner">COMICS</h2>

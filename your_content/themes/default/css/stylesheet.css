@@ -11,8 +11,9 @@ body {
     font-family: 'PT Sans', sans-serif;  /* The font of all the text on all pages */
     color: black;  /* The color of the font of most of the text on your website */
     background-color: white;  /* The color of the background behind everything */
-    background-image: url("../../../images/background_image.png");  /* The pattern on the background. Delete to change to a solid color
-                                                       or replace with your own image to tile across your background. */
+	background-image: url(/griffintest/your_content/images/bgimage.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
 }
 
 a {
@@ -72,6 +73,41 @@ div#storyline, div#characters, div#tags {
 }
 
 /* Home Page */
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+td, th {
+	border: none;
+	padding: 8px;
+	text-align: center;
+	vertical-align: top;
+}
+
+.news-column {
+	width: 50%;
+}
+
+.image-link img {
+	width: 300px;
+	border-radius: 6px;
+	cursor: pointer;
+}
+
+.image-link img:hover {
+	-webkit-filter: brightness(70%);
+	-webkit-transition: all 1s ease;
+	-moz-transition: all 1s ease;
+	-o-transition: all 1s ease;
+	-ms-transition: all 1s ease;
+	transition: all 1s ease;
+}
+
+.comicLinks {
+	border-right: 4px black solid;
+}
 
 .comicList {
 	width: 1000px;
