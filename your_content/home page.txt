@@ -97,21 +97,6 @@
 						<img src="/griffintest/your_content/images/banners/hc-icon.png" alt="Image 2">
 					</a>
 				</td>
-				<td>
-					<a class="image-link" href="https://mothorialcomic.github.io/griffintest/the-storyboard/comic/001/">
-						<img src="/griffintest/your_content/images/banners/the-storyboard.png" alt="Image 1">
-					</a>
-				</td>
-				<td>
-					<a class="image-link" href="https://mothorialcomic.github.io/griffintest/skinchange/comic/001/">
-						<img src="/griffintest/your_content/images/banners/hc-icon.png" alt="Image 2">
-					</a>
-				</td>
-				<td>
-					<a class="image-link" href="https://mothorialcomic.github.io/griffintest/zootopia-night-terrors/comic/001/">
-						<img src="/griffintest/your_content/images/banners/hc-icon.png" alt="Image 2">
-					</a>
-				</td>
 			</tr>
 		</table>
 	</div>
