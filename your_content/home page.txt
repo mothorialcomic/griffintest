@@ -56,12 +56,12 @@
 					</a>
 				</td>
 				<td>
-					<a class="image-link" href="https://mothorialcomic.github.io/griffintest/the-witch-of-kurikuto/comic/001/">
+					<a class="image-link" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'visible';">
 						<img src="/griffintest/your_content/images/banners/in-the-new-age.png" alt="Image 2">
 					</a>
 				</td>
 				<td>
-					<a class="image-link" href="https://mothorialcomic.github.io/griffintest/the-storyboard/comic/001/">
+					<a class="image-link" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; document.getElementById('comicWorldOther').style.visibility = 'visible';">
 						<img src="/griffintest/your_content/images/banners/the-storyboard.png" alt="Image 1">
 					</a>
 				</td>
@@ -100,5 +100,43 @@
 			</tr>
 		</table>
 	</div>
+	<div class="overlay" id="overlayHome" onclick="document.getElementById('overlayHome').style.visibility = 'hidden'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'hidden'; document.getElementById('comicWorldOther').style.visibility = 'hidden';></div>
+	<div class="comicWorld comicWorldInTheNewAge">
+        <table>
+			<tr>
+				<td>
+					<a class="image-link" href="https://mothorialcomic.github.io/griffintest/housepets/comic/0001/">
+						<img src="/griffintest/your_content/images/banners/housepets2.png" alt="Image 1">
+					</a>
+				</td>
+				<td>
+					<a class="image-link" href="https://mothorialcomic.github.io/griffintest/ah-club/comic/001/">
+						<img src="/griffintest/your_content/images/banners/AH-icon2.png" alt="Image 2">
+					</a>
+				</td>
+				<td>
+					<a class="image-link" onclick="">
+						<img src="/griffintest/your_content/images/banners/in-the-new-age.png" alt="Image 2">
+					</a>
+				</td>
+			</tr>
+		</table>
+    </div>
+	<div class="comicWorld comicWorldOther">
+        <table>
+			<tr>
+				<td>
+					<a class="image-link" href="https://mothorialcomic.github.io/griffintest/housepets/comic/0001/">
+						<img src="/griffintest/your_content/images/banners/the-storyboard.png" alt="Image 1">
+					</a>
+				</td>
+				<td>
+					<a class="image-link" href="https://mothorialcomic.github.io/griffintest/ah-club/comic/001/">
+						<img src="/griffintest/your_content/images/banners/AH-icon2.png" alt="Image 2">
+					</a>
+				</td>
+			</tr>
+		</table>
+    </div>
 </body>
 </html>
