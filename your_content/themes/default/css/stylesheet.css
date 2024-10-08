@@ -136,7 +136,7 @@ td, th {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background-color: rgba(0, 0, 0, 0.7); /* Dark grey semi-transparent */
+	background-color: rgba(0, 0, 0, 0.9); /* Dark grey semi-transparent */
 	z-index: 1000; /* Ensure it covers everything */
 	cursor: zoom-in; /* Zoom cursor */
 	visibility: hidden; /* Hidden by default */
@@ -157,9 +157,24 @@ td, th {
 	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
 	z-index: 1001; /* Above the overlay */
 	text-align: center;
+	background-color: rgba(87,61,78,0.42);
 }
 
-#comicWorldInTheNewAge, #comicWorldOther, #comicWorldHC {
+.bookWorld {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background-color: white;
+	padding: 20px;
+	border-radius: 8px;
+	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+	z-index: 1001; /* Above the overlay */
+	text-align: center;
+	background-color: rgba(87,61,78,0.42);
+}
+
+#comicWorldInTheNewAge, #comicWorldOther, #comicWorldHC, #bookWorldPitFighters {
 	visibility: hidden;
 }
 
