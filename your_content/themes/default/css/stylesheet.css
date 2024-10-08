@@ -77,4 +77,19 @@ div#storyline, div#characters, div#tags {
 	width: 1000px;
 	overflow-x: scroll;
 	overflow-y: hidden;
-}
+} /* Creates horizontal scroll for comics and book lists */
+
+.comicBanner {
+	color: white;
+	font-family: rushford;
+	font-size: 70px;
+	margin-bottom: -30px;
+	margin-top: -40px;
+} /* Sets banner colors and custom font */
+
+.bookBanner {
+	color: white;
+	font-family: rushford;
+	font-size: 70px;
+	margin-bottom: -30px;
+} /* Sets banner colors and custom font */

@@ -41,6 +41,7 @@
     </style>
 </head>
 <body>
+	<h2 class="comicBanner">COMICS</h2>
     <div class="comicList">
 		<table>
 			<tr>
@@ -77,22 +78,23 @@
 			</tr>
 		</table>
 	</div>
+	<h2 class="bookBanner">BOOKS</h2>
 	<div class="comicList">
 		<table>
 			<tr>
 				<td>
 					<a class="image-link" href="https://mothorialcomic.github.io/griffintest/housepets/comic/0001/">
-						<img src="/griffintest/your_content/images/banners/housepets2.png" alt="Image 1">
+						<img src="/griffintest/your_content/images/banners/PF-icon.png" alt="Image 1">
 					</a>
 				</td>
 				<td>
 					<a class="image-link" href="https://mothorialcomic.github.io/griffintest/ah-club/comic/001/">
-						<img src="/griffintest/your_content/images/banners/AH-icon2.png" alt="Image 2">
+						<img src="/griffintest/your_content/images/banners/ad-icon.png" alt="Image 2">
 					</a>
 				</td>
 				<td>
 					<a class="image-link" href="https://mothorialcomic.github.io/griffintest/the-witch-of-kurikuto/comic/001/">
-						<img src="/griffintest/your_content/images/banners/in-the-new-age.png" alt="Image 2">
+						<img src="/griffintest/your_content/images/banners/hc-icon.png" alt="Image 2">
 					</a>
 				</td>
 				<td>
