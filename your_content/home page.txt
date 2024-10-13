@@ -42,7 +42,7 @@
 		<table>
 			<tr>
 				<td>
-					<a class="image-link" href="https://mothorialcomic.github.io/griffintest/housepets/comic/0001/">
+					<a class="image-link" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; document.getElementById('bookWorldPitFighters').style.visibility = 'visible';">
 						<img src="/griffintest/your_content/images/banners/PF-icon.png" alt="Image 1">
 					</a>
 				</td>

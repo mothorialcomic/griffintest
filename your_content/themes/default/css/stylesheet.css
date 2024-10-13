@@ -222,6 +222,7 @@ td, th {
 	width: 1000px;
 	border: solid 30px;
 	border-color: rgba(2, 2, 15, 0.98);
+	overscroll-behavior: contain;
 }
 
 /* All Comic Pages */
