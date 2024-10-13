@@ -241,12 +241,12 @@
 		<div class="anidroidsTable">
 			<div class="borderOneAnidroids">
 				<div class="pictureLeft">
-					<img class="bookImageAnidroids" alt="Image 1">
+					<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/banners/ad-icon.png">
 				</div>
 				<div class="anidroidsText">
 					<div class="anidroidsDescription">
 						<div>
-							<h6 class="whiteText">Novel</h6>
+							<h6 class="whiteText novel">Novel</h6>
 							<h2 class="whiteText anidroidsTitle">Ani-droids</h2>
 							<p>The world is good. The world is perfect. The world will not be changed from its course.</p>
 							<p>In violation of the will of the Collective, Mira McAllister set out to create a new breed of ani-droids that can think for themselves. But when she discovers a mouse-droid with unusual quirks to her programming—and darker secrets besides—she may have set in motion an accidental rebellion.</p>
