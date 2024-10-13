@@ -104,11 +104,56 @@
 		</table>
     </div>
 	<div class="bookWorld" id="bookWorldPitFighters">
-        <table>
-			<tr>
+        
+       
+        <table class="bookTable">
+			<tbody>
+				<tr>
+					<td>
+						<div class="bookImage">
+							<img src="/griffintest/your_content/images/banners/pf1-cover.jpg" alt="Image 1">
+						</div>
+					</td>
+				<td class="bookDescription">
+					<h4>
+						<span>
+							1 . The Opportunity<br>
+						</span>
+					</h4>
+<p><span style="color: #ffffff;"> <em>Join the Pit Fighters in its 77th season! We need new, fresh fighters willing to shake up the status quo and go all the way! Fame and fortune could be yours! Ages 16+, any body type, any skill level, no formal training required! Average monthly winnings start at 6600Ƌ.</em></span></p>
+<p><span style="color: #ffffff;">The start of a new series by Rick Griffin takes place on the Mediterranean paradise island of St. Marten-Cristo. Paris the rabbit finds himself unhappy with how his romantic life has been going, but learns his favorite sport, Pit Fighting, is open to new recruits. Could he possibly find happiness in the seedy world of arena combat?</span></p>
+<p><span style="color: #ffffff;">Available on<a href="https://www.smashwords.com/books/view/917684"> Smashwords</a> and <a href="https://www.amazon.com/Pit-Fighters-Opportunity-Rick-Griffin-ebook/dp/B07MMKSG8Z">Amazon</a></span></p>
+				</td>
+			</tr><tr style="background-color: rgba(87,61,78,0.42);">
 				<td>
-					<a class="image-link" href="https://mothorialcomic.github.io/griffintest/the-storyboard/comic/001/">
-						<img src="/griffintest/your_content/images/banners/the-storyboard.png" alt="Image 1">
+					<a class="image-link" href="https://mothorialcomic.github.io/griffintest/the-witch-of-kurikuto/comic/001/">
+						<img src="/griffintest/your_content/images/banners/in-the-new-age.png" alt="Image 1">
+					</a>
+				</td>
+				<td>
+					<h4><span style="color: #ffffff;">1 . The Opportunity<br>
+</span></h4>
+<p><span style="color: #ffffff;"> <em>Join the Pit Fighters in its 77th season! We need new, fresh fighters willing to shake up the status quo and go all the way! Fame and fortune could be yours! Ages 16+, any body type, any skill level, no formal training required! Average monthly winnings start at 6600Ƌ.</em></span></p>
+<p><span style="color: #ffffff;">The start of a new series by Rick Griffin takes place on the Mediterranean paradise island of St. Marten-Cristo. Paris the rabbit finds himself unhappy with how his romantic life has been going, but learns his favorite sport, Pit Fighting, is open to new recruits. Could he possibly find happiness in the seedy world of arena combat?</span></p>
+<p><span style="color: #ffffff;">Available on<a href="https://www.smashwords.com/books/view/917684"> Smashwords</a> and <a href="https://www.amazon.com/Pit-Fighters-Opportunity-Rick-Griffin-ebook/dp/B07MMKSG8Z">Amazon</a></span></p>
+				</td>
+			</tr><tr style="background-color: rgba(87,61,78,0.42);">
+				<td>
+					<a class="image-link" href="https://mothorialcomic.github.io/griffintest/the-witch-of-kurikuto/comic/001/">
+						<img src="/griffintest/your_content/images/banners/in-the-new-age.png" alt="Image 1">
+					</a>
+				</td>
+				<td style="padding-left: 40px;padding-right: 40px;text-align: left;">
+					<h4 style="/*! text-align: left; */font-size: 171.4%;"><span style="color: #ffffff;">1 . The Opportunity<br>
+</span></h4>
+<p><span style="color: #ffffff;/*! margin-left: 30px; *//*! margin-right: 20px; */"> <em>Join the Pit Fighters in its 77th season! We need new, fresh fighters willing to shake up the status quo and go all the way! Fame and fortune could be yours! Ages 16+, any body type, any skill level, no formal training required! Average monthly winnings start at 6600Ƌ.</em></span></p>
+<p><span style="color: #ffffff;">The start of a new series by Rick Griffin takes place on the Mediterranean paradise island of St. Marten-Cristo. Paris the rabbit finds himself unhappy with how his romantic life has been going, but learns his favorite sport, Pit Fighting, is open to new recruits. Could he possibly find happiness in the seedy world of arena combat?</span></p>
+<p><span style="color: #ffffff;">Available on<a href="https://www.smashwords.com/books/view/917684"> Smashwords</a> and <a href="https://www.amazon.com/Pit-Fighters-Opportunity-Rick-Griffin-ebook/dp/B07MMKSG8Z">Amazon</a></span></p>
+				</td>
+			</tr><tr style="background-color: rgba(87,61,78,0.42);">
+				<td>
+					<a class="image-link" href="https://mothorialcomic.github.io/griffintest/the-witch-of-kurikuto/comic/001/">
+						<img src="/griffintest/your_content/images/banners/in-the-new-age.png" alt="Image 1">
 					</a>
 				</td>
 				<td>
@@ -119,7 +164,9 @@
 <p><span style="color: #ffffff;">Available on<a href="https://www.smashwords.com/books/view/917684"> Smashwords</a> and <a href="https://www.amazon.com/Pit-Fighters-Opportunity-Rick-Griffin-ebook/dp/B07MMKSG8Z">Amazon</a></span></p>
 				</td>
 			</tr>
-		</table>
+		</tbody></table>
+    
+    
     </div>
 </body>
 </html>

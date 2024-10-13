@@ -79,6 +79,11 @@ table {
 	border-collapse: collapse;
 }
 
+h4 {
+	font-size: 32px;
+	color: white;
+}
+
 td, th {
 	border: none;
 	padding: 8px;
@@ -130,6 +135,17 @@ td, th {
 	margin-bottom: -30px;
 } /* Sets banner colors and custom font */
 
+.bookImage {
+	width: 300px;
+	border-radius: 6px;
+}
+
+.bookDescription {
+	padding-left: 40px;
+	padding-right: 40px;
+	text-align: left;
+}
+
 .overlay {
 	position: fixed;
 	top: 0;
@@ -174,8 +190,20 @@ td, th {
 	background-color: rgba(87,61,78,0.42);
 }
 
+.bookTable {
+	border-collapse: separate;
+	border-spacing: 0 1em;
+	height: 150px;
+	overflow: auto;
+}
+
 #comicWorldInTheNewAge, #comicWorldOther, #comicWorldHC, #bookWorldPitFighters {
 	visibility: hidden;
+	height: 810px;
+	overflow: auto;
+	background-color: rgba(2, 2, 15, 0.98);
+	width: 1000px;
+	border: black solid 30px;
 }
 
 /* All Comic Pages */
