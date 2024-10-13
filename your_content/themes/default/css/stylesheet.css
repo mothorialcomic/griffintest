@@ -90,6 +90,7 @@ td, th {
 	padding: 8px;
 	text-align: center;
 	vertical-align: middle;
+	width: 18px;
 }
 
 .news-column {
@@ -206,10 +207,6 @@ td, th {
 	height: 150px;
 	overflow: auto;
 	table-layout: fixed;
-}
-
-.pictureLeft {
-	width: 18px;
 }
 
 .entryTitle {
