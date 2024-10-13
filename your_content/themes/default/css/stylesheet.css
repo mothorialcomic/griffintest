@@ -140,6 +140,14 @@ td, th {
 	border-radius: 6px;
 }
 
+.borderOne {
+	background-color: rgba(87,61,78,0.42);
+}
+
+.borderTwo {
+	background-color: rgba(142,107,92,0.42);
+}
+
 .bookDescription {
 	padding-left: 40px;
 	padding-right: 40px;

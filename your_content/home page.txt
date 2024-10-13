@@ -104,14 +104,12 @@
 		</table>
     </div>
 	<div class="bookWorld" id="bookWorldPitFighters">
-        
-       
         <table class="bookTable">
 			<tbody>
-				<tr>
+				<tr class="borderOne">
 					<td>
-						<div class="bookImage">
-							<img src="/griffintest/your_content/images/banners/pf1-cover.jpg" alt="Image 1">
+						<div>
+							<img class="bookImage" src="/griffintest/your_content/images/books/pf1-cover.jpg" alt="Image 1">
 						</div>
 					</td>
 				<td class="bookDescription">
@@ -120,50 +118,127 @@
 							1 . The Opportunity<br>
 						</span>
 					</h4>
-<p><span style="color: #ffffff;"> <em>Join the Pit Fighters in its 77th season! We need new, fresh fighters willing to shake up the status quo and go all the way! Fame and fortune could be yours! Ages 16+, any body type, any skill level, no formal training required! Average monthly winnings start at 6600Ƌ.</em></span></p>
-<p><span style="color: #ffffff;">The start of a new series by Rick Griffin takes place on the Mediterranean paradise island of St. Marten-Cristo. Paris the rabbit finds himself unhappy with how his romantic life has been going, but learns his favorite sport, Pit Fighting, is open to new recruits. Could he possibly find happiness in the seedy world of arena combat?</span></p>
-<p><span style="color: #ffffff;">Available on<a href="https://www.smashwords.com/books/view/917684"> Smashwords</a> and <a href="https://www.amazon.com/Pit-Fighters-Opportunity-Rick-Griffin-ebook/dp/B07MMKSG8Z">Amazon</a></span></p>
-				</td>
-			</tr><tr style="background-color: rgba(87,61,78,0.42);">
-				<td>
-					<a class="image-link" href="https://mothorialcomic.github.io/griffintest/the-witch-of-kurikuto/comic/001/">
-						<img src="/griffintest/your_content/images/banners/in-the-new-age.png" alt="Image 1">
-					</a>
-				</td>
-				<td>
-					<h4><span style="color: #ffffff;">1 . The Opportunity<br>
-</span></h4>
-<p><span style="color: #ffffff;"> <em>Join the Pit Fighters in its 77th season! We need new, fresh fighters willing to shake up the status quo and go all the way! Fame and fortune could be yours! Ages 16+, any body type, any skill level, no formal training required! Average monthly winnings start at 6600Ƌ.</em></span></p>
-<p><span style="color: #ffffff;">The start of a new series by Rick Griffin takes place on the Mediterranean paradise island of St. Marten-Cristo. Paris the rabbit finds himself unhappy with how his romantic life has been going, but learns his favorite sport, Pit Fighting, is open to new recruits. Could he possibly find happiness in the seedy world of arena combat?</span></p>
-<p><span style="color: #ffffff;">Available on<a href="https://www.smashwords.com/books/view/917684"> Smashwords</a> and <a href="https://www.amazon.com/Pit-Fighters-Opportunity-Rick-Griffin-ebook/dp/B07MMKSG8Z">Amazon</a></span></p>
-				</td>
-			</tr><tr style="background-color: rgba(87,61,78,0.42);">
-				<td>
-					<a class="image-link" href="https://mothorialcomic.github.io/griffintest/the-witch-of-kurikuto/comic/001/">
-						<img src="/griffintest/your_content/images/banners/in-the-new-age.png" alt="Image 1">
-					</a>
-				</td>
-				<td style="padding-left: 40px;padding-right: 40px;text-align: left;">
-					<h4 style="/*! text-align: left; */font-size: 171.4%;"><span style="color: #ffffff;">1 . The Opportunity<br>
-</span></h4>
-<p><span style="color: #ffffff;/*! margin-left: 30px; *//*! margin-right: 20px; */"> <em>Join the Pit Fighters in its 77th season! We need new, fresh fighters willing to shake up the status quo and go all the way! Fame and fortune could be yours! Ages 16+, any body type, any skill level, no formal training required! Average monthly winnings start at 6600Ƌ.</em></span></p>
-<p><span style="color: #ffffff;">The start of a new series by Rick Griffin takes place on the Mediterranean paradise island of St. Marten-Cristo. Paris the rabbit finds himself unhappy with how his romantic life has been going, but learns his favorite sport, Pit Fighting, is open to new recruits. Could he possibly find happiness in the seedy world of arena combat?</span></p>
-<p><span style="color: #ffffff;">Available on<a href="https://www.smashwords.com/books/view/917684"> Smashwords</a> and <a href="https://www.amazon.com/Pit-Fighters-Opportunity-Rick-Griffin-ebook/dp/B07MMKSG8Z">Amazon</a></span></p>
-				</td>
-			</tr><tr style="background-color: rgba(87,61,78,0.42);">
-				<td>
-					<a class="image-link" href="https://mothorialcomic.github.io/griffintest/the-witch-of-kurikuto/comic/001/">
-						<img src="/griffintest/your_content/images/banners/in-the-new-age.png" alt="Image 1">
-					</a>
-				</td>
-				<td>
-					<h4><span style="color: #ffffff;">1 . The Opportunity<br>
-</span></h4>
-<p><span style="color: #ffffff;"> <em>Join the Pit Fighters in its 77th season! We need new, fresh fighters willing to shake up the status quo and go all the way! Fame and fortune could be yours! Ages 16+, any body type, any skill level, no formal training required! Average monthly winnings start at 6600Ƌ.</em></span></p>
-<p><span style="color: #ffffff;">The start of a new series by Rick Griffin takes place on the Mediterranean paradise island of St. Marten-Cristo. Paris the rabbit finds himself unhappy with how his romantic life has been going, but learns his favorite sport, Pit Fighting, is open to new recruits. Could he possibly find happiness in the seedy world of arena combat?</span></p>
-<p><span style="color: #ffffff;">Available on<a href="https://www.smashwords.com/books/view/917684"> Smashwords</a> and <a href="https://www.amazon.com/Pit-Fighters-Opportunity-Rick-Griffin-ebook/dp/B07MMKSG8Z">Amazon</a></span></p>
-				</td>
-			</tr>
+						<p>
+							<span>
+								<em>Join the Pit Fighters in its 77th season! We need new, fresh fighters willing to shake up the status quo and go all the way! Fame and fortune could be yours! Ages 16+, any body type, any skill level, no formal training required! Average monthly winnings start at 6600Ƌ.</em>
+							</span>
+						</p>
+						<p>
+							<span>
+								The start of a new series by Rick Griffin takes place on the Mediterranean paradise island of St. Marten-Cristo. Paris the rabbit finds himself unhappy with how his romantic life has been going, but learns his favorite sport, Pit Fighting, is open to new recruits. Could he possibly find happiness in the seedy world of arena combat?
+							</span>
+						</p>
+						<p>
+							<span>Available on
+								<a href="https://www.smashwords.com/books/view/917684"> Smashwords</a> and <a href="https://www.amazon.com/Pit-Fighters-Opportunity-Rick-Griffin-ebook/dp/B07MMKSG8Z">Amazon</a>
+							</span>
+						</p>
+					</td>
+				</tr>
+				<tr class="borderTwo">
+					<td class="bookDescription">
+						<h4>
+							<span>
+								2. Orientation<br>
+							</span>
+						</h4>
+						<p>
+							<span>
+								<em>Paris realized: he did not know what he was doing. Why did he think he could succeed as a pit fighter? Because he found the fighters hot, with Porte being nowhere near an exception? Or because he took a few martial arts classes as a kid? That was over a decade ago! Sure, he managed four years worth, until the… backwards elbow incident…</em>
+							</span>
+						</p>
+						<p>
+							<span>
+								The second story in the new series by Rick Griffin takes place on the Mediterranean paradise island of St. Marten-Cristo. After discovering his contract has him trapped in the lowest ranks of the pit fighters, Paris tries to make the most of it--or at least, he will once he can get over the jitters that comes with fighting for real.
+							</span>
+						</p>
+						<p>
+							<span>This book contains some adult content and situations. Available on <a href="https://www.smashwords.com/books/view/945734" target="_blank" rel="noopener">Smashwords</a>
+							</span>
+						</p>
+					</td>
+					<td>
+						<div>
+							<img class="bookImage" src="/griffintest/your_content/images/books/pf2-cover.jpg" alt="Image 1">
+						</div>
+					</td>
+				</tr>
+				<tr class="borderOne">
+					<td>
+						<div>
+							<img class="bookImage" src="/griffintest/your_content/images/books/pf3-cover.jpg" alt="Image 1">
+						</div>
+					</td>
+				<td class="bookDescription">
+					<h4>
+						<span>
+							3. Side Gig<br>
+						</span>
+					</h4>
+						<p>
+							<span>
+								<em>“Oh, it looks like my books have arrived,” said the massive red-and-cream kangaroo. His voice was deep, but soothing like a massage chair. Paris couldn’t help but throw his eyes all over the perfect specimen before him—shoulders almost as wide as he was tall, thick rippling abs, firm pecs, thick legs, and his… well, his…</em>
+							</span>
+						</p>
+						<p>
+							<span>
+								<em>Paris looked up before his dream-come-true noticed him staring at his crotch.</em>
+							</span>
+						</p>
+						<p>
+							<span>
+								<em>“S-S-Sultan?” Paris eked out.</em>
+							</span>
+						</p>
+						<p>
+							<span>
+								The third story by Rick Griffin that takes place on the Mediterranean paradise island of St. Marten-Cristo. Paris wants out of his obligations and is looking to buy his way out, so takes on a side job he hopes will earn him enough money to be free by the end of the decade. It doesn't go very well.
+							</span>
+						</p>
+						<p>
+							<span>This book contains adult content and situations. Available on<a href="https://www.smashwords.com/books/view/1016030" target="_blank" rel="noopener"> Smashwords</a>
+							</span>
+						</p>
+					</td>
+				</tr>
+				<tr class="borderTwo">
+					<td class="bookDescription">
+						<h4>
+							<span>
+								4. Family Ties<br>
+							</span>
+						</h4>
+						<p>
+							<span>
+								<em>Paris sighed. “Like, before I came here, I promised my mom I’d let her watch me fight if we did a public exhibition somewhere she could access.”</em>
+							</span>
+						</p>
+						<p>
+							<span>
+								<em>“Your mom!” Logan’s eyes lit up, and he started scrubbing Paris down harder like they were late for a dinner date. “She’ll be proud of how far you’ve come in the last few months!”</em>
+							</span>
+						</p>
+						<p>
+							<span>
+								<em>“No, no no!” Paris said. “I haven’t told her anything about my contract situation!”</em>
+							</span>
+						</p>
+						<p>
+							<span>
+								The fourth story by Rick Griffin takes place on the Mediterranean paradise island of St. Marten-Cristo. Paris finally decides to take his training as a Pit Fighter seriously. But can he face the harshest opponent of all--actually having to admit his problems to his mother?!
+							</span>
+						</p>
+						<p>
+							<span>This book contains some (a lot of) adult content and situations. Available on <a href="https://www.smashwords.com/books/view/1095782" target="_blank" rel="noopener">Smashwords</a>
+							</span>
+						</p>
+					</td>
+					<td>
+						<div>
+							<img class="bookImage" src="/griffintest/your_content/images/books/pf4-cover.jpg" alt="Image 1">
+						</div>
+					</td>
+				</tr>
 		</tbody></table>
     
     
