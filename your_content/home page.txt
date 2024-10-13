@@ -104,10 +104,11 @@
 		</table>
     </div>
 	<div class="bookWorld" id="bookWorldPitFighters">
+		<h1 class="entryTitle">Pit Fighters</h1>
         <table class="bookTable">
 			<tbody>
 				<tr class="borderOne">
-					<td>
+					<td class="pictureLeft">
 						<div>
 							<img class="bookImage" src="/griffintest/your_content/images/books/pf1-cover.jpg" alt="Image 1">
 						</div>
@@ -164,7 +165,7 @@
 					</td>
 				</tr>
 				<tr class="borderOne">
-					<td>
+					<td class="pictureLeft">
 						<div>
 							<img class="bookImage" src="/griffintest/your_content/images/books/pf3-cover.jpg" alt="Image 1">
 						</div>
