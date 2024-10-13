@@ -230,6 +230,7 @@ td, th {
 	color: white;
 	font-size: 4rem;
 	margin-top: -10px;
+	font-weight: normal;
 }
 
 .felidaeIcon {
@@ -289,6 +290,12 @@ td, th {
 	border-style: double;
 	border-width: 9px;
 	background-color: #111111;
+}
+
+.borderTwoAnidroids {
+	min-height: 419px;
+	display: flex;
+	align-items: center;
 }
 
 #comicWorldInTheNewAge, #comicWorldOther, #comicWorldHC, #bookWorldPitFighters {

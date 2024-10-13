@@ -259,8 +259,8 @@
 				</div>
 			</div>
 			<h5 style="text-align: center;color: white;font-size: 33px;font-weight: normal;">Other stories!</h5>
-			<div class="borderOne" style="margin-bottom: 30px;min-height: 419px;display: flex;align-items: center;height: 100%;">
-				<div class="pictureLeft" style="width: 330px;">
+			<div class="borderTwoAnidroids">
+				<div class="pictureLeft">
 					<img class="felidaeIcon" src="/griffintest/your_content/images/books/storyboard011.jpg" alt="Image 1">
 				</div>
 				<div class="felidaeDescription">
