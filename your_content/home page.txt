@@ -155,10 +155,13 @@
 						</span>
 					</p>
 				</div>
+				<div class="pictureLeft" style="width: 330px;position: relative;">
+						<img class="bookImage" src="/griffintest/your_content/images/books/pf2-cover.jpg" alt="Image 1" style="margin-right: 47px;/*! margin-top: 16px; *//*! margin-left: 30px; */">
+					</div>
 			</div>
 			<div class="borderOne" style="margin-bottom: 30px;min-height: 419px;display: flex;align-items: center;height: 100%;">
 				<div class="pictureLeft" style="width: 330px;">
-					<img class="bookImage" src="/griffintest/your_content/images/books/pf1-cover.jpg" alt="Image 1" style="margin-right: 110px;/*! margin-top: 16px; */margin-left: 30px;">
+					<img class="bookImage" src="/griffintest/your_content/images/books/pf3-cover.jpg" alt="Image 1" style="margin-right: 110px;/*! margin-top: 16px; */margin-left: 30px;">
 				</div>
 				<div class="bookDescription" style="/*! padding-top: 60px; */padding-left: -70px;margin-left: -1px;">
 					<h4>
@@ -220,10 +223,13 @@
 						</span>
 					</p>
 					<p>
-						<span>This book contains some (a lot of) adult content and situations. Available on <a href="https://www.smashwords.com/books/view/1095782" target="_blank" rel="noopener">Smashwords</a>
+						<span>This book contains some (a lot of) adult content and situations.<br>Available on <a href="https://www.smashwords.com/books/view/1095782" target="_blank" rel="noopener">Smashwords</a>
 						</span>
 					</p>						
 				</div>
+				<div class="pictureLeft" style="width: 330px;position: relative;">
+						<img class="bookImage" src="/griffintest/your_content/images/books/pf4-cover.jpg" alt="Image 1" style="margin-right: 47px;/*! margin-top: 16px; *//*! margin-left: 30px; */">
+					</div>
 			</div>
 		</div>
     </div>
