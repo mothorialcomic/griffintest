@@ -156,7 +156,7 @@
 					</p>
 				</div>
 				<div class="pictureLeft" style="width: 330px;position: relative;">
-						<img class="bookImage" src="/griffintest/your_content/images/books/pf2-cover.jpg" alt="Image 1" style="margin-right: 47px;/*! margin-top: 16px; *//*! margin-left: 30px; */">
+						<img class="bookImage" src="/griffintest/your_content/images/books/pf2-cover.jpg" alt="Image 1" style="margin-right: 30px;">
 					</div>
 			</div>
 			<div class="borderOne" style="margin-bottom: 30px;min-height: 419px;display: flex;align-items: center;height: 100%;">
@@ -228,7 +228,7 @@
 					</p>						
 				</div>
 				<div class="pictureLeft" style="width: 330px;position: relative;">
-						<img class="bookImage" src="/griffintest/your_content/images/books/pf4-cover.jpg" alt="Image 1" style="margin-right: 47px;/*! margin-top: 16px; *//*! margin-left: 30px; */">
+						<img class="bookImage" src="/griffintest/your_content/images/books/pf4-cover.jpg" alt="Image 1" style="margin-right: 30px;">
 					</div>
 			</div>
 		</div>

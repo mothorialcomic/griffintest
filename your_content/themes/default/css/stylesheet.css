@@ -204,7 +204,6 @@ td, th {
 .bookTable {
 	border-collapse: separate;
 	border-spacing: 0 1em;
-	height: 150px;
 	overflow: auto;
 	table-layout: fixed;
 }
