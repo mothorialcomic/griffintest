@@ -173,6 +173,20 @@ td, th {
 	visibility: hidden;
 }
 
+.whiteText {
+	color: white;
+}
+
+.redLink {
+	color: #ff2a13;
+	text-decoration: none;
+}
+
+.anidroidsTitle {
+	font-size: 40px;
+	margin-top: -40px;
+}
+
 .comicWorld {
 	position: fixed;
 	top: 50%;
@@ -208,10 +222,73 @@ td, th {
 	table-layout: fixed;
 }
 
+.pictureLeft {
+	width: 330px;
+}
+
 .entryTitle {
 	color: white;
 	font-size: 4rem;
 	margin-top: -10px;
+}
+
+.felidaeIcon {
+	margin-right: 110px;
+	margin-left: 30px;
+	width: 403px;
+	height: 384px;
+}
+
+.felidaeDescription {
+	margin-left: 329px;
+	text-align: center;
+}
+
+.anidroids {
+	font-size: 1.5rem;
+	font-weight: normal;
+	text-align: left;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.anidroidsTwo {
+	font-size: 1.2rem;
+	font-weight: normal;
+	text-align: left;
+	color: rgb(237, 255, 204);
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-top: 10px;
+}
+
+.anidroidsTable {
+	color: rgb(237, 255, 204);
+	margin-top: 50px;
+}
+
+.bookIMageAnidroids {
+	margin-right: 110px;
+	margin-left: 30px;
+}
+
+.anidroidsText {
+	color: rgb(237, 255, 204);
+}
+
+.anidroidsDescription {
+	margin-top: -60px;
+}
+
+.borderOneAnidroids {
+	min-height: 419px;
+	display: flex;
+	align-items: center;
+	height: 100%;
+	padding: 45px 0px;
+	border-style: double;
+	border-width: 9px;
+	background-color: #111111;
 }
 
 #comicWorldInTheNewAge, #comicWorldOther, #comicWorldHC, #bookWorldPitFighters {

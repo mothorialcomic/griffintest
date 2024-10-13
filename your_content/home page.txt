@@ -234,5 +234,44 @@
 			</div>
 		</div>
     </div>
+	<div class="bookWorld" id="bookWorldAniDroids">
+		<h1 class="entryTitle">Ani-Droids</h1>
+		<h2 class="anidroidsOne">Generation pass, and change is inevitable</h2>
+		<h2 class="anidroidsTwo">200 years in the future, the world is still hurting from the scars of the conflicts it has wrought, and in that time people have remade society with new technology to live the normal lives humans strive for. This technology is vastly complex, so much so that laws have limited its scope so humanity does not lose control of it again. But can the bottle be plugged forever?</h2>
+		<div class="anidroidsTable">
+			<div class="borderOneAnidroids">
+				<div class="pictureLeft">
+					<img class="bookImageAnidroids" alt="Image 1">
+				</div>
+				<div class="anidroidsText">
+					<div class="anidroidsDescription">
+						<div>
+							<h6 class="whiteText">Novel</h6>
+							<h2 class="whiteText anidroidsTitle">Ani-droids</h2>
+							<p>The world is good. The world is perfect. The world will not be changed from its course.</p>
+							<p>In violation of the will of the Collective, Mira McAllister set out to create a new breed of ani-droids that can think for themselves. But when she discovers a mouse-droid with unusual quirks to her programming—and darker secrets besides—she may have set in motion an accidental rebellion.</p>
+							<p>The Collective must not find out.</p>
+							<p>But the Collective is every other ani-droid on Earth.</p>
+							<p><a class="redLink" href="https://www.smashwords.com/books/view/1434225" target="_blank">Get the ebook on Smashwords</a><br>
+							<a class="redLink" href="https://mybook.to/ani-droids" target="_blank">Get the paperback on Amazon</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<h5 style="text-align: center;color: white;font-size: 33px;font-weight: normal;">Other stories!</h5>
+			<div class="borderOne" style="margin-bottom: 30px;min-height: 419px;display: flex;align-items: center;height: 100%;">
+				<div class="pictureLeft" style="width: 330px;">
+					<img class="felidaeIcon" src="/griffintest/your_content/images/books/storyboard011.jpg" alt="Image 1">
+				</div>
+				<div class="felidaeDescription">
+					<h4 style="text-align: center;">
+						<span>Felidae<br>
+						</span>
+					</h4>
+					<p><a class="redLink" href="http://rickgriffinstudios.com/felidae/">Read now!</a></p>
+				</div>
+			</div>
+		</div>
+    </div>
 </body>
 </html>
