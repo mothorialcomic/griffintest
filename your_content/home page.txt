@@ -268,7 +268,7 @@
 						<span>Felidae<br>
 						</span>
 					</h4>
-					<p><a class="redLink" href="http://rickgriffinstudios.com/felidae/">Read now!</a></p>
+					<p><a class="redLink" href="http://rickgriffinstudios.com/felidae/" style="font-size: 20px;">Read now!</a></p>
 				</div>
 			</div>
 		</div>
