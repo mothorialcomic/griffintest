@@ -175,6 +175,7 @@ td, th {
 
 .whiteText {
 	color: white;
+	font-weight: normal;
 }
 
 .redLink {

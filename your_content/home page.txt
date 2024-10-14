@@ -274,5 +274,125 @@
 			</div>
 		</div>
     </div>
+	<div class="bookWorld" id="bookWorldAniDroids" style="visibility: visible;">
+		<h1 class="entryTitle">
+Hayven Celestia
+</h1>
+		<h2 class="anidroidsOne">The laws benefit the lawmakers</h2>
+		<h2 class="anidroidsTwo">Space is vast. Though worlds are plentiful, in the end their rulers are the ones with the strength and technology to conquer and hold. Who can stand in their way?</h2><h2 class="anidroidsTwo">This is not about power, but the survival of those who carve out a life for themselves and dream of a place they might call home.</h2>
+		<h2 class="anidroidsOne" style="margin-top: 30px;">There's a lot of books here</h2><h2 class="anidroidsTwo" style="">The fans, all the time they be asking me: "Rick, what order should I read these books in?" And that's why I'm making this handy-dandy chart here.</h2><h2 class="anidroidsTwo" style="">Skinchange, the comic you can access below, is going to periodically update with an ongoing story unconnected to any of the following works. All the books below are prose with illustrations.</h2><div class="anidroidsTable">
+			<div class="borderOneAnidroids" style="border: none;background-color: rgba(17,17,17,0.42);">
+				<div class="pictureLeft">
+					<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/banners/ad-icon.png" style="margin-left: 210px;">
+				</div>
+				<div class="anidroidsText" style="margin-left: 200px;">
+					<div class="anidroidsDescription">
+						<div>
+							<h6 class="whiteText novel">Comic</h6>
+							
+							<h2 class="whiteText anidroidsTitle">Skinchange</h2><p><a class="redLink" href="https://mothorialcomic.github.io/griffintest/the-storyboard/comic/011/" style="font-size: 20px;">Read now!</a></p>
+							
+							
+							
+							
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			
+		</div><div class="anidroidsTable" style="min-height: 419px;border-style: double;border-width: 9px;background-color: rgb(17, 17, 17);">
+			
+			
+			
+		<div class="anidroidsTable">
+			<div class="anidroidsText">
+					
+				</div><h6 class="whiteText" style="font-size: 54px;color: white;margin-top: 60px;text-align: center;font-weight: normal;">The Final Days of the White Flower II</h6><div class="borderOneAnidroids" style="padding-top: -130px;position: relative;margin-top: -200px;">
+				<div class="pictureLeft" style="">
+					<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/banners/ad-icon.png" style="margin-right: 110px;margin-left: 30px;width: 258px;">
+				</div>
+				<div class="anidroidsText" style="padding-top: 150px;">
+					<div class="anidroidsDescription" style="text-align: left;">
+						<div style="/*! text-align: left; */font-weight: normal;margin-right: 18px;">
+							
+							
+							<p><h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -40px;text-align: left;font-weight: normal;">1: TRAITORS, THIEVES AND LIARS</h2>The Final Days of the White Flower II is a novel trilogy retelling of the short story "Ten Thousand Miles Up". Note that "Ten Thousand Miles Up", avaiable on Smashwords, will contain some spoilers for the trilogy, so depending on how avoidant you are of spoilers, you may wish to wait for the trilogy to be complete!</p>
+							<p style="text-align: left;">Traitors, Thieves and Liars follows Subcommander Gert, next in line to be captain of the White Flower II, a krakun slave ship served by geroo. The ship is waylaid by pirates who have a very interesting and dangerous offer, which Captain Ateri cannot simply ignore.</p>
+							<p style="font-weight: bold;">The Final Days of the White Flower II trilogy is meant to be read on its own and does not require you have read any of the other books. It takes place chronologically after The Kanti Cycle, but is not required reading.</p>
+							
+
+
+
+<p class="redLink"><a href="https://gre7g.com/store/index.php?main_page=product_info&amp;cPath=0&amp;products_id=12" target="_blank" rel="noopener">Buy it at gre7g.com</a></p>
+<p class="redLink"><a href="http://mybook.to/traitorsthievesliars" target="_blank" rel="noopener">Buy it on Amazon</a></p>
+<p class="redLink"><a href="https://www.smashwords.com/books/view/924593" target="_blank" rel="noopener">Buy it on Smashwords</a></p>
+<p class="redLink"><a href="https://www.audible.com/pd/B093LG5J4D/?source_code=AUDFPWS0223189MWT-BK-ACX0-253964&amp;ref=acx_bty_BK_ACX0_253964_rh_us" target="_blank" rel="noopener">Get the audiobook</a></p>
+							
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			
+		</div><div class="anidroidsTable">
+			<div class="borderOneAnidroids" style="padding-top: 40px;">
+				
+				
+			<div class="anidroidsDescription" style="text-align: left;margin-left: 10px;">
+						<div style="/*! text-align: left; */font-weight: normal;margin-left: 18px;">
+							
+							<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -40px;text-align: left;font-weight: normal;">2: THE CAPTAIN'S OATH</h2>
+							<p>The Captain's Oath is the second book of The Final Days of the White Flower II. It follows Subcommander Tesko, science officer of the White Flower II, as she discovers the conspiracy the captain has embroiled them all in. She is at first very enthusiastic about the prospect of escape from their slavery, but things quickly take a turn for the worse.</p>
+							
+							<p style="font-weight: bold;">The Final Days of the White Flower II trilogy is meant to be read on its own and does not require you have read any of the other books. It takes place chronologically after The Kanti Cycle, but is not required reading.</p>
+							
+
+
+
+
+
+
+
+							
+						
+
+
+<p><a href="https://gre7g.com/store/index.php?main_page=product_info&amp;cPath=0&amp;products_id=13" target="_blank" rel="noopener">Buy it at gre7g.com</a></p>
+<p><a href="http://mybook.to/TheCaptainsOath" target="_blank" rel="noopener">Buy it on Amazon</a></p>
+<p><a href="https://www.smashwords.com/books/view/1070464" target="_blank" rel="noopener">Buy it on Smashwords</a></p>
+<p><a href="https://www.audible.com/pd/The-Captains-Oath-Audiobook/B098886CST?source_code=AUDFPWS0223189MWT-BK-ACX0-265681&amp;ref=acx_bty_BK_ACX0_265681_rh_us" target="_blank" rel="noopener">Get the audiobook</a></p></div>
+					</div><div class="pictureLeft" style="margin-top: -119px;">
+					<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/banners/ad-icon.png" style="margin-right: 30px;margin-left: 30px;width: 258px;">
+				</div></div>
+			
+			
+		</div><div class="anidroidsTable">
+			<div style="/*! text-align: left; */font-weight: normal;margin-left: 18px;">
+							
+							
+							<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -40px;text-align: center;font-weight: normal;">BOOK 3 COMING SOON</h2>
+							
+							
+							
+
+
+
+
+
+
+
+							
+						
+
+
+
+
+
+</div>
+			
+			
+		</div></div>
+    </div>
 </body>
 </html>
