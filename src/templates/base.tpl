@@ -46,7 +46,7 @@
 <div id="container">
     <div id="banner">
         <a id="banner-img-link" href="{{ base_dir }}/">
-            <img id="banner-img" alt="banner" src="{{ banner_image }}">
+            <img id="banner-img" alt="banner" src="{{ banner_image }}" style="margin-top: -40px;">
         </a>
     </div>
 
