@@ -59,6 +59,24 @@
 														</tr>
 													</table>
 												</div>
+												<h2 class="bookBanner">OTHER</h2>
+												<div class="comicList">
+										<table class="otherTable">
+											<tbody><tr>
+												
+													<td>
+														<a class="image-link" href="https://www.rickgriffinstudios.com/store/">
+															<img alt="Image 2" src="/griffintest/your_content/images/banners/store-pb2-2.png">
+					</a>
+														</td>
+														<td>
+															<a class="image-link" href="https://www.patreon.com/rickgriffin">
+																<img alt="Image 2" src="/griffintest/your_content/images/banners/patreon-support.png">
+					</a>
+															</td>
+														</tr>
+													</tbody></table>
+												</div>
 												<div class="comicWorld" id="comicWorldInTheNewAge">
 													<table>
 														<tr>

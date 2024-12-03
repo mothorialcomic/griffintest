@@ -79,6 +79,12 @@ table {
 	border-collapse: collapse;
 }
 
+.otherTable {
+	width:63%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 h4 {
 	font-size: 32px;
 	color: white;
