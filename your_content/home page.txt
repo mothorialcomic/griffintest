@@ -1,398 +1,384 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<head>
+		<meta charset="UTF-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-<body>
-	<h2 class="comicBanner">COMICS</h2>
-    <div class="comicList">
-		<table>
-			<tr>
-				<td>
-					<a class="image-link" href="https://mothorialcomic.github.io/griffintest/housepets/comic/0001/">
-						<img src="/griffintest/your_content/images/banners/housepets2.png" alt="Image 1">
+			<body>
+				<h2 class="comicBanner">COMICS</h2>
+				<div class="comicList">
+					<table>
+						<tr>
+							<td>
+								<a class="image-link" href="https://mothorialcomic.github.io/griffintest/housepets/comic/0001/">
+									<img src="/griffintest/your_content/images/banners/housepets2.png" alt="Image 1">
 					</a>
-				</td>
-				<td>
-					<a class="image-link" href="https://mothorialcomic.github.io/griffintest/ah-club/comic/001/">
-						<img src="/griffintest/your_content/images/banners/AH-icon2.png" alt="Image 2">
+								</td>
+								<td>
+									<a class="image-link" href="https://mothorialcomic.github.io/griffintest/ah-club/comic/001/">
+										<img src="/griffintest/your_content/images/banners/AH-icon2.png" alt="Image 2">
 					</a>
-				</td>
-				<td>
-					<a class="image-link" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'visible';">
-						<img src="/griffintest/your_content/images/banners/in-the-new-age.png" alt="Image 2">
+									</td>
+									<td>
+										<a class="image-link" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'visible';">
+											<img src="/griffintest/your_content/images/banners/in-the-new-age.png" alt="Image 2">
 					</a>
-				</td>
-				<td>
-					<a class="image-link" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; document.getElementById('comicWorldOther').style.visibility = 'visible';">
-						<img src="/griffintest/your_content/images/banners/the-storyboard.png" alt="Image 1">
+										</td>
+										<td>
+											<a class="image-link" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; document.getElementById('comicWorldOther').style.visibility = 'visible';">
+												<img src="/griffintest/your_content/images/banners/the-storyboard.png" alt="Image 1">
 					</a>
-				</td>
-				<td>
-					<a class="image-link" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; document.getElementById('comicWorldHC').style.visibility = 'visible';">
-						<img src="/griffintest/your_content/images/banners/hc-icon.png" alt="Image 2">
+											</td>
+											<td>
+												<a class="image-link" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; document.getElementById('comicWorldHC').style.visibility = 'visible';">
+													<img src="/griffintest/your_content/images/banners/hc-icon.png" alt="Image 2">
 					</a>
-				</td>
-			</tr>
-		</table>
-	</div>
-	<h2 class="bookBanner">BOOKS</h2>
-	<div class="comicList">
-		<table>
-			<tr>
-				<td>
-					<a class="image-link" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; document.getElementById('bookWorldPitFighters').style.visibility = 'visible';">
-						<img src="/griffintest/your_content/images/banners/PF-icon.png" alt="Image 1">
+												</td>
+											</tr>
+										</table>
+									</div>
+									<h2 class="bookBanner">BOOKS</h2>
+									<div class="comicList">
+										<table>
+											<tr>
+												<td>
+													<a class="image-link" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; document.getElementById('bookWorldPitFighters').style.visibility = 'visible';">
+														<img src="/griffintest/your_content/images/banners/PF-icon.png" alt="Image 1">
 					</a>
-				</td>
-				<td>
-					<a class="image-link" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; document.getElementById('bookWorldAniDroids').style.visibility = 'visible';">
-						<img src="/griffintest/your_content/images/banners/ad-icon.png" alt="Image 2">
+													</td>
+													<td>
+														<a class="image-link" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; document.getElementById('bookWorldAniDroids').style.visibility = 'visible';">
+															<img src="/griffintest/your_content/images/banners/ad-icon.png" alt="Image 2">
 					</a>
-				</td>
-				<td>
-					<a class="image-link" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; document.getElementById('bookWorldHC').style.visibility = 'visible';">
-						<img src="/griffintest/your_content/images/banners/hc-icon.png" alt="Image 2">
+														</td>
+														<td>
+															<a class="image-link" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; document.getElementById('bookWorldHC').style.visibility = 'visible';">
+																<img src="/griffintest/your_content/images/banners/hc-icon.png" alt="Image 2">
 					</a>
-				</td>
-			</tr>
-		</table>
-	</div>
-	<div class="overlay" id="overlayHome" onclick="document.getElementById('overlayHome').style.visibility = 'hidden'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'hidden'; document.getElementById('comicWorldOther').style.visibility = 'hidden';  document.getElementById('comicWorldHC').style.visibility = 'hidden';
+															</td>
+														</tr>
+													</table>
+												</div>
+												<div class="overlay" id="overlayHome" onclick="document.getElementById('overlayHome').style.visibility = 'hidden'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'hidden'; document.getElementById('comicWorldOther').style.visibility = 'hidden';  document.getElementById('comicWorldHC').style.visibility = 'hidden';
 	document.getElementById('bookWorldPitFighters').style.visibility = 'hidden';
-	document.getElementById('bookWorldAniDroids').style.visibility = 'hidden';"></div>
-	<div class="comicWorld" id="comicWorldInTheNewAge">
-        <table>
-			<tr>
-				<td>
-					<a class="image-link" href="https://mothorialcomic.github.io/griffintest/the-witch-of-kurikuto/comic/001/">
-						<img src="/griffintest/your_content/images/banners/in-the-new-age.png" alt="Image 1">
+	document.getElementById('bookWorldAniDroids').style.visibility = 'hidden'; document.getElementById('bookWorldHC').style.visibility = 'hidden';"/>
+												<div class="comicWorld" id="comicWorldInTheNewAge">
+													<table>
+														<tr>
+															<td>
+																<a class="image-link" href="https://mothorialcomic.github.io/griffintest/the-witch-of-kurikuto/comic/001/">
+																	<img src="/griffintest/your_content/images/banners/in-the-new-age.png" alt="Image 1">
 					</a>
-				</td>
-				<td>
-					<a class="image-link" href="https://mothorialcomic.github.io/griffintest/traces-of-the-past/comic/001/">
-						<img src="/griffintest/your_content/images/banners/in-the-new-age.png" alt="Image 2">
+																</td>
+																<td>
+																	<a class="image-link" href="https://mothorialcomic.github.io/griffintest/traces-of-the-past/comic/001/">
+																		<img src="/griffintest/your_content/images/banners/in-the-new-age.png" alt="Image 2">
 					</a>
-				</td>
-			</tr>
-		</table>
-    </div>
-	<div class="comicWorld" id="comicWorldOther">
-        <table>
-			<tr>
-				<td>
-					<a class="image-link" href="https://mothorialcomic.github.io/griffintest/the-storyboard/comic/001/">
-						<img src="/griffintest/your_content/images/banners/the-storyboard.png" alt="Image 1">
+																	</td>
+																</tr>
+															</table>
+														</div>
+														<div class="comicWorld" id="comicWorldOther">
+															<table>
+																<tr>
+																	<td>
+																		<a class="image-link" href="https://mothorialcomic.github.io/griffintest/the-storyboard/comic/001/">
+																			<img src="/griffintest/your_content/images/banners/the-storyboard.png" alt="Image 1">
 					</a>
-				</td>
-				<td>
-					<a class="image-link" href="https://mothorialcomic.github.io/griffintest/zootopia-night-terrors/comic/001/">
-						<img src="/griffintest/your_content/images/banners/AH-icon2.png" alt="Image 2">
+																		</td>
+																		<td>
+																			<a class="image-link" href="https://mothorialcomic.github.io/griffintest/zootopia-night-terrors/comic/001/">
+																				<img src="/griffintest/your_content/images/banners/AH-icon2.png" alt="Image 2">
 					</a>
-				</td>
-			</tr>
-		</table>
-    </div>
-	<div class="comicWorld" id="comicWorldHC">
-        <table>
-			<tr>
-				<td>
-					<a class="image-link" href="https://mothorialcomic.github.io/griffintest/skinchange/comic/001/">
-						<img src="/griffintest/your_content/images/banners/hc-icon.png" alt="Image 1">
+																			</td>
+																		</tr>
+																	</table>
+																</div>
+																<div class="comicWorld" id="comicWorldHC">
+																	<table>
+																		<tr>
+																			<td>
+																				<a class="image-link" href="https://mothorialcomic.github.io/griffintest/skinchange/comic/001/">
+																					<img src="/griffintest/your_content/images/banners/hc-icon.png" alt="Image 1">
 					</a>
-				</td>
-			</tr>
-		</table>
-    </div>
-	<div class="bookWorld" id="bookWorldPitFighters">
-		<h1 class="entryTitle">Pit Fighters</h1>
-		<div class="bookTable">
-			<div class="borderOne" style="margin-bottom: 30px;min-height: 419px;display: flex;align-items: center;height: 100%;">
-				<div class="pictureLeft" style="width: 330px;">
-					<img class="bookImage" src="/griffintest/your_content/images/books/pf1-cover.jpg" alt="Image 1" style="margin-right: 110px;/*! margin-top: 16px; */margin-left: 30px;">
+																				</td>
+																			</tr>
+																		</table>
+																	</div>
+																	<div class="bookWorld" id="bookWorldPitFighters">
+																		<h1 class="entryTitle">Pit Fighters</h1>
+																		<div class="bookTable">
+																			<div class="borderOne" style="margin-bottom: 30px;min-height: 419px;display: flex;align-items: center;height: 100%;">
+																				<div class="pictureLeft" style="width: 330px;">
+																					<img class="bookImage" src="/griffintest/your_content/images/books/pf1-cover.jpg" alt="Image 1" style="margin-right: 110px;/*! margin-top: 16px; */margin-left: 30px;">
 				</div>
-				<div class="bookDescription" style="/*! padding-top: 60px; */padding-left: -70px;margin-left: -1px;">
-					<h4>
-						<span>
+																					<div class="bookDescription" style="/*! padding-top: 60px; */padding-left: -70px;margin-left: -1px;">
+																						<h4>
+																							<span>
 							1 . The Opportunity<br>
 						</span>
-					</h4>
-					<p>
-						<span>
-							<em>Join the Pit Fighters in its 77th season! We need new, fresh fighters willing to shake up the status quo and go all the way! Fame and fortune could be yours! Ages 16+, any body type, any skill level, no formal training required! Average monthly winnings start at 6600Ƌ.</em>
-						</span>
-					</p>
-					<p>
-						<span>
+																							</h4>
+																							<p>
+																								<span>
+																									<em>Join the Pit Fighters in its 77th season! We need new, fresh fighters willing to shake up the status quo and go all the way! Fame and fortune could be yours! Ages 16+, any body type, any skill level, no formal training required! Average monthly winnings start at 6600Ƌ.</em>
+																								</span>
+																							</p>
+																							<p>
+																								<span>
 							The start of a new series by Rick Griffin takes place on the Mediterranean paradise island of St. Marten-Cristo. Paris the rabbit finds himself unhappy with how his romantic life has been going, but learns his favorite sport, Pit Fighting, is open to new recruits. Could he possibly find happiness in the seedy world of arena combat?
 						</span>
-					</p>
-					<p>
-						<span>Available on
+																							</p>
+																							<p>
+																								<span>Available on
 							<a href="https://www.smashwords.com/books/view/917684"> Smashwords</a> and <a href="https://www.amazon.com/Pit-Fighters-Opportunity-Rick-Griffin-ebook/dp/B07MMKSG8Z">Amazon</a>
-						</span>
-					</p>
-				</div>
-			</div>
-			<div style="margin-bottom: 30px;min-height: 419px;display: flex;align-items: center;height: 100%;" class="borderTwo">
-				<div class="bookDescription" style="padding-left: 30px;margin-top: 30px;margin-bottom: 16px;">
-					<h4>
-						<span>
+																								</span>
+																							</p>
+																						</div>
+																					</div>
+																					<div style="margin-bottom: 30px;min-height: 419px;display: flex;align-items: center;height: 100%;" class="borderTwo">
+																						<div class="bookDescription" style="padding-left: 30px;margin-top: 30px;margin-bottom: 16px;">
+																							<h4>
+																								<span>
 							2. Orientation<br>
 						</span>
-					</h4>
-					<p>
-						<span>
-							<em>Paris realized: he did not know what he was doing. Why did he think he could succeed as a pit fighter? Because he found the fighters hot, with Porte being nowhere near an exception? Or because he took a few martial arts classes as a kid? That was over a decade ago! Sure, he managed four years worth, until the… backwards elbow incident…</em>
-						</span>
-					</p>
-					<p>
-						<span>
+																								</h4>
+																								<p>
+																									<span>
+																										<em>Paris realized: he did not know what he was doing. Why did he think he could succeed as a pit fighter? Because he found the fighters hot, with Porte being nowhere near an exception? Or because he took a few martial arts classes as a kid? That was over a decade ago! Sure, he managed four years worth, until the… backwards elbow incident…</em>
+																									</span>
+																								</p>
+																								<p>
+																									<span>
 							The second story in the new series by Rick Griffin takes place on the Mediterranean paradise island of St. Marten-Cristo. After discovering his contract has him trapped in the lowest ranks of the pit fighters, Paris tries to make the most of it--or at least, he will once he can get over the jitters that comes with fighting for real.
 						</span>
-					</p>
-					<p>
-						<span>This book contains some adult content and situations. Available on <a href="https://www.smashwords.com/books/view/945734" target="_blank" rel="noopener">Smashwords</a>
-						</span>
-					</p>
-				</div>
-				<div class="pictureLeft" style="width: 330px;position: relative;">
-						<img class="bookImage" src="/griffintest/your_content/images/books/pf2-cover.jpg" alt="Image 1" style="margin-right: 30px;">
+																								</p>
+																								<p>
+																									<span>This book contains some adult content and situations. Available on <a href="https://www.smashwords.com/books/view/945734" target="_blank" rel="noopener">Smashwords</a>
+																									</span>
+																								</p>
+																							</div>
+																							<div class="pictureLeft" style="width: 330px;position: relative;">
+																								<img class="bookImage" src="/griffintest/your_content/images/books/pf2-cover.jpg" alt="Image 1" style="margin-right: 30px;">
 					</div>
-			</div>
-			<div class="borderOne" style="margin-bottom: 30px;min-height: 419px;display: flex;align-items: center;height: 100%;">
-				<div class="pictureLeft" style="width: 330px;">
-					<img class="bookImage" src="/griffintest/your_content/images/books/pf3-cover.jpg" alt="Image 1" style="margin-right: 110px;/*! margin-top: 16px; */margin-left: 30px;">
+																							</div>
+																							<div class="borderOne" style="margin-bottom: 30px;min-height: 419px;display: flex;align-items: center;height: 100%;">
+																								<div class="pictureLeft" style="width: 330px;">
+																									<img class="bookImage" src="/griffintest/your_content/images/books/pf3-cover.jpg" alt="Image 1" style="margin-right: 110px;/*! margin-top: 16px; */margin-left: 30px;">
 				</div>
-				<div class="bookDescription" style="/*! padding-top: 60px; */padding-left: -70px;margin-left: -1px;">
-					<h4>
-						<span>
+																									<div class="bookDescription" style="/*! padding-top: 60px; */padding-left: -70px;margin-left: -1px;">
+																										<h4>
+																											<span>
 							3. Side Gig<br>
 						</span>
-					</h4>
-					<p>
-						<span>
-							<em>“Oh, it looks like my books have arrived,” said the massive red-and-cream kangaroo. His voice was deep, but soothing like a massage chair. Paris couldn’t help but throw his eyes all over the perfect specimen before him—shoulders almost as wide as he was tall, thick rippling abs, firm pecs, thick legs, and his… well, his…</em>
-						</span>
-					</p>
-					<p>
-						<span>
-							<em>Paris looked up before his dream-come-true noticed him staring at his crotch.</em>
-						</span>
-					</p>
-					<p>
-						<span>
-							<em>“S-S-Sultan?” Paris eked out.</em>
-						</span>
-					</p>
-					<p>
-						<span>
+																											</h4>
+																											<p>
+																												<span>
+																													<em>“Oh, it looks like my books have arrived,” said the massive red-and-cream kangaroo. His voice was deep, but soothing like a massage chair. Paris couldn’t help but throw his eyes all over the perfect specimen before him—shoulders almost as wide as he was tall, thick rippling abs, firm pecs, thick legs, and his… well, his…</em>
+																												</span>
+																											</p>
+																											<p>
+																												<span>
+																													<em>Paris looked up before his dream-come-true noticed him staring at his crotch.</em>
+																												</span>
+																											</p>
+																											<p>
+																												<span>
+																													<em>“S-S-Sultan?” Paris eked out.</em>
+																												</span>
+																											</p>
+																											<p>
+																												<span>
 							The third story by Rick Griffin that takes place on the Mediterranean paradise island of St. Marten-Cristo. Paris wants out of his obligations and is looking to buy his way out, so takes on a side job he hopes will earn him enough money to be free by the end of the decade. It doesn't go very well.
 						</span>
-					</p>
-					<p>
-						<span>This book contains adult content and situations. Available on<a href="https://www.smashwords.com/books/view/1016030" target="_blank" rel="noopener"> Smashwords</a>
-						</span>
-					</p>
-				</div>
-			</div>
-			<div style="margin-bottom: 30px;min-height: 419px;display: flex;align-items: center;height: 100%;" class="borderTwo">
-				<div class="bookDescription" style="padding-left: 30px;margin-top: 30px;margin-bottom: 16px;">
-					<h4>
-						<span>
+																											</p>
+																											<p>
+																												<span>This book contains adult content and situations. Available on<a href="https://www.smashwords.com/books/view/1016030" target="_blank" rel="noopener"> Smashwords</a>
+																												</span>
+																											</p>
+																										</div>
+																									</div>
+																									<div style="margin-bottom: 30px;min-height: 419px;display: flex;align-items: center;height: 100%;" class="borderTwo">
+																										<div class="bookDescription" style="padding-left: 30px;margin-top: 30px;margin-bottom: 16px;">
+																											<h4>
+																												<span>
 						4. Family Ties<br>
 						</span>
-					</h4>
-					<p>
-						<span>
-							<em>Paris sighed. “Like, before I came here, I promised my mom I’d let her watch me fight if we did a public exhibition somewhere she could access.”</em>
-						</span>
-					</p>
-					<p>
-						<span>
-							<em>“Your mom!” Logan’s eyes lit up, and he started scrubbing Paris down harder like they were late for a dinner date. “She’ll be proud of how far you’ve come in the last few months!”</em>
-						</span>
-					</p>
-					<p>
-						<span>
-							<em>“No, no no!” Paris said. “I haven’t told her anything about my contract situation!”</em>
-						</span>
-					</p>
-					<p>
-						<span>
+																												</h4>
+																												<p>
+																													<span>
+																														<em>Paris sighed. “Like, before I came here, I promised my mom I’d let her watch me fight if we did a public exhibition somewhere she could access.”</em>
+																													</span>
+																												</p>
+																												<p>
+																													<span>
+																														<em>“Your mom!” Logan’s eyes lit up, and he started scrubbing Paris down harder like they were late for a dinner date. “She’ll be proud of how far you’ve come in the last few months!”</em>
+																													</span>
+																												</p>
+																												<p>
+																													<span>
+																														<em>“No, no no!” Paris said. “I haven’t told her anything about my contract situation!”</em>
+																													</span>
+																												</p>
+																												<p>
+																													<span>
 							The fourth story by Rick Griffin takes place on the Mediterranean paradise island of St. Marten-Cristo. Paris finally decides to take his training as a Pit Fighter seriously. But can he face the harshest opponent of all--actually having to admit his problems to his mother?!
 						</span>
-					</p>
-					<p>
-						<span>This book contains some (a lot of) adult content and situations.<br>Available on <a href="https://www.smashwords.com/books/view/1095782" target="_blank" rel="noopener">Smashwords</a>
-						</span>
-					</p>						
-				</div>
-				<div class="pictureLeft" style="width: 330px;position: relative;">
-						<img class="bookImage" src="/griffintest/your_content/images/books/pf4-cover.jpg" alt="Image 1" style="margin-right: 30px;">
+																												</p>
+																												<p>
+																													<span>This book contains some (a lot of) adult content and situations.<br>Available on <a href="https://www.smashwords.com/books/view/1095782" target="_blank" rel="noopener">Smashwords</a>
+																														</span>
+																													</p>
+																												</div>
+																												<div class="pictureLeft" style="width: 330px;position: relative;">
+																													<img class="bookImage" src="/griffintest/your_content/images/books/pf4-cover.jpg" alt="Image 1" style="margin-right: 30px;">
 					</div>
-			</div>
-		</div>
-    </div>
-	<div class="bookWorld" id="bookWorldAniDroids">
-		<h1 class="entryTitle">Ani-Droids</h1>
-		<h2 class="anidroidsOne">Generation pass, and change is inevitable</h2>
-		<h2 class="anidroidsTwo">200 years in the future, the world is still hurting from the scars of the conflicts it has wrought, and in that time people have remade society with new technology to live the normal lives humans strive for. This technology is vastly complex, so much so that laws have limited its scope so humanity does not lose control of it again. But can the bottle be plugged forever?</h2>
-		<div class="anidroidsTable">
-			<div class="borderOneAnidroids">
-				<div class="pictureLeft">
-					<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/banners/ad-icon.png">
+																												</div>
+																											</div>
+																										</div>
+																										<div class="bookWorld" id="bookWorldAniDroids">
+																											<h1 class="entryTitle">Ani-Droids</h1>
+																											<h2 class="anidroidsOne">Generation pass, and change is inevitable</h2>
+																											<h2 class="anidroidsTwo">200 years in the future, the world is still hurting from the scars of the conflicts it has wrought, and in that time people have remade society with new technology to live the normal lives humans strive for. This technology is vastly complex, so much so that laws have limited its scope so humanity does not lose control of it again. But can the bottle be plugged forever?</h2>
+																											<div class="anidroidsTable">
+																												<div class="borderOneAnidroids">
+																													<div class="pictureLeft">
+																														<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/banners/ad-icon.png">
 				</div>
-				<div class="anidroidsText">
-					<div class="anidroidsDescription">
-						<div>
-							<h6 class="whiteText novel">Novel</h6>
-							<h2 class="whiteText anidroidsTitle">Ani-droids</h2>
-							<p>The world is good. The world is perfect. The world will not be changed from its course.</p>
-							<p>In violation of the will of the Collective, Mira McAllister set out to create a new breed of ani-droids that can think for themselves. But when she discovers a mouse-droid with unusual quirks to her programming—and darker secrets besides—she may have set in motion an accidental rebellion.</p>
-							<p>The Collective must not find out.</p>
-							<p>But the Collective is every other ani-droid on Earth.</p>
-							<p><a class="redLink" href="https://www.smashwords.com/books/view/1434225" target="_blank">Get the ebook on Smashwords</a><br>
-							<a class="redLink" href="https://mybook.to/ani-droids" target="_blank">Get the paperback on Amazon</a></p>
-						</div>
-					</div>
+																														<div class="anidroidsText">
+																															<div class="anidroidsDescription">
+																																<div>
+																																	<h6 class="whiteText novel">Novel</h6>
+																																	<h2 class="whiteText anidroidsTitle">Ani-droids</h2>
+																																	<p>The world is good. The world is perfect. The world will not be changed from its course.</p>
+																																	<p>In violation of the will of the Collective, Mira McAllister set out to create a new breed of ani-droids that can think for themselves. But when she discovers a mouse-droid with unusual quirks to her programming—and darker secrets besides—she may have set in motion an accidental rebellion.</p>
+																																	<p>The Collective must not find out.</p>
+																																	<p>But the Collective is every other ani-droid on Earth.</p>
+																																	<p>
+																																		<a class="redLink" href="https://www.smashwords.com/books/view/1434225" target="_blank">Get the ebook on Smashwords</a>
+																																		<br>
+																																			<a class="redLink" href="https://mybook.to/ani-droids" target="_blank">Get the paperback on Amazon</a>
+																																		</p>
+																																	</div>
+																																</div>
+																															</div>
+																														</div>
+																														<h5 style="text-align: center;color: white;font-size: 33px;font-weight: normal;">Other stories!</h5>
+																														<div class="borderTwoAnidroids">
+																															<div class="pictureLeft">
+																																<img class="felidaeIcon" src="/griffintest/your_content/images/books/storyboard011.jpg" alt="Image 1">
 				</div>
-			</div>
-			<h5 style="text-align: center;color: white;font-size: 33px;font-weight: normal;">Other stories!</h5>
-			<div class="borderTwoAnidroids">
-				<div class="pictureLeft">
-					<img class="felidaeIcon" src="/griffintest/your_content/images/books/storyboard011.jpg" alt="Image 1">
-				</div>
-				<div class="felidaeDescription">
-					<h4 style="text-align: center;">
-						<span>Felidae<br>
+																																<div class="felidaeDescription">
+																																	<h4 style="text-align: center;">
+																																		<span>Felidae<br>
 						</span>
-					</h4>
-					<p><a class="redLink" href="https://mothorialcomic.github.io/griffintest/the-storyboard/comic/011/" style="font-size: 20px;">Read now!</a></p>
-				</div>
-			</div>
-		</div>
-    </div>
-	<div class="bookWorld" id="bookWorldHC">
-		<h1 class="entryTitle">
+																																		</h4>
+																																		<p>
+																																			<a class="redLink" href="https://mothorialcomic.github.io/griffintest/the-storyboard/comic/011/" style="font-size: 20px;">Read now!</a>
+																																		</p>
+																																	</div>
+																																</div>
+																															</div>
+																														</div>
+																														<div class="bookWorld" id="bookWorldHC">
+																															<h1 class="entryTitle">
 Hayven Celestia
 </h1>
-		<h2 class="anidroidsOne">The laws benefit the lawmakers</h2>
-		<h2 class="anidroidsTwo">Space is vast. Though worlds are plentiful, in the end their rulers are the ones with the strength and technology to conquer and hold. Who can stand in their way?</h2><h2 class="anidroidsTwo">This is not about power, but the survival of those who carve out a life for themselves and dream of a place they might call home.</h2>
-		<h2 class="anidroidsOne" style="margin-top: 30px;">There's a lot of books here</h2><h2 class="anidroidsTwo" style="">The fans, all the time they be asking me: "Rick, what order should I read these books in?" And that's why I'm making this handy-dandy chart here.</h2><h2 class="anidroidsTwo" style="">Skinchange, the comic you can access below, is going to periodically update with an ongoing story unconnected to any of the following works. All the books below are prose with illustrations.</h2><div class="anidroidsTable">
-			<div class="borderOneAnidroids" style="border: none;background-color: rgba(17,17,17,0.42);">
-				<div class="pictureLeft">
-					<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/banners/ad-icon.png" style="margin-left: 210px;">
+																															<h2 class="anidroidsOne">The laws benefit the lawmakers</h2>
+																															<h2 class="anidroidsTwo">Space is vast. Though worlds are plentiful, in the end their rulers are the ones with the strength and technology to conquer and hold. Who can stand in their way?</h2>
+																															<h2 class="anidroidsTwo">This is not about power, but the survival of those who carve out a life for themselves and dream of a place they might call home.</h2>
+																															<h2 class="anidroidsOne" style="margin-top: 30px;">There's a lot of books here</h2>
+																															<h2 class="anidroidsTwo" style="">The fans, all the time they be asking me: "Rick, what order should I read these books in?" And that's why I'm making this handy-dandy chart here.</h2>
+																															<h2 class="anidroidsTwo" style="">Skinchange, the comic you can access below, is going to periodically update with an ongoing story unconnected to any of the following works. All the books below are prose with illustrations.</h2>
+																															<div class="anidroidsTable">
+																																<div class="borderOneHC" style="border: none;background-color: rgba(17,17,17,0.42);">
+																																	<div class="pictureLeft">
+																																		<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/banners/ad-icon.png" style="margin-left: 210px;">
 				</div>
-				<div class="anidroidsText" style="margin-left: 200px;">
-					<div class="anidroidsDescription">
-						<div>
-							<h6 class="whiteText novel">Comic</h6>
-							
-							<h2 class="whiteText anidroidsTitle">Skinchange</h2><p><a class="redLink" href="https://mothorialcomic.github.io/griffintest/the-storyboard/comic/011/" style="font-size: 20px;">Read now!</a></p>
-							
-							
-							
-							
-						</div>
-					</div>
-				</div>
-			</div>
-			
-			
-		</div><div class="anidroidsTable" style="min-height: 419px;border-style: double;border-width: 9px;background-color: rgb(17, 17, 17);">
-			
-			
-			
-		<div class="">
-			<div class="anidroidsText">
+																																		<div class="anidroidsText" style="margin-left: 200px;">
+																																			<div class="anidroidsDescription">
+																																				<div>
+																																					<h6 class="whiteText novel">Comic</h6>
+																																					<h2 class="whiteText anidroidsTitle">Skinchange</h2>
+																																					<p>
+																																						<a class="redLink" href="https://mothorialcomic.github.io/griffintest/the-storyboard/comic/011/" style="font-size: 20px;">Read now!</a>
+																																					</p>
+																																				</div>
+																																			</div>
+																																		</div>
+																																	</div>
+																																</div>
+																																<div class="anidroidsTable" style="min-height: 419px;border-style: double;border-width: 9px;background-color: rgb(17, 17, 17);">
+																																	<div class="">
+																																		<div class="anidroidsText">
 					
-				</div><h6 class="whiteText" style="font-size: 54px;color: white;margin-top: 60px;text-align: center;font-weight: normal;">The Final Days of the White Flower II</h6><div class="borderOneAnidroids" style="padding-top: -130px;position: relative;margin-top: -200px;">
-				<div class="pictureLeft" style="">
-					<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/banners/ad-icon.png" style="margin-right: 110px;margin-left: 30px;width: 258px;">
 				</div>
-				<div class="anidroidsText" style="padding-top: 150px;">
-					<div class="anidroidsDescription" style="text-align: left;">
-						<div style="/*! text-align: left; */font-weight: normal;margin-right: 18px;">
-							
-							
-							<p><h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -40px;text-align: left;font-weight: normal;">1: TRAITORS, THIEVES AND LIARS</h2>The Final Days of the White Flower II is a novel trilogy retelling of the short story "Ten Thousand Miles Up". Note that "Ten Thousand Miles Up", avaiable on Smashwords, will contain some spoilers for the trilogy, so depending on how avoidant you are of spoilers, you may wish to wait for the trilogy to be complete!</p>
-							<p style="text-align: left;">Traitors, Thieves and Liars follows Subcommander Gert, next in line to be captain of the White Flower II, a krakun slave ship served by geroo. The ship is waylaid by pirates who have a very interesting and dangerous offer, which Captain Ateri cannot simply ignore.</p>
-							<p style="font-weight: bold;">The Final Days of the White Flower II trilogy is meant to be read on its own and does not require you have read any of the other books. It takes place chronologically after The Kanti Cycle, but is not required reading.</p>
-							
-
-
-
-<p class="redLink"><a href="https://gre7g.com/store/index.php?main_page=product_info&amp;cPath=0&amp;products_id=12" target="_blank" rel="noopener">Buy it at gre7g.com</a></p>
-<p class="redLink"><a href="http://mybook.to/traitorsthievesliars" target="_blank" rel="noopener">Buy it on Amazon</a></p>
-<p class="redLink"><a href="https://www.smashwords.com/books/view/924593" target="_blank" rel="noopener">Buy it on Smashwords</a></p>
-<p class="redLink"><a href="https://www.audible.com/pd/B093LG5J4D/?source_code=AUDFPWS0223189MWT-BK-ACX0-253964&amp;ref=acx_bty_BK_ACX0_253964_rh_us" target="_blank" rel="noopener">Get the audiobook</a></p>
-							
-						</div>
-					</div>
+																																		<h6 class="whiteText" style="font-size: 54px;color: white;margin-top: 60px;text-align: center;font-weight: normal;">The Final Days of the White Flower II</h6>
+																																		<div class="anidroidsDescription" style="text-align: left;margin-left: 40px;margin-right: 40px;">
+																																			<div style="/*! text-align: left; */font-weight: normal;margin-right: 18px;font-size: 1.2rem;">
+																																				<p/>The Final Days of the White Flower II is a novel trilogy retelling of the short story "Ten Thousand Miles Up". Note that "Ten Thousand Miles Up", avaiable on Smashwords, will contain some spoilers for the trilogy, so depending on how avoidant you are of spoilers, you may wish to wait for the trilogy to be complete!<p/>
+																																			</div>
+																																		</div>
+																																		<div class="borderOneHC" style="padding-top: -130px;position: relative;margin-top: 0px;/*! padding-top: 0px; */">
+																																			<div class="pictureLeft" style="">
+																																				<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/banners/ad-icon.png" style="margin-right: 110px;margin-left: 30px;width: 258px;">
 				</div>
-			</div>
-			
-			
-		</div><div class="">
-			<div class="borderOneAnidroids" style="padding-top: 40px;">
-				
-				
-			<div class="anidroidsDescription" style="text-align: left;margin-left: 10px;">
-						<div style="/*! text-align: left; */font-weight: normal;margin-left: 18px;">
-							
-							<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -40px;text-align: left;font-weight: normal;">2: THE CAPTAIN'S OATH</h2>
-							<p>The Captain's Oath is the second book of The Final Days of the White Flower II. It follows Subcommander Tesko, science officer of the White Flower II, as she discovers the conspiracy the captain has embroiled them all in. She is at first very enthusiastic about the prospect of escape from their slavery, but things quickly take a turn for the worse.</p>
-							
-							<p style="font-weight: bold;">The Final Days of the White Flower II trilogy is meant to be read on its own and does not require you have read any of the other books. It takes place chronologically after The Kanti Cycle, but is not required reading.</p>
-							
-
-
-
-
-
-
-
-							
-						
-
-
-<p><a href="https://gre7g.com/store/index.php?main_page=product_info&amp;cPath=0&amp;products_id=13" target="_blank" rel="noopener">Buy it at gre7g.com</a></p>
-<p><a href="http://mybook.to/TheCaptainsOath" target="_blank" rel="noopener">Buy it on Amazon</a></p>
-<p><a href="https://www.smashwords.com/books/view/1070464" target="_blank" rel="noopener">Buy it on Smashwords</a></p>
-<p><a href="https://www.audible.com/pd/The-Captains-Oath-Audiobook/B098886CST?source_code=AUDFPWS0223189MWT-BK-ACX0-265681&amp;ref=acx_bty_BK_ACX0_265681_rh_us" target="_blank" rel="noopener">Get the audiobook</a></p></div>
-					</div><div class="pictureLeft" style="margin-top: -119px;">
-					<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/banners/ad-icon.png" style="margin-right: 30px;margin-left: 30px;width: 258px;">
-				</div></div>
-			
-			
-		</div><div class="">
-			<div style="/*! text-align: left; */font-weight: normal;margin-left: 18px;">
-							
-							
-							<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -40px;text-align: center;font-weight: normal;">BOOK 3 COMING SOON</h2>
-							
-							
-							
-
-
-
-
-
-
-
-							
-						
-
-
-
-
-
-</div>
-			
-			
-		</div></div>
-    </div>
-</body>
-</html>
+																																				<div class="anidroidsText" style="padding-top: 40px;">
+																																					<div class="anidroidsDescription" style="text-align: left;">
+																																						<div style="/*! text-align: left; */font-weight: normal;margin-right: 18px;">
+																																							<p/>
+																																							<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -40px;text-align: left;font-weight: normal;">1: TRAITORS, THIEVES AND LIARS</h2>
+																																							<p/>
+																																							<p style="text-align: left;">Traitors, Thieves and Liars follows Subcommander Gert, next in line to be captain of the White Flower II, a krakun slave ship served by geroo. The ship is waylaid by pirates who have a very interesting and dangerous offer, which Captain Ateri cannot simply ignore.</p>
+																																							<p style="font-weight: bold;">The Final Days of the White Flower II trilogy is meant to be read on its own and does not require you have read any of the other books. It takes place chronologically after The Kanti Cycle, but is not required reading.</p>
+																																							<p class="redLink">
+																																								<a href="https://gre7g.com/store/index.php?main_page=product_info&amp;cPath=0&amp;products_id=12" target="_blank" rel="noopener">Buy it at gre7g.com</a>
+																																							</p>
+																																							<p class="redLink">
+																																								<a href="http://mybook.to/traitorsthievesliars" target="_blank" rel="noopener">Buy it on Amazon</a>
+																																							</p>
+																																							<p class="redLink">
+																																								<a href="https://www.smashwords.com/books/view/924593" target="_blank" rel="noopener">Buy it on Smashwords</a>
+																																							</p>
+																																							<p class="redLink">
+																																								<a href="https://www.audible.com/pd/B093LG5J4D/?source_code=AUDFPWS0223189MWT-BK-ACX0-253964&amp;ref=acx_bty_BK_ACX0_253964_rh_us" target="_blank" rel="noopener">Get the audiobook</a>
+																																							</p>
+																																						</div>
+																																					</div>
+																																				</div>
+																																			</div>
+																																		</div>
+																																		<div class="">
+																																			<div class="borderOneHC" style="padding-top: 40px;">
+																																				<div class="anidroidsDescription" style="text-align: left;margin-left: 10px;">
+																																					<div style="/*! text-align: left; */font-weight: normal;margin-left: 18px;">
+																																						<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -40px;text-align: left;font-weight: normal;">2: THE CAPTAIN'S OATH</h2>
+																																						<p>The Captain's Oath is the second book of The Final Days of the White Flower II. It follows Subcommander Tesko, science officer of the White Flower II, as she discovers the conspiracy the captain has embroiled them all in. She is at first very enthusiastic about the prospect of escape from their slavery, but things quickly take a turn for the worse.</p>
+																																						<p style="font-weight: bold;">The Final Days of the White Flower II trilogy is meant to be read on its own and does not require you have read any of the other books. It takes place chronologically after The Kanti Cycle, but is not required reading.</p>
+																																						<p>
+																																							<a href="https://gre7g.com/store/index.php?main_page=product_info&amp;cPath=0&amp;products_id=13" target="_blank" rel="noopener">Buy it at gre7g.com</a>
+																																						</p>
+																																						<p>
+																																							<a href="http://mybook.to/TheCaptainsOath" target="_blank" rel="noopener">Buy it on Amazon</a>
+																																						</p>
+																																						<p>
+																																							<a href="https://www.smashwords.com/books/view/1070464" target="_blank" rel="noopener">Buy it on Smashwords</a>
+																																						</p>
+																																						<p>
+																																							<a href="https://www.audible.com/pd/The-Captains-Oath-Audiobook/B098886CST?source_code=AUDFPWS0223189MWT-BK-ACX0-265681&amp;ref=acx_bty_BK_ACX0_265681_rh_us" target="_blank" rel="noopener">Get the audiobook</a>
+																																						</p>
+																																					</div>
+																																				</div>
+																																				<div class="pictureLeft" style="margin-top: -119px;">
+																																					<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/banners/ad-icon.png" style="margin-right: 30px;margin-left: 30px;width: 258px;">
+				</div>
+																																				</div>
+																																			</div>
+																																			<div class="">
+																																				<div style="/*! text-align: left; */font-weight: normal;margin-left: 18px;">
+																																					<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -40px;text-align: center;font-weight: normal;">BOOK 3 COMING SOON</h2>
+																																				</div>
+																																			</div>
+																																		</div>
+																																	</div>
+																																</body>
+																															</html>

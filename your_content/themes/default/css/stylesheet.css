@@ -319,6 +319,16 @@ td, th {
 	background-color: #111111;
 }
 
+.borderOneHC {
+	min-height: 419px;
+	display: flex;
+	align-items: center;
+	height: 100%;
+	padding: 45px 0px;
+	border-width: 9px;
+	background-color: #111111;
+}
+
 .borderTwoAnidroids {
 	min-height: 419px;
 	display: flex;
