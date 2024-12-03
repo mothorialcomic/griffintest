@@ -325,7 +325,7 @@ td, th {
 	align-items: center;
 }
 
-#comicWorldInTheNewAge, #comicWorldOther, #comicWorldHC, #bookWorldPitFighters, #bookWorldAniDroids {
+#comicWorldInTheNewAge, #comicWorldOther, #comicWorldHC, #bookWorldPitFighters, #bookWorldAniDroids, #bookWorldHC {
 	visibility: hidden;
 	height: 810px;
 	overflow: auto;

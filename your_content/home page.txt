@@ -52,7 +52,7 @@
 					</a>
 				</td>
 				<td>
-					<a class="image-link" href="https://mothorialcomic.github.io/griffintest/the-witch-of-kurikuto/comic/001/">
+					<a class="image-link" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; document.getElementById('bookWorldHC').style.visibility = 'visible';">
 						<img src="/griffintest/your_content/images/banners/hc-icon.png" alt="Image 2">
 					</a>
 				</td>
@@ -274,7 +274,7 @@
 			</div>
 		</div>
     </div>
-	<div class="bookWorld" id="bookWorldAniDroids" style="visibility: visible;">
+	<div class="bookWorld" id="bookWorldHC">
 		<h1 class="entryTitle">
 Hayven Celestia
 </h1>
