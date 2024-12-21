@@ -49,7 +49,15 @@
             <img id="banner-img" alt="banner" src="{{ banner_image }}" style="margin-top: -40px;">
         </a>
     </div>
-
+	    <div id="links-bar">
+    {# For loops let you take a list of a values and do something for each of those values. In this case,
+       it runs through list of all the links provided by the [Links Bar] section of your comic_info.ini file,
+       and it generates a link for each of them. #}
+    {%- for link in links %}
+        <a class="link-bar-link" href="{{ link.url }}">{{ link.name }}</a>
+        {% if not loop.last %}<span class="link-bar-separator">|</span>{% endif %}
+    {%- endfor %}
+    </div>
     {# This is the start of the `content` block. Nothing is here now because other templates are expected to fill it
        in on their own. It will contain everything on a webpage after the links bar and before the
        "Powered by comic_git" footer. #}
