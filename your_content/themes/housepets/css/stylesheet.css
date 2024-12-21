@@ -1,0 +1,366 @@
+/*
+Change these options to customize the color scheme and a few layout options of your website.
+Most layout options are stored in src/css/advanced_stylesheet.css. I do not recommend messing with those settings
+unless you know what you're doing, or you're willing to spend a lot of time on trial and error.
+
+For any colors, you can represent them in hexadecimal like this (#FF0000 = red)
+or use this list of available color names: https://www.w3schools.com/cssref/css_colors.asp
+ */
+
+body {
+    font-family: 'PT Sans', housepets;  /* The font of all the text on all pages */
+    color: black;  /* The color of the font of most of the text on your website */
+    background-color: white;  /* The color of the background behind everything */
+	background-image: url(/griffintest/your_content/images/banners/bg-paws-lg-2.png);
+	background-size: auto;
+	background-repeat: repeat;
+	background-attachment: fixed;
+}
+
+a {
+    color: maroon;  /* The color of the hyperlinks */
+}
+
+@font-face {
+    font-family: housepets;
+    src: url(/your_content/fonts/WEBLBB_.ttf);
+}
+
+
+div#container {
+    max-width: 1000px;  /* The width of the main box that contains all content on the pages */
+    background-color: white;  /* The background color of the main box */
+  /* If you change the background color of website, play with this or else it will look bad. */
+}
+
+div#links-bar {
+    background-color: #FF9400;  /* The background color of your links bar */
+}
+
+a.link-bar-link {
+    color: black;  /* The color of the links in your links bar */
+    font-weight: bold;  /* Delete this to unbold the links in your links bar*/
+    text-decoration: none;  /* Delete this line to put underlining on the links in your links bar */
+}
+
+a.link-bar-link:hover {
+    color: white;  /* The color of the links in your links bar while the cursor is hovering over them */
+}
+
+a.navigation-button {
+    color: maroon;  /* Color of the navigation bar hyperlinks */
+    font-size: 2em;  /* Size of the navigation bar hyperlinks */
+    text-decoration: none;  /* Delete this if you want your navigation links to be underlined */
+}
+
+a.navigation-button-disabled {
+    color: gray;  /* Color of the disabled navigation bar hyperlinks */
+    font-size: 2em;  /* Size of the disabled navigation bar hyperlinks */
+    text-decoration: none;  /* Delete this if you want your disabled navigation links to be underlined */
+}
+
+div#blurb {
+    background-color: lightgray;  /* The color of the "blurb" box that contains post title, post date, tags, etc. */
+    width: 75%;  /* The maximum width of the blurb box. */
+    border-left: 3px dotted lightslategray;  /* If you change the background color of the blurb, play with these two lines or else it will look bad */
+    border-right: 3px dotted lightslategray;
+}
+
+h1#page-title {
+    color: black;  /* Color of the page title */
+    font-size: 3em;  /* Font size of the post title */
+}
+
+div#post-date {
+    font-weight: bold;  /* Delete this to unbold the post date */
+}
+
+div#storyline, div#characters, div#tags {
+    font-style: italic;  /* Delete this to unitalicize the tags */
+}
+
+/* Home Page */
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+.otherTable {
+	width:63%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h4 {
+	font-size: 32px;
+	color: white;
+	margin-top: 0px;
+}
+
+td, th {
+	border: none;
+	padding: 8px;
+	text-align: center;
+	vertical-align: middle;
+	width: 18px;
+}
+
+.news-column {
+	width: 50%;
+}
+
+.image-link img {
+	width: 300px;
+	border-radius: 6px;
+	cursor: pointer;
+}
+
+.image-link img:hover {
+	-webkit-filter: brightness(70%);
+	-webkit-transition: all 1s ease;
+	-moz-transition: all 1s ease;
+	-o-transition: all 1s ease;
+	-ms-transition: all 1s ease;
+	transition: all 1s ease;
+}
+
+.comicLinks {
+	border-right: 4px black solid;
+}
+
+.comicList {
+	width: 1000px;
+	overflow-x: scroll;
+	overflow-y: hidden;
+} /* Creates horizontal scroll for comics and book lists */
+
+.comicBanner {
+	color: white;
+	font-family: rushford;
+	font-size: 70px;
+	margin-bottom: -30px;
+	margin-top: -40px;
+} /* Sets banner colors and custom font */
+
+.bookBanner {
+	color: white;
+	font-family: rushford;
+	font-size: 70px;
+	margin-bottom: -30px;
+} /* Sets banner colors and custom font */
+
+.bookImage {
+	width: 258px;
+	border-radius: 6px;
+}
+
+.borderOne {
+	background-color: rgba(87,61,78,0.42);
+}
+
+.borderTwo {
+	background-color: rgba(142,107,92,0.42);
+}
+
+.bookDescription {
+	padding-left: 0px;
+	padding-right: 40px;
+	text-align: left;
+	color: white;
+}
+
+.overlay {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0, 0, 0, 0.9); /* Dark grey semi-transparent */
+	z-index: 1000; /* Ensure it covers everything */
+	cursor: zoom-in; /* Zoom cursor */
+	visibility: hidden; /* Hidden by default */
+} /* Sets overlay for comic world selection */
+
+#overlayHome {
+	visibility: hidden;
+}
+
+.whiteText {
+	color: white;
+	font-weight: normal;
+}
+
+.redLink {
+	color: #ff2a13;
+	text-decoration: none;
+}
+
+.anidroidsTitle {
+	font-size: 40px;
+	margin-top: -40px;
+}
+
+.comicWorld {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background-color: white;
+	padding: 20px;
+	border-radius: 8px;
+	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+	z-index: 1001; /* Above the overlay */
+	text-align: center;
+	background-color: rgba(87,61,78,0.42);
+}
+
+.bookWorld {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background-color: white;
+	padding: 20px;
+	border-radius: 8px;
+	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+	z-index: 1001; /* Above the overlay */
+	text-align: center;
+	background-color: rgba(87,61,78,0.42);
+}
+
+.bookTable {
+	border-collapse: separate;
+	border-spacing: 0 1em;
+	overflow: auto;
+	table-layout: fixed;
+}
+
+.pictureLeft {
+	width: 330px;
+}
+
+.entryTitle {
+	color: white;
+	font-size: 4rem;
+	margin-top: -10px;
+	font-weight: normal;
+}
+
+.felidaeIcon {
+	margin-right: 110px;
+	margin-left: 30px;
+	width: 403px;
+	height: 384px;
+}
+
+.felidaeDescription {
+	margin-left: 329px;
+	text-align: center;
+}
+
+.novel {
+	font-size: 27px;
+	color: white;
+	margin-top: 90px;
+	text-align: left;
+}
+
+.anidroids {
+	font-size: 1.5rem;
+	font-weight: normal;
+	text-align: left;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.anidroidsTitle {
+	color: white;
+	font-size: 40px;
+	margin-top: -40px;
+	text-align: left;
+}
+
+.anidroidsOne {
+	font-size: 1.5rem;
+	font-weight: normal;
+	text-align: left;
+	margin-left: 50px;
+	margin-right: 50px;
+	color: white;
+	margin-top: -10px;
+}
+
+.anidroidsTwo {
+	font-size: 1.2rem;
+	font-weight: normal;
+	text-align: left;
+	color: rgb(237, 255, 204);
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-top: 10px;
+}
+
+.anidroidsTable {
+	color: rgb(237, 255, 204);
+	margin-top: 50px;
+}
+
+.bookImageAnidroids {
+	margin-right: 110px;
+	margin-left: 30px;
+	width: 258px;
+}
+
+.anidroidsText {
+	color: rgb(237, 255, 204);
+}
+
+.anidroidsDescription {
+	margin-top: -60px;
+	text-align: left;
+}
+
+.borderOneAnidroids {
+	min-height: 419px;
+	display: flex;
+	align-items: center;
+	height: 100%;
+	padding: 45px 0px;
+	border-style: double;
+	border-width: 9px;
+	background-color: #111111;
+}
+
+.borderOneHC {
+	min-height: 419px;
+	display: flex;
+	align-items: center;
+	height: 100%;
+	padding: 45px 0px;
+	border-width: 9px;
+	background-color: #111111;
+}
+
+.borderTwoAnidroids {
+	min-height: 419px;
+	display: flex;
+	align-items: center;
+}
+
+#comicWorldInTheNewAge, #comicWorldOther, #comicWorldHC, #bookWorldPitFighters, #bookWorldAniDroids, #bookWorldHC {
+	visibility: hidden;
+	height: 810px;
+	overflow: auto;
+	background-color: rgba(2, 2, 15, 0.98);
+	width: 1000px;
+	border: solid 30px;
+	border-color: rgba(2, 2, 15, 0.98);
+	overscroll-behavior: contain;
+}
+
+/* All Comic Pages */
+
+#comic-image {
+	max-width: 100%;
+} /* Sets width for all comic images without going over their original maximum size */
