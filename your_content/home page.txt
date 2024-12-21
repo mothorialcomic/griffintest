@@ -114,7 +114,7 @@
 																		<tr>
 																			<td>
 																				<a class="image-link" href="https://mothorialcomic.github.io/griffintest/skinchange/comic/001/">
-																					<img src="/griffintest/your_content/images/banners/hc-icon.png" alt="Image 1">
+																					<img src="/griffintest/your_content/images/banners/skinchange.png" alt="Image 1">
 					</a>
 																				</td>
 																			</tr>
