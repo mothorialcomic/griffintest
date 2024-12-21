@@ -18,7 +18,11 @@ body {
 }
 
 a {
-    color: maroon;  /* The color of the hyperlinks */
+    color: color: #FF9400; /* The color of the hyperlinks */
+}
+
+span.link-bar-separator {
+    margin: 0 18px;
 }
 
 @font-face {
@@ -54,7 +58,7 @@ a.link-bar-link:hover {
 }
 
 a.navigation-button {
-    color: maroon;  /* Color of the navigation bar hyperlinks */
+    color: #FF9400;  /* Color of the navigation bar hyperlinks */
     font-size: 2em;  /* Size of the navigation bar hyperlinks */
     text-decoration: none;  /* Delete this if you want your navigation links to be underlined */
 }
@@ -66,10 +70,33 @@ a.navigation-button-disabled {
 }
 
 div#blurb {
-    background-color: lightgray;  /* The color of the "blurb" box that contains post title, post date, tags, etc. */
-    width: 75%;  /* The maximum width of the blurb box. */
-    border-left: 3px dotted lightslategray;  /* If you change the background color of the blurb, play with these two lines or else it will look bad */
-    border-right: 3px dotted lightslategray;
+	background-color: #C6E9FD;
+	width: 75%;
+	font-family: 'PT Sans', sans-serif;
+}
+
+#first-button, #previous-button, #next-button, #last-button {
+  visibility: hidden;
+}
+
+#first-button:after {
+  content:'FIRST';
+  visibility: visible;
+}
+
+#previous-button:after {
+  content:'PREVIOUS';
+  visibility: visible;
+}
+
+#next-button:after {
+  content:'NEXT';
+  visibility: visible;
+}
+
+#last-button:after {
+  content:'LATEST';
+  visibility: visible;
 }
 
 h1#page-title {
