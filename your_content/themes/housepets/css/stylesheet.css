@@ -8,7 +8,7 @@ or use this list of available color names: https://www.w3schools.com/cssref/css_
  */
 
 body {
-    font-family: 'housepets', sans-serif;  /* The font of all the text on all pages */
+    font-family: 'housepets';  /* The font of all the text on all pages */
     color: black;  /* The color of the font of most of the text on your website */
     background-color: white;  /* The color of the background behind everything */
 	background-image: url(/griffintest/your_content/images/banners/bg-paws-lg-2.png);
@@ -23,7 +23,9 @@ a {
 
 @font-face {
     font-family: housepets;
-    src: url(/your_content/fonts/WEBLBB_.ttf);
+    src: url(/griffintest/your_content/fonts/WEBLBB_.ttf);
+	font-weight: normal;
+    font-style: normal;
 }
 
 #banner-img {
