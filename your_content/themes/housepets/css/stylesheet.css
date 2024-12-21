@@ -75,30 +75,6 @@ div#blurb {
 	font-family: 'PT Sans', sans-serif;
 }
 
-#first-button, #previous-button, #next-button, #last-button {
-  visibility: hidden;
-}
-
-#first-button:after {
-  content:'FIRST';
-  visibility: visible;
-}
-
-#previous-button:after {
-  content:'PREVIOUS';
-  visibility: visible;
-}
-
-#next-button:after {
-  content:'NEXT';
-  visibility: visible;
-}
-
-#last-button:after {
-  content:'LATEST';
-  visibility: visible;
-}
-
 h1#page-title {
     color: black;  /* Color of the page title */
     font-size: 3em;  /* Font size of the post title */

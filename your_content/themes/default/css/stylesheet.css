@@ -32,6 +32,7 @@ div#container {
 
 div#links-bar {
     background-color: indianred;  /* The background color of your links bar */
+	display: none;
 }
 
 a.link-bar-link {
