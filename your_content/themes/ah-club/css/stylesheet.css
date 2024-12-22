@@ -21,12 +21,24 @@ a {
     color: #e72669; /* The color of the hyperlinks */
 }
 
+div#blurb {
+	text-align: center;
+}
+
 span.link-bar-separator {
     margin: 0 18px;
 }
 
 #links-bar {
 	font-size: 22px;
+}
+
+.archive-thumbnail-page img {
+  width: 70px;
+}
+
+.archive-thumbnail {
+  padding: 16px 11px;
 }
 
 @font-face {

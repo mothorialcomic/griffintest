@@ -32,6 +32,32 @@ span.link-bar-separator {
     font-style: normal;
 }
 
+div#blurb {
+	text-align: center;
+}
+
+.archive-thumbnail-title {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.archive-thumbnail-page img {
+  width: 106px;
+  height: 42px;
+  object-fit: cover;
+  overflow: hidden;
+  object-position: top;
+}
+
+.archive-thumbnail {
+  width: 100px;
+  height: 120px;
+  padding: 14px 23px;
+}
+
 #banner-img {
 	margin-top: -13px;
 }
