@@ -8,11 +8,11 @@ or use this list of available color names: https://www.w3schools.com/cssref/css_
  */
 
 body {
-    font-family: 'zootopia';  /* The font of all the text on all pages */
+    font-family: 'zootopia', sans-serif;  /* The font of all the text on all pages */
     color: black;  /* The color of the font of most of the text on your website */
     background-color: white;  /* The color of the background behind everything */
 	background-image: url(/griffintest/your_content/images/banners/zootopiaBGtest.png);
-	background-size: auto;
+	background-size: cover;
 	background-repeat: repeat;
 	background-attachment: fixed;
 }
@@ -69,7 +69,7 @@ div#container {
 }
 
 div#links-bar {
-    background-color: #e72669;  /* The background color of your links bar */
+    background-color: #5ebb8a;  /* The background color of your links bar */
 }
 
 a.link-bar-link {
@@ -83,7 +83,7 @@ a.link-bar-link:hover {
 }
 
 a.navigation-button {
-    color: #e72669;  /* Color of the navigation bar hyperlinks */
+    color: #5ebb8a;  /* Color of the navigation bar hyperlinks */
     font-size: 2em;  /* Size of the navigation bar hyperlinks */
     text-decoration: none;  /* Delete this if you want your navigation links to be underlined */
 }
@@ -95,7 +95,7 @@ a.navigation-button-disabled {
 }
 
 div#blurb {
-	background-color: #f0bccc;
+	background-color: #7ae9ae;
 	width: 75%;
 	font-family: 'PT Sans', sans-serif;
 }
