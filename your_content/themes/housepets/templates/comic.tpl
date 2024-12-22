@@ -46,7 +46,7 @@
             <a class="navigation-button-disabled" id="first-button">First</a>
             <a class="navigation-button-disabled" id="previous-button">Previous</a>
         {% else %}
-            <a class="navigation-button" id="first-button" href="{{ comic_base_dir }}/comic/{{ first_id }}/#comic-page">irst</a>
+            <a class="navigation-button" id="first-button" href="{{ comic_base_dir }}/comic/{{ first_id }}/#comic-page">First</a>
             <a class="navigation-button" id="previous-button" href="{{ comic_base_dir }}/comic/{{ previous_id }}/#comic-page">Previous</a>
         {% endif %}
         {# The block below is the same as the one above, except it checks if you're on the last page. #}

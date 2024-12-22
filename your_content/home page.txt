@@ -26,7 +26,7 @@
 										</td>
 										<td>
 											<a class="image-link" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; document.getElementById('comicWorldOther').style.visibility = 'visible';">
-												<img src="/griffintest/your_content/images/banners/the-storyboard.png" alt="Image 1">
+												<img src="/griffintest/your_content/images/banners/banner_Other.png" alt="Image 1">
 					</a>
 											</td>
 											<td>
@@ -82,12 +82,12 @@
 														<tr>
 															<td>
 																<a class="image-link" href="https://mothorialcomic.github.io/griffintest/the-witch-of-kurikuto/comic/001/">
-																	<img src="/griffintest/your_content/images/banners/in-the-new-age.png" alt="Image 1">
+																	<img src="/griffintest/your_content/images/banners/banner_Kurikuto.png" alt="Image 1">
 					</a>
 																</td>
 																<td>
 																	<a class="image-link" href="https://mothorialcomic.github.io/griffintest/traces-of-the-past/comic/001/">
-																		<img src="/griffintest/your_content/images/banners/in-the-new-age.png" alt="Image 2">
+																		<img src="/griffintest/your_content/images/banners/banner_TracesOfThePast.png" alt="Image 2">
 					</a>
 																	</td>
 																</tr>
@@ -103,7 +103,7 @@
 																		</td>
 																		<td>
 																			<a class="image-link" href="https://mothorialcomic.github.io/griffintest/zootopia-night-terrors/comic/001/">
-																				<img src="/griffintest/your_content/images/banners/AH-icon2.png" alt="Image 2">
+																				<img src="/griffintest/your_content/images/banners/banner_Zootopia.png" alt="Image 2">
 					</a>
 																			</td>
 																		</tr>
