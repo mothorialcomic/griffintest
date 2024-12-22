@@ -35,6 +35,16 @@ div#links-bar {
 	display: none;
 }
 
+div.archive-thumbnail {
+  width: 120px;
+  margin: 10px;
+  text-align: center;
+}
+
+div#banner {
+  margin-top: -50px;
+}
+
 a.link-bar-link {
     color: white;  /* The color of the links in your links bar */
     font-weight: bold;  /* Delete this to unbold the links in your links bar*/

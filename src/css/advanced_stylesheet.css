@@ -90,11 +90,12 @@ div.archive-grid {
     justify-content: center;
 }
 
+/*
 div.archive-thumbnail {
     width: 100px;
     margin: 10px;
     text-align: center;
-}
+}*/
 
 h2.archive-section {
     text-align: center;
@@ -256,6 +257,15 @@ a.navigation-button-disabled {
     font-size: 2em;  /* Size of the disabled navigation bar hyperlinks */
     text-decoration: none;  /* Delete this if you want your disabled navigation links to be underlined */
 }
+
+/*
+div#blurb {
+    background-color: lightgray;
+    width: 75%; 
+    border-left: 3px dotted lightslategray;
+    border-right: 3px dotted lightslategray;
+}
+*/
 
 h1#page-title {
     color: black;  /* Color of the page title */
