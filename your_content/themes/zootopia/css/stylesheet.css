@@ -18,7 +18,7 @@ body {
 }
 
 a {
-    color: #e72669; /* The color of the hyperlinks */
+    color: white; /* The color of the hyperlinks */
 }
 
 span.link-bar-separator {
@@ -65,6 +65,10 @@ div.archive-thumbnail {
 	text-align: center;
 	width: 100px;
   padding: 30px;
+}
+
+#powered-by {
+	color:white;
 }
 
 div#container {
