@@ -11,14 +11,14 @@ body {
     font-family: 'zootopia', sans-serif;  /* The font of all the text on all pages */
     color: black;  /* The color of the font of most of the text on your website */
     background-color: white;  /* The color of the background behind everything */
-	background-image: url(/griffintest/your_content/images/banners/zootopiaBGtest.png);
+	background-image: url(/griffintest/your_content/images/banners/newageBGTest.png);
 	background-size: cover;
 	background-repeat: repeat;
 	background-attachment: fixed;
 }
 
 a {
-    color: #e72669; /* The color of the hyperlinks */
+    color: #cc8b24; /* The color of the hyperlinks */
 }
 
 span.link-bar-separator {
@@ -77,7 +77,7 @@ div#container {
 }
 
 div#links-bar {
-    background-color: #5ebb8a;  /* The background color of your links bar */
+    background-color: #cc8b24;  /* The background color of your links bar */
 }
 
 a.link-bar-link {
@@ -91,7 +91,7 @@ a.link-bar-link:hover {
 }
 
 a.navigation-button {
-    color: #4a956d;  /* Color of the navigation bar hyperlinks */
+    color: #cc8b24;  /* Color of the navigation bar hyperlinks */
     font-size: 2em;  /* Size of the navigation bar hyperlinks */
     text-decoration: none;  /* Delete this if you want your navigation links to be underlined */
 }
