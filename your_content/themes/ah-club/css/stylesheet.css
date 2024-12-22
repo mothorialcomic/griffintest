@@ -18,11 +18,15 @@ body {
 }
 
 a {
-    color: #FF9400; /* The color of the hyperlinks */
+    color: #e72669; /* The color of the hyperlinks */
 }
 
 span.link-bar-separator {
     margin: 0 18px;
+}
+
+#links-bar {
+	font-size: 22px;
 }
 
 @font-face {
@@ -58,7 +62,7 @@ div#container {
 }
 
 div#links-bar {
-    background-color: #FF9400;  /* The background color of your links bar */
+    background-color: #e72669;  /* The background color of your links bar */
 }
 
 a.link-bar-link {
@@ -72,7 +76,7 @@ a.link-bar-link:hover {
 }
 
 a.navigation-button {
-    color: #FF9400;  /* Color of the navigation bar hyperlinks */
+    color: #e72669;  /* Color of the navigation bar hyperlinks */
     font-size: 2em;  /* Size of the navigation bar hyperlinks */
     text-decoration: none;  /* Delete this if you want your navigation links to be underlined */
 }
@@ -84,7 +88,7 @@ a.navigation-button-disabled {
 }
 
 div#blurb {
-	background-color: #C6E9FD;
+	background-color: #f0bccc;
 	width: 75%;
 	font-family: 'PT Sans', sans-serif;
 }
