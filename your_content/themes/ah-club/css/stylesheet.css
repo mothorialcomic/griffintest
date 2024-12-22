@@ -21,7 +21,7 @@ a {
     color: #e72669; /* The color of the hyperlinks */
 }
 
-div#blurb {
+div.archive-thumbnail {
 	text-align: center;
 }
 

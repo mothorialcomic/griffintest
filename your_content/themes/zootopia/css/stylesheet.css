@@ -61,13 +61,10 @@ span.link-bar-separator {
 	margin-top: -13px;
 }
 
-.archive-thumbnail {
-  width: 100px;
-  padding: 30px;
-}
-
-div#blurb {
+div.archive-thumbnail {
 	text-align: center;
+	width: 100px;
+  padding: 30px;
 }
 
 div#container {

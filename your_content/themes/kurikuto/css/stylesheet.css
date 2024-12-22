@@ -12,7 +12,7 @@ body {
     color: black;  /* The color of the font of most of the text on your website */
     background-color: white;  /* The color of the background behind everything */
 	background-image: url(/griffintest/your_content/images/banners/newageBGTest.png);
-	background-size: cover;
+	background-size: contain;
 	background-repeat: repeat;
 	background-attachment: fixed;
 }
@@ -61,13 +61,10 @@ span.link-bar-separator {
 	margin-top: -13px;
 }
 
-.archive-thumbnail {
-  width: 100px;
-  padding: 33px 23px;
-}
-
-div#blurb {
+div.archive-thumbnail {
 	text-align: center;
+	width: 100px;
+  padding: 33px 23px;
 }
 
 div#container {
@@ -103,7 +100,7 @@ a.navigation-button-disabled {
 }
 
 div#blurb {
-	background-color: #7ae9ae;
+	background-color: #cc8b24;
 	width: 75%;
 	font-family: 'PT Sans', sans-serif;
 }
