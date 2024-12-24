@@ -24,6 +24,11 @@ span.link-bar-separator {
     margin: 0 18px;
 }
 
+.archive-thumbnail-page img {
+  width: 120px;
+  height: 180px;
+}
+
 #links-bar {
 	font-size: 22px;
 }
