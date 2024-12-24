@@ -8,21 +8,17 @@ or use this list of available color names: https://www.w3schools.com/cssref/css_
  */
 
 body {
-    font-family: 'ahclub';  /* The font of all the text on all pages */
+    font-family: 'zootopia';  /* The font of all the text on all pages */
     color: black;  /* The color of the font of most of the text on your website */
     background-color: white;  /* The color of the background behind everything */
-	background-image: url(/griffintest/your_content/images/banners/AHClubBGTest.png);
+	background-image: url(/griffintest/your_content/images/banners/celestiaBGTest.png);
 	background-size: cover;
 	background-repeat: repeat;
 	background-attachment: fixed;
 }
 
 a {
-    color: #e72669; /* The color of the hyperlinks */
-}
-
-div.archive-thumbnail {
-	text-align: center;
+    color: black; /* The color of the hyperlinks */
 }
 
 span.link-bar-separator {
@@ -33,48 +29,60 @@ span.link-bar-separator {
 	font-size: 22px;
 }
 
-.archive-thumbnail-page img {
-  width: 70px;
-}
-
-.archive-thumbnail {
-  padding: 16px 11px;
-}
-
 @font-face {
-    font-family: ahclub;
-    src: url(/your_content/fonts/UNMASKEDBB.OTF) format("opentype");
+    font-family: zootopia;
+    src: url(/your_content/fonts/SEQUENTIALISTBB_REG.OTF) format("opentype");
 	font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
-    font-family: ahclub;
-    src: url(/your_content/fonts/UNMASKEDBB_BOLD.OTF) format("opentype");
+    font-family: zootopia;
+    src: url(/your_content/fonts/SEQUENTIALISTBB_ITAL.OTF) format("opentype");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: zootopia;
+    src: url(/your_content/fonts/SEQUENTIALISTBB_BOLD.OTF) format("opentype");
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
-    font-family: ahclub;
-    src: url(/your_content/fonts/UNMASKEDBB_ITAL.OTF) format("opentype");
-    font-weight: italic;
-    font-style: normal;
+    font-family: zootopia;
+    src: url(/your_content/fonts/SEQUENTIALISTBB_BOLDITAL.OTF) format("opentype");
+    font-weight: bold;
+    font-style: italic;
 }
-
 #banner-img {
 	margin-top: -13px;
 }
 
+div.archive-thumbnail {
+	text-align: center;
+	width: 105px;
+	padding: 33px 23px;
+	color: black;
+}
+
+.archive-thumbnail-page {
+  width: 105px;
+}
+
+#powered-by {
+	color:white;
+}
 
 div#container {
     max-width: 1000px;  /* The width of the main box that contains all content on the pages */
-    background-color: white;  /* The background color of the main box */
+    background-color: #f6e5c9;  /* The background color of the main box */
   /* If you change the background color of website, play with this or else it will look bad. */
 }
 
 div#links-bar {
-    background-color: #89817f;  /* The background color of your links bar */
+    background-color: #5ebb8a;  /* The background color of your links bar */
 }
 
 a.link-bar-link {
@@ -88,7 +96,7 @@ a.link-bar-link:hover {
 }
 
 a.navigation-button {
-    color: #e72669;  /* Color of the navigation bar hyperlinks */
+    color: #4a956d;  /* Color of the navigation bar hyperlinks */
     font-size: 2em;  /* Size of the navigation bar hyperlinks */
     text-decoration: none;  /* Delete this if you want your navigation links to be underlined */
 }
@@ -100,7 +108,7 @@ a.navigation-button-disabled {
 }
 
 div#blurb {
-	background-color: #89817f;
+	background-color: #6d66ad;
 	width: 75%;
 	font-family: 'PT Sans', sans-serif;
 }
