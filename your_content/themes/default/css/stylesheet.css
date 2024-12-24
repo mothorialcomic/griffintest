@@ -35,6 +35,15 @@ div#links-bar {
 	display: none;
 }
 
+.celestiaBooks {
+  position: relative;
+  min-height: 419px;
+  display: flex;
+  align-items: center;
+  height: 100%;
+  border-width: 9px;
+}
+
 div.archive-thumbnail {
   width: 120px;
   margin: 10px;
@@ -139,8 +148,6 @@ td, th {
 
 .comicList {
 	width: 1000px;
-	overflow-x: scroll;
-	overflow-y: hidden;
 } /* Creates horizontal scroll for comics and book lists */
 
 .comicBanner {
@@ -184,7 +191,7 @@ td, th {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background-color: rgba(0, 0, 0, 0.9); /* Dark grey semi-transparent */
+	background-color: rgba(0, 0, 0, 0.4); /* Dark grey semi-transparent */
 	z-index: 1000; /* Ensure it covers everything */
 	cursor: zoom-in; /* Zoom cursor */
 	visibility: hidden; /* Hidden by default */
