@@ -12,8 +12,7 @@ body {
     color: black;  /* The color of the font of most of the text on your website */
     background-color: white;  /* The color of the background behind everything */
 	background-image: url(/griffintest/your_content/images/banners/newageBGTest.png);
-	background-size: contain;
-	background-repeat: round;
+	background-size: cover;
 	background-attachment: fixed;
 }
 
