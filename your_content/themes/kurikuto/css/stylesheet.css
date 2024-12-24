@@ -13,7 +13,7 @@ body {
     background-color: white;  /* The color of the background behind everything */
 	background-image: url(/griffintest/your_content/images/banners/newageBGTest.png);
 	background-size: contain;
-	background-repeat: repeat;
+	background-repeat: round;
 	background-attachment: fixed;
 }
 
