@@ -44,6 +44,10 @@ div#blurb {
   text-overflow: ellipsis;
 }
 
+infinite-page-image {
+	width: 100%
+}
+
 .archive-thumbnail-page img {
   width: 106px;
   height: 42px;
