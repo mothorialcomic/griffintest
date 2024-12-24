@@ -33,6 +33,10 @@ span.link-bar-separator {
 	font-size: 22px;
 }
 
+.infinite-page-image {
+  width: 100%;
+}
+
 @font-face {
     font-family: zootopia;
     src: url(/your_content/fonts/SEQUENTIALISTBB_REG.OTF) format("opentype");
