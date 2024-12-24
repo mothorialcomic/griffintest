@@ -56,13 +56,21 @@ span.link-bar-separator {
 
 div.archive-thumbnail {
 	text-align: center;
-	width: 105px;
+	width: 132px;
 	padding: 33px 23px;
 	color: black;
 }
 
 .archive-thumbnail-page {
-  width: 105px;
+  width: 132px;
+}
+
+.archive-thumbnail-page img {
+	width: 132px;
+}
+
+.infinite-page-image {
+  width: 792px;
 }
 
 #powered-by {
