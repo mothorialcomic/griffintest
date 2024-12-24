@@ -72,17 +72,17 @@ div.archive-thumbnail {
 }
 
 #powered-by {
-	color:white;
+	color:black;
 }
 
 div#container {
     max-width: 1000px;  /* The width of the main box that contains all content on the pages */
-    background-color: #f6e5c9;  /* The background color of the main box */
+    background-color: #c7ccd3;  /* The background color of the main box */
   /* If you change the background color of website, play with this or else it will look bad. */
 }
 
 div#links-bar {
-    background-color: #5ebb8a;  /* The background color of your links bar */
+    background-color: #89817f;  /* The background color of your links bar */
 }
 
 a.link-bar-link {
@@ -108,7 +108,7 @@ a.navigation-button-disabled {
 }
 
 div#blurb {
-	background-color: #6d66ad;
+	background-color: #89817f;
 	width: 75%;
 	font-family: 'PT Sans', sans-serif;
 }
