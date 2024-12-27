@@ -265,8 +265,7 @@
 																														<div class="anidroidsText">
 																															<div class="anidroidsDescription">
 																																<div>
-																																	<h6 class="whiteText novel">Novel</h6>
-																																	<h2 class="whiteText anidroidsTitle">Ani-droids</h2>
+																																	<h2 class="whiteText anidroidsTitle">ANI-DROIDS</h2>
 																																	<p>The world is good. The world is perfect. The world will not be changed from its course.</p>
 																																	<p>In violation of the will of the Collective, Mira McAllister set out to create a new breed of ani-droids that can think for themselves. But when she discovers a mouse-droid with unusual quirks to her programming—and darker secrets besides—she may have set in motion an accidental rebellion.</p>
 																																	<p>The Collective must not find out.</p>
@@ -319,6 +318,25 @@ Hayven Celestia
 																																					<h2 class="whiteText anidroidsTitle">Skinchange</h2>
 																																					<p>
 																																						<a class="redLink" href="https://mothorialcomic.github.io/griffintest/skinchange/comic/001/" style="font-size: 20px;">Read now!</a>
+																																					</p>
+																																				</div>
+																																			</div>
+																																		</div>
+																																	</div>
+																																</div><div class="anidroidsTable">
+																																<div class="borderOneHC" style="border: none;background-color: rgba(17,17,17,0.42);">
+																																	<div class="pictureLeft">
+																																		<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/banners/underonesky.jpg" style="margin-left: 67px;width: 400px;height: 317px;">
+				</div>
+																																		<div class="anidroidsText" style="margin-left: 200px;width: 390px;">
+																																			<div class="anidroidsDescription">
+																																				<div>
+																																					<h6 class="whiteText novel">Game</h6>
+																																					<h2 class="whiteText anidroidsTitle">Under One Sky</h2>
+																																					<p>Hayven Celestia: Under One Sky is a Sci-fi Visual Novel following Sera, a hotshot pilot and the planet's best defense against the evil Krakun empire. But you can't do it alone. An adventure this dangerous is gonna require the cooperation of both friend... and foe.
+																																						
+																																					</p><p>
+																																						<a class="redLink" style="font-size: 20px;" href="https://millerdark.itch.io/under-one-sky">Play now!</a>
 																																					</p>
 																																				</div>
 																																			</div>
@@ -414,34 +432,7 @@ Hayven Celestia
 																																			</div>
 																																			</div>
 																																		</div>
-																																	<div class="celestiaBooks anidroidsText" style="margin-top: -170px;">
-																																			<div class="pictureLeft" style="">
-																																				<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/talesofhayvencelestia.jpg" style="margin-right: 110px;margin-left: 30px;width: 258px;">
-				</div>
-																																				<div class="anidroidsText" style="padding-top: 40px;">
-																																					<div class="anidroidsDescription" style="text-align: left;">
-																																						<div style="font-weight: normal;margin-right: 18px;">
-																																							<p>
-																																							</p><h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -40px;text-align: left;font-weight: normal;">TALES OF HAYVEN CELESTIA</h2>
-																																							<p>
-																																							</p><p style="text-align: left;">Tales of Hayven Celestia is an anthology containing 13 stories from all over the Hayven Celestia universe. There is a wide selection of stories and characters here, ranging from romantic, heroic, heartbreaking and terrifying.</p>
-																																							<p style="font-weight: bold;">While some knowledge of of gateships from The Kanti Cycle or The Final Days of the White Flower II may be illustrative for some geroo stories, Tales of Hayven Celesia is a standalone work whose stories can be read in any order.</p>
-																																							
-																																							<p class="redLink">
-																																								<a rel="noopener" href="https://www.etsy.com/shop/gre7g" target="_blank">Buy it on Etsy</a>
-																																							</p><p class="redLink">
-																																								<a target="_blank" rel="noopener" href="https://www.amazon.com/dp/1655632256?th=1&amp;psc=1&amp;geniuslink=true&amp;tag=bk00010a-20">Buy it on Amazon</a>
-																																							</p>
-																																							<p class="redLink">
-																																								<a target="_blank" rel="noopener" href="https://www.smashwords.com/books/view/998921">Buy it on Smashwords</a>
-																																							</p>
-																																							<p class="redLink">
-																																								<a target="_blank" rel="noopener" href="https://www.audible.com/pd/Tales-of-Hayven-Celestia-Audiobook/B0BNZN7DJ3?ref_pageloadid=9BeJs6QDYF9hzczr&amp;pf_rd_p=ae77544a-4f02-4042-bed0-641b7aadbd7d&amp;pf_rd_r=T7GJN73M8XJJ9SCXRGET&amp;plink=Yz3baKP64xyVgsyv&amp;pageLoadId=WAs7l8p9s0Rwq0kD&amp;creativeId=b570234c-250a-43ff-be6b-ca1b4c5d7caa&amp;ref=a_series_Ha_c5_lProduct_1_1">Get the audiobook</a>
-																																							</p>
-																																						</div>
-																																					</div>
-																																				</div>
-																																			</div><div class="anidroidsTable" style="min-height: 419px;border-style: double;border-width: 9px;background-color: rgb(17, 17, 17);margin-top: -170px;">
+																																	<div class="anidroidsTable" style="min-height: 419px;border-style: double;border-width: 9px;background-color: rgb(17, 17, 17);margin-top: 50px;">
 																																	<div class="">
 																																		<div class="anidroidsText">
 					
@@ -529,18 +520,27 @@ Hayven Celestia
 																																					</div>
 																																				</div>
 																																			</div></div>
-																																		</div><div style="margin-top: -170px;" class="celestiaBooks anidroidsText">
+																																		</div><div class="anidroidsTable" style="min-height: 419px;border-style: double;border-width: 9px;background-color: rgb(17, 17, 17);margin-top: 50px;">
+																																	<div class="">
+																																		<div class="anidroidsText">
+					
+				</div>
+																																		<h6 class="whiteText" style="font-size: 54px;color: white;margin-top: 60px;text-align: center;font-weight: normal;">Tori Mysteries</h6>
+																																		
+																																		<div class="borderOneHC" style="position: relative;margin-top: -120px;padding-top: 45px;padding-bottom: 20px;">
 																																			<div class="pictureLeft" style="">
-																																				<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/rl.jpg" style="margin-right: 110px;margin-left: 30px;width: 258px;">
+																																				<img class="bookImageAnidroids" alt="Image 1" style="margin-right: 110px;margin-left: 30px;width: 258px;" src="/griffintest/your_content/images/books/rl.jpg">
 				</div>
 																																				<div class="anidroidsText" style="padding-top: 40px;">
 																																					<div class="anidroidsDescription" style="text-align: left;">
 																																						<div style="/*! text-align: left; */font-weight: normal;margin-right: 18px;">
 																																							<p>
-																																							</p><h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -40px;text-align: left;font-weight: normal;">REAPER'S LOTTERY</h2>
+																																							</p><h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -40px;text-align: left;font-weight: normal;">1: 
+
+REAPER'S LOTTERY</h2>
 																																							<p>
 																																							</p><p style="text-align: left;">The first of a series following Tori, a factory worker on the gateship Harvest Reaper. When a series of murders implicates her best friend, she's forced to play detective and find out who the real culprit is, before it's too late and the wheels of justice take everything she cares about.</p>
-																																							<p style="font-weight: bold;">Reaper's Lottery is currently a standalone book out of a planned trilogy, and is meant to be read on its own. It contains no plot details from other stories.</p>
+																																							
 																																							<p class="redLink">
 																																								<a target="_blank" rel="noopener" href="https://www.etsy.com/shop/gre7g">Buy it on Etsy</a>
 																																							</p>
@@ -550,6 +550,60 @@ Hayven Celestia
 																																							
 																																							<p class="redLink">
 																																								<a target="_blank" rel="noopener" href="https://www.audible.com/pd/Reapers-Lottery-Audiobook/B0BT6VFW5G?ref_pageloadid=df7ndqU2XNmOBtdO&amp;pf_rd_p=f3abc0ee-320d-4c19-8388-fcd3a8e6c3a4&amp;pf_rd_r=J6FB9GDZVK8HBDHA002D&amp;plink=iXvenZ09epqvBJhS&amp;pageLoadId=cNHPKui2vFYgYwao&amp;creativeId=73c32a9a-e504-4597-bb87-c30c58fc0204&amp;ref=a_author_Gr_c19_lProduct_1_3">Get the audiobook</a>
+																																							</p>
+																																						</div>
+																																					</div>
+																																				</div>
+																																			</div>
+																																		</div>
+																																		<div class="">
+																																			<div class="borderOneHC" style="padding-top: 50px;padding-bottom: 0px;">
+																																				<div class="anidroidsDescription" style="text-align: left;margin-left: 10px;">
+																																					<div style="/*! text-align: left; */font-weight: normal;margin-left: 18px;">
+																																						<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -60px;text-align: left;font-weight: normal;">2: EXECUTIONER'S GAMBIT</h2>
+																																						<p>Tori stared at the screen. "Wait, what? How long is three hundred and fifty-five hours?"</p>
+																																						<p>"It's about fifteen days, Tori," the commissioner sighed. "If we don't get the trinity back online within fifteen days—give or take—there won't be enough power capacity left to bring it back up, and the reactor will be past the point of no return. Without the reactor, this ship is going to get very cold, and everyone will freeze to death."</p><p>Desperate to get the surgery she needs, Tori transfers aboard the Sailor's Gambit I to catch a vigilante. But the situation quickly unravels, and our unlikely investigator discovers that a serial killer on the loose is the very least of her problems.</p>
+																																						<p>
+																																							<a target="_blank" rel="noopener" href="https://www.etsy.com/shop/gre7g">Buy it on Etsy</a>
+																																						</p>
+																																						<p>
+																																							<a target="_blank" rel="noopener" href="https://mybook.to/executionersgambit">Buy it on Amazon</a>
+																																						</p>
+																																						
+																																						<p>
+																																							<a target="_blank" rel="noopener" href="https://www.audible.com/pd/Executioners-Gambit-Audiobook/B0DK48HMPC2">Get the audiobook</a>
+																																						</p>
+																																					</div>
+																																				</div>
+																																				<div class="pictureLeft" style="margin-top: -119px;">
+																																					<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/eg.png" style="margin-right: 30px;margin-left: 30px;width: 258px;">
+				</div>
+																																				</div>
+																																			</div>
+																																			
+																																		</div><div class="celestiaBooks anidroidsText" style="margin-top: -140px;">
+																																			<div class="pictureLeft" style="">
+																																				<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/talesofhayvencelestia.jpg" style="margin-right: 110px;margin-left: 30px;width: 258px;">
+				</div>
+																																				<div class="anidroidsText" style="padding-top: 40px;">
+																																					<div class="anidroidsDescription" style="text-align: left;">
+																																						<div style="font-weight: normal;margin-right: 18px;">
+																																							<p>
+																																							</p><h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -40px;text-align: left;font-weight: normal;">TALES OF HAYVEN CELESTIA</h2>
+																																							<p>
+																																							</p><p style="text-align: left;">Tales of Hayven Celestia is an anthology containing 13 stories from all over the Hayven Celestia universe. There is a wide selection of stories and characters here, ranging from romantic, heroic, heartbreaking and terrifying.</p>
+																																							<p style="font-weight: bold;">While some knowledge of of gateships from The Kanti Cycle or The Final Days of the White Flower II may be illustrative for some geroo stories, Tales of Hayven Celesia is a standalone work whose stories can be read in any order.</p>
+																																							
+																																							<p class="redLink">
+																																								<a rel="noopener" href="https://www.etsy.com/shop/gre7g" target="_blank">Buy it on Etsy</a>
+																																							</p><p class="redLink">
+																																								<a target="_blank" rel="noopener" href="https://www.amazon.com/dp/1655632256?th=1&amp;psc=1&amp;geniuslink=true&amp;tag=bk00010a-20">Buy it on Amazon</a>
+																																							</p>
+																																							<p class="redLink">
+																																								<a target="_blank" rel="noopener" href="https://www.smashwords.com/books/view/998921">Buy it on Smashwords</a>
+																																							</p>
+																																							<p class="redLink">
+																																								<a target="_blank" rel="noopener" href="https://www.audible.com/pd/Tales-of-Hayven-Celestia-Audiobook/B0BNZN7DJ3?ref_pageloadid=9BeJs6QDYF9hzczr&amp;pf_rd_p=ae77544a-4f02-4042-bed0-641b7aadbd7d&amp;pf_rd_r=T7GJN73M8XJJ9SCXRGET&amp;plink=Yz3baKP64xyVgsyv&amp;pageLoadId=WAs7l8p9s0Rwq0kD&amp;creativeId=b570234c-250a-43ff-be6b-ca1b4c5d7caa&amp;ref=a_series_Ha_c5_lProduct_1_1">Get the audiobook</a>
 																																							</p>
 																																						</div>
 																																					</div>
