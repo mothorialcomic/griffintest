@@ -343,7 +343,7 @@ td, th {
 }
 
 .anidroidsDescription {
-	margin-top: -60px;
+	margin-top: 0px;
 	text-align: left;
 }
 
@@ -466,60 +466,4 @@ td, th {
 		padding-top: 20px;
   padding-bottom: 20px;
 	}
-}
-
-@media (max-width: 1000px) {
-	div#container {
-		max-width: 1000px;
-		width: 90%;	
-	}
-	
-	#banner-img {
-		width:100%;
-		max-width: 1000px;
-	}
-
-	.navigation-button {
-		font-size: 27px;
-	}
-}
-
-@media (max-width:900px) {
-
-	body {
-		margin: 0;
-	}
-	
-	div#container {
-		width: 100%;
-		padding: 0;
-		margin: 0;
-	}
-	
-	.bookDescription {
-		padding-top: 20px;
-		padding-bottom: 20px;
-	}
-	
-	.pictureLeft {
-		padding-top: 20px;
-  padding-bottom: 20px;
-	}
-}
-
-
-@media (max-width:900px) {
-	.navigation-button {
-		font-size: 22px;
-	}
-}
-
-@media (max-width:600px) {
-
-	.navigation-button {
-		font-size: 17px;
-	}
-	
-	a.link-bar-link {
-		font-size: 14px;
 }
