@@ -30,6 +30,7 @@ div#container {
     max-width: 1000px;  /* The width of the main box that contains all content on the pages */
     background-color: rgba(2,2,15,0.85);  /* The background color of the main box */
   /* If you change the background color of website, play with this or else it will look bad. */
+	width: 90%;
 }
 
 div#links-bar {
@@ -54,6 +55,10 @@ div.archive-thumbnail {
 
 div#banner {
   margin-top: -50px;
+}
+
+#banner-img {
+	width: 100%;
 }
 
 a.link-bar-link {
@@ -130,12 +135,20 @@ td, th {
 }
 
 .image-link img {
-	width: 300px;
+	max-width: 300px;
 	border-radius: 6px;
 	cursor: pointer;
+	width: 100%;
 }
 
-.image-link img:hover {
+.image-link {
+	max-width: 300px;
+	border-radius: 6px;
+	cursor: pointer;
+	width: 100%;
+}
+
+.image-link:hover {
 	-webkit-filter: brightness(70%);
 	-webkit-transition: all 1s ease;
 	-moz-transition: all 1s ease;
@@ -147,10 +160,6 @@ td, th {
 .comicLinks {
 	border-right: 4px black solid;
 }
-
-.comicList {
-	width: 1000px;
-} /* Creates horizontal scroll for comics and book lists */
 
 .comicBanner {
 	color: white;
@@ -381,3 +390,38 @@ td, th {
 #comic-image {
 	max-width: 100%;
 } /* Sets width for all comic images without going over their original maximum size */
+
+@media (max-width: 1000px) {
+	div#container {
+		max-width: 1000px;
+		width: 90%;	
+	}
+	
+	table {
+		width: 100%;
+		border-collapse: collapse;
+	}
+	
+	.image-link img {
+		max-width: 300px;
+		width: 94%;
+}
+
+	.comicBanner, .bookBanner {
+		font-size: 58px;
+	}
+	
+	.bookBanner {
+		margin-top: 10px;
+	}
+}
+
+@media (max-width:900px) {
+	div#banner {
+		margin-top: -25px;
+	}
+	
+	body {
+		margin: 0;
+	}
+}

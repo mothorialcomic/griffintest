@@ -26,14 +26,13 @@
 										</td>
 											</tr>
 <tr>
-      <td colspan="3">
-        <div style="display: flex;justify-content: center;gap: 36px;">
-          <div><a class="image-link" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; document.getElementById('comicWorldHC').style.visibility = 'visible';">
-													<img src="/griffintest/your_content/images/banners/hc-icon.png" alt="Image 2">
-					</a></div>
-          <div><a class="image-link" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; document.getElementById('comicWorldOther').style.visibility = 'visible';">
-												<img src="/griffintest/your_content/images/banners/banner_Other.png" alt="Image 1">
-					</a></div>
+      <td colspan="3" style="padding: 22px;padding-top: 6px;">
+        <div style="display: flex;justify-content: center;width: 100%;">
+          <img class="image-link" src="/griffintest/your_content/images/banners/hc-icon.png" alt="Image 2" style=" width: 33.3%;cursor: pointer;border-radius: 6px;margin-right: 16px;" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; 
+           document.getElementById('comicWorldHC').style.visibility = 'visible';">
+		   <img class="image-link" src="/griffintest/your_content/images/banners/banner_Other.png" alt="Image 1" style="width: 33.3%; cursor: pointer;border-radius: 6px;" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; 
+           document.getElementById('comicWorldOther').style.visibility = 'visible';">
+          
         </div>
       </td>
     </tr>

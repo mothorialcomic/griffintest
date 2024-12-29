@@ -402,3 +402,11 @@ td, th {
 #comic-image {
 	max-width: 100%;
 } /* Sets width for all comic images without going over their original maximum size */
+
+@media (max-width: 1000px) {
+	div#container {
+		max-width: 1000px;
+		width: 90%;	
+	}
+	
+}
