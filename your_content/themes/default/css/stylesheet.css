@@ -388,14 +388,18 @@ td, th {
 	box-sizing: border-box;
 }
 
-.exitButtonOuter {
-	display: block;
+.exitButtonInner {
+	padding-left: 82%;
 }
 
-.exitButtonInner {
-	display: none;
-	padding-left: 620px;
-}
+	.comicAndBookThumbs {
+		position: relative;
+		top: 140px;
+	}
+	
+	.entryTitle {
+		margin-top: 110px;
+	}
 
 /* All Comic Pages */
 
@@ -403,24 +407,6 @@ td, th {
 	max-width: 100%;
 } /* Sets width for all comic images without going over their original maximum size */
 
-@media (max-width: 1300px) {
-	.comicAndBookThumbs {
-		position: relative;
-		top: 140px;
-	}
-	
-	.exitButtonInner {
-		display: block;
-	}	
-
-	.exitButtonOuter {
-		display: none;
-	}
-	
-	.entryTitle {
-		margin-top: 110px;
-	}
-}
 
 @media (max-width: 1000px) {
 	div#container {
@@ -448,6 +434,11 @@ td, th {
 }
 
 @media (max-width:900px) {
+	
+	.exitButtonInner {
+		padding-left: 75%;
+}
+
 	div#banner {
 		margin-top: -25px;
 	}

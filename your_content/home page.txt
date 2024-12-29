@@ -652,7 +652,6 @@ REAPER'S LOTTERY</h2>
 																																	</div>
 																																	<div class="overlay" id="overlayHome" onclick="document.getElementById('overlayHome').style.visibility = 'hidden'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'hidden'; document.getElementById('comicWorldOther').style.visibility = 'hidden';  document.getElementById('comicWorldHC').style.visibility = 'hidden';
 	document.getElementById('bookWorldPitFighters').style.visibility = 'hidden';
-	document.getElementById('bookWorldAniDroids').style.visibility = 'hidden'; document.getElementById('bookWorldHC').style.visibility = 'hidden';">
-	<img class="exitButtonOuter" style="width: 54px;position: absolute;margin-left: auto;margin-right: auto;padding-left: 570px;top: 30px;cursor: pointer;" src="/griffintest/your_content/images/symbolXWhite.png";></div>
+	document.getElementById('bookWorldAniDroids').style.visibility = 'hidden'; document.getElementById('bookWorldHC').style.visibility = 'hidden';"></div>
 																																</body>
 																															</html>
