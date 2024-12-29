@@ -394,6 +394,7 @@ td, th {
 
 .exitButtonInner {
 	display: none;
+	padding-left: 620px;
 }
 
 /* All Comic Pages */
@@ -414,6 +415,10 @@ td, th {
 
 	.exitButtonOuter {
 		display: none;
+	}
+	
+	.entryTitle {
+		margin-top: 110px;
 	}
 }
 

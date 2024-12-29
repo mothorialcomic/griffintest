@@ -598,7 +598,9 @@ REAPER'S LOTTERY</h2>
 																																				</div>
 																																			</div>
 																																			
-																																		</div><div class="celestiaBooks anidroidsText" style="margin-top: -140px;">
+																																		</div>
+																																		<div class="anidroidsTable" style="min-height: 419px;border-style: none;margin-top: 50px;">
+<div class="celestiaBooks anidroidsText" style="padding-top: 0px;">
 																																			<div class="pictureLeft" style="">
 																																				<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/talesofhayvencelestia.jpg" style="margin-right: 110px;margin-left: 30px;width: 258px;">
 				</div>
@@ -625,9 +627,9 @@ REAPER'S LOTTERY</h2>
 																																						</div>
 																																					</div>
 																																				</div>
-																																			</div><div style="margin-top: -130px;height: 30%;" class="celestiaBooks anidroidsText">
+																																			</div><div style="padding-top: 50px;" class="celestiaBooks anidroidsText">
 																																				<div class="anidroidsDescription" style="text-align: left;margin-left: 10px;">
-																																					<div style="/*! text-align: left; */font-weight: normal;margin-left: 18px;margin-top: 20px;">
+																																					<div style="/*! text-align: left; */font-weight: normal;margin-left: 18px;margin-top: 0px;">
 																																						<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -40px;text-align: left;font-weight: normal;">LONG WAY HOME</h2>
 																																						<p>**THIS BOOK IS FOR ADULT READERS <strong>ONLY</strong>**</p><p>Jungo couldn't pass up the opportunity to become an astronaut, even though his first mission would take him years to complete. Well, it turns out he got a lot more than he bargained for, as a nine-year mission ends up taking much, much longer.</p>
 																																						<p style="font-weight: bold;">Long Way Home is a standalone story that may contain spoilers for Ten Thousand Miles Up and The Final Days of the White Flower II, but does not require knowledge of any other plot details.</p>
@@ -646,7 +648,7 @@ REAPER'S LOTTERY</h2>
 																																				<div class="pictureLeft" style="margin-top: -29px;">
 																																					<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/front.jpg" style="margin-right: 30px;margin-left: 30px;width: 258px;">
 				</div>
-																																				</div>
+																																				</div></div>
 																																	</div>
 																																	<div class="overlay" id="overlayHome" onclick="document.getElementById('overlayHome').style.visibility = 'hidden'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'hidden'; document.getElementById('comicWorldOther').style.visibility = 'hidden';  document.getElementById('comicWorldHC').style.visibility = 'hidden';
 	document.getElementById('bookWorldPitFighters').style.visibility = 'hidden';
