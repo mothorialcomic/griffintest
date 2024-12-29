@@ -379,10 +379,21 @@ td, th {
 	height: 810px;
 	overflow: auto;
 	background-color: rgba(2, 2, 15, 0.98);
-	width: 1000px;
+	width: 95%;
+	max-width: 1000px;
 	border: solid 30px;
 	border-color: rgba(2, 2, 15, 0.98);
 	overscroll-behavior: contain;
+	width: 96%;
+	box-sizing: border-box;
+}
+
+.exitButtonOuter {
+	display: block;
+}
+
+.exitButtonInner {
+	display: none;
 }
 
 /* All Comic Pages */
@@ -390,6 +401,21 @@ td, th {
 #comic-image {
 	max-width: 100%;
 } /* Sets width for all comic images without going over their original maximum size */
+
+@media (max-width: 1300px) {
+	.comicAndBookThumbs {
+		position: relative;
+		top: 140px;
+	}
+	
+	.exitButtonInner {
+		display: block;
+	}	
+
+	.exitButtonOuter {
+		display: none;
+	}
+}
 
 @media (max-width: 1000px) {
 	div#container {
@@ -433,5 +459,15 @@ td, th {
 		width: 100%;
 		padding: 0;
 		margin: 0;
+	}
+	
+	.bookDescription {
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+	
+	.pictureLeft {
+		padding-top: 20px;
+  padding-bottom: 20px;
 	}
 }
