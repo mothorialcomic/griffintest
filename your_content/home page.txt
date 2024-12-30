@@ -8,35 +8,37 @@
 				<h2 class="comicBanner">COMICS</h2>
 				<div class="comicList">
 					<table>
-						<tbody><tr>
-							<td>
-								<a class="image-link" href="https://mothorialcomic.github.io/griffintest/housepets/comic/0001/">
-									<img src="/griffintest/your_content/images/banners/housepets2.png" alt="Image 1">
-					</a>
-								</td>
+						<tbody>
+							<tr>
 								<td>
-									<a class="image-link" href="https://mothorialcomic.github.io/griffintest/ah-club/comic/001/">
-										<img src="/griffintest/your_content/images/banners/AH-icon2.png" alt="Image 2">
+									<a class="image-link" href="https://mothorialcomic.github.io/griffintest/housepets/comic/0001/">
+										<img src="/griffintest/your_content/images/banners/housepets2.png" alt="Image 1">
 					</a>
 									</td>
 									<td>
-										<a class="image-link" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'visible';">
-											<img src="/griffintest/your_content/images/banners/in-the-new-age.png" alt="Image 2">
+										<a class="image-link" href="https://mothorialcomic.github.io/griffintest/ah-club/comic/001/">
+											<img src="/griffintest/your_content/images/banners/AH-icon2.png" alt="Image 2">
 					</a>
 										</td>
-											</tr>
-<tr>
-      <td colspan="3" style="padding: 22px;padding-top: 6px;">
-        <div style="display: flex;justify-content: center;width: 100%;">
-          <img class="image-link" src="/griffintest/your_content/images/banners/hc-icon.png" alt="Image 2" style=" width: 33.3%;cursor: pointer;border-radius: 6px;margin-right: 16px;" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; 
+										<td>
+											<a class="image-link" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'visible';">
+												<img src="/griffintest/your_content/images/banners/in-the-new-age.png" alt="Image 2">
+					</a>
+											</td>
+										</tr>
+										<tr>
+											<td colspan="3" style="padding: 22px;padding-top: 6px;">
+												<div style="display: flex;justify-content: center;width: 100%;">
+													<img class="image-link" src="/griffintest/your_content/images/banners/hc-icon.png" alt="Image 2" style=" width: 33.3%;cursor: pointer;border-radius: 6px;margin-right: 16px;" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; 
            document.getElementById('comicWorldHC').style.visibility = 'visible';">
-		   <img class="image-link" src="/griffintest/your_content/images/banners/banner_Other.png" alt="Image 1" style="width: 33.3%; cursor: pointer;border-radius: 6px;" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; 
+														<img class="image-link" src="/griffintest/your_content/images/banners/banner_Other.png" alt="Image 1" style="width: 33.3%; cursor: pointer;border-radius: 6px;" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; 
            document.getElementById('comicWorldOther').style.visibility = 'visible';">
           
         </div>
-      </td>
-    </tr>
-										</tbody></table>
+													</td>
+												</tr>
+											</tbody>
+										</table>
 									</div>
 									<h2 class="bookBanner">BOOKS</h2>
 									<div class="comicList">
@@ -62,596 +64,619 @@
 												</div>
 												<h2 class="bookBanner">OTHER</h2>
 												<div class="comicList">
-										<table class="otherTable">
-											<tbody><tr>
-												
-													<td>
-														<a class="image-link" href="https://www.rickgriffinstudios.com/store/">
-															<img alt="Image 2" src="/griffintest/your_content/images/banners/store-pb2-2.png">
-					</a>
-														</td>
-														<td>
-															<a class="image-link" href="https://www.patreon.com/rickgriffin">
-																<img alt="Image 2" src="/griffintest/your_content/images/banners/patreon-support.png">
-					</a>
-															</td>
-														</tr>
-													</tbody></table>
-												</div>
-												<div class="comicWorld" id="comicWorldInTheNewAge">
-												<img class="exitButtonInner" style="width: 104px;position: fixed;margin-left: auto;margin-right: auto;top: 0px;cursor: pointer;z-index: 1002;" src="/griffintest/your_content/images/symbolXWhite.png" onclick="document.getElementById('overlayHome').style.visibility = 'hidden'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'hidden'; document.getElementById('comicWorldOther').style.visibility = 'hidden';  document.getElementById('comicWorldHC').style.visibility = 'hidden';
-	document.getElementById('bookWorldPitFighters').style.visibility = 'hidden';
-	document.getElementById('bookWorldAniDroids').style.visibility = 'hidden'; document.getElementById('bookWorldHC').style.visibility = 'hidden';">
-													<table class="comicAndBookThumbs">
-														<tr>
-															<td>
-																<a class="image-link" href="https://mothorialcomic.github.io/griffintest/the-witch-of-kurikuto/comic/001/">
-																	<img src="/griffintest/your_content/images/banners/banner_Kurikuto.png" alt="Image 1">
-					</a>
-																</td>
+													<table class="otherTable">
+														<tbody>
+															<tr>
 																<td>
-																	<a class="image-link" href="https://mothorialcomic.github.io/griffintest/traces-of-the-past/comic/001/">
-																		<img src="/griffintest/your_content/images/banners/banner_TracesOfThePast.png" alt="Image 2">
+																	<a class="image-link" href="https://www.rickgriffinstudios.com/store/">
+																		<img alt="Image 2" src="/griffintest/your_content/images/banners/store-pb2-2.png">
 					</a>
 																	</td>
-																</tr>
-															</table>
-														</div>
-														<div class="comicWorld" id="comicWorldOther">
-														<img class="exitButtonInner" style="width: 104px;position: fixed;margin-left: auto;margin-right: auto;top: 0px;cursor: pointer;z-index: 1002;" src="/griffintest/your_content/images/symbolXWhite.png" onclick="document.getElementById('overlayHome').style.visibility = 'hidden'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'hidden'; document.getElementById('comicWorldOther').style.visibility = 'hidden';  document.getElementById('comicWorldHC').style.visibility = 'hidden';
-	document.getElementById('bookWorldPitFighters').style.visibility = 'hidden';
-	document.getElementById('bookWorldAniDroids').style.visibility = 'hidden'; document.getElementById('bookWorldHC').style.visibility = 'hidden';">
-															<table class="comicAndBookThumbs">
-																<tr>
 																	<td>
-																		<a class="image-link" href="https://mothorialcomic.github.io/griffintest/the-storyboard/comic/001/">
-																			<img src="/griffintest/your_content/images/banners/the-storyboard.png" alt="Image 1">
+																		<a class="image-link" href="https://www.patreon.com/rickgriffin">
+																			<img alt="Image 2" src="/griffintest/your_content/images/banners/patreon-support.png">
 					</a>
 																		</td>
-																		<td>
-																			<a class="image-link" href="https://mothorialcomic.github.io/griffintest/zootopia-night-terrors/comic/001/">
-																				<img src="/griffintest/your_content/images/banners/banner_Zootopia.png" alt="Image 2">
-					</a>
-																			</td>
-																		</tr>
-																	</table>
-																</div>
-																<div class="comicWorld" id="comicWorldHC">
-																<img class="exitButtonInner" style="width: 104px;position: fixed;margin-left: auto;margin-right: auto;top: 0px;cursor: pointer;z-index: 1002;" src="/griffintest/your_content/images/symbolXWhite.png" onclick="document.getElementById('overlayHome').style.visibility = 'hidden'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'hidden'; document.getElementById('comicWorldOther').style.visibility = 'hidden';  document.getElementById('comicWorldHC').style.visibility = 'hidden';
+																	</tr>
+																</tbody>
+															</table>
+														</div>
+														<div class="comicWorld" id="comicWorldInTheNewAge">
+															<img class="exitButtonInner" style="width: 104px;position: fixed;margin-left: auto;margin-right: auto;top: 0px;cursor: pointer;z-index: 1002;" src="/griffintest/your_content/images/symbolXWhite.png" onclick="document.getElementById('overlayHome').style.visibility = 'hidden'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'hidden'; document.getElementById('comicWorldOther').style.visibility = 'hidden';  document.getElementById('comicWorldHC').style.visibility = 'hidden';
 	document.getElementById('bookWorldPitFighters').style.visibility = 'hidden';
 	document.getElementById('bookWorldAniDroids').style.visibility = 'hidden'; document.getElementById('bookWorldHC').style.visibility = 'hidden';">
-																	<table class="comicAndBookThumbs">
-																		<tr>
+																<table class="comicAndBookThumbs">
+																	<tr>
+																		<td>
+																			<a class="image-link" href="https://mothorialcomic.github.io/griffintest/the-witch-of-kurikuto/comic/001/">
+																				<img src="/griffintest/your_content/images/banners/banner_Kurikuto.png" alt="Image 1">
+					</a>
+																			</td>
 																			<td>
-																				<a class="image-link" href="https://mothorialcomic.github.io/griffintest/skinchange/comic/001/">
-																					<img src="/griffintest/your_content/images/banners/banner_Skinchange.png" alt="Image 1">
+																				<a class="image-link" href="https://mothorialcomic.github.io/griffintest/traces-of-the-past/comic/001/">
+																					<img src="/griffintest/your_content/images/banners/banner_TracesOfThePast.png" alt="Image 2">
 					</a>
 																				</td>
 																			</tr>
 																		</table>
 																	</div>
-																	<div class="bookWorld" id="bookWorldPitFighters">
-																	<img class="exitButtonInner" style="width: 104px;position: fixed;margin-left: auto;margin-right: auto;top: 0px;cursor: pointer;z-index: 1002;" src="/griffintest/your_content/images/symbolXWhite.png" onclick="document.getElementById('overlayHome').style.visibility = 'hidden'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'hidden'; document.getElementById('comicWorldOther').style.visibility = 'hidden';  document.getElementById('comicWorldHC').style.visibility = 'hidden';
+																	<div class="comicWorld" id="comicWorldOther">
+																		<img class="exitButtonInner" style="width: 104px;position: fixed;margin-left: auto;margin-right: auto;top: 0px;cursor: pointer;z-index: 1002;" src="/griffintest/your_content/images/symbolXWhite.png" onclick="document.getElementById('overlayHome').style.visibility = 'hidden'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'hidden'; document.getElementById('comicWorldOther').style.visibility = 'hidden';  document.getElementById('comicWorldHC').style.visibility = 'hidden';
 	document.getElementById('bookWorldPitFighters').style.visibility = 'hidden';
 	document.getElementById('bookWorldAniDroids').style.visibility = 'hidden'; document.getElementById('bookWorldHC').style.visibility = 'hidden';">
-																		<h1 class="entryTitle">Pit Fighters</h1>
-																		<h1 style="color: white;font-size: 27px;margin-top: -10px;font-weight: normal;">**THIS SERIES IS FOR ADULT READERS <strong><em><span style="text-decoration: underline;">ONLY</span></em></strong>**</h1>
-																		<div class="bookTable">
-																			<div class="borderOne" style="margin-bottom: 30px;min-height: 419px;display: flex;align-items: center;height: 100%;">
-																				<div class="pictureLeft" style="width: 330px;">
-																					<img class="bookImage" src="/griffintest/your_content/images/books/pf1-cover.jpg" alt="Image 1" style="margin-right: 110px;/*! margin-top: 16px; */margin-left: 30px;">
+																			<table class="comicAndBookThumbs">
+																				<tr>
+																					<td>
+																						<a class="image-link" href="https://mothorialcomic.github.io/griffintest/the-storyboard/comic/001/">
+																							<img src="/griffintest/your_content/images/banners/the-storyboard.png" alt="Image 1">
+					</a>
+																						</td>
+																						<td>
+																							<a class="image-link" href="https://mothorialcomic.github.io/griffintest/zootopia-night-terrors/comic/001/">
+																								<img src="/griffintest/your_content/images/banners/banner_Zootopia.png" alt="Image 2">
+					</a>
+																							</td>
+																						</tr>
+																					</table>
+																				</div>
+																				<div class="comicWorld" id="comicWorldHC">
+																					<img class="exitButtonInner" style="width: 104px;position: fixed;margin-left: auto;margin-right: auto;top: 0px;cursor: pointer;z-index: 1002;" src="/griffintest/your_content/images/symbolXWhite.png" onclick="document.getElementById('overlayHome').style.visibility = 'hidden'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'hidden'; document.getElementById('comicWorldOther').style.visibility = 'hidden';  document.getElementById('comicWorldHC').style.visibility = 'hidden';
+	document.getElementById('bookWorldPitFighters').style.visibility = 'hidden';
+	document.getElementById('bookWorldAniDroids').style.visibility = 'hidden'; document.getElementById('bookWorldHC').style.visibility = 'hidden';">
+																						<table class="comicAndBookThumbs">
+																							<tr>
+																								<td>
+																									<a class="image-link" href="https://mothorialcomic.github.io/griffintest/skinchange/comic/001/">
+																										<img src="/griffintest/your_content/images/banners/banner_Skinchange.png" alt="Image 1">
+					</a>
+																									</td>
+																								</tr>
+																							</table>
+																						</div>
+																						<div class="bookWorld" id="bookWorldPitFighters">
+																							<img class="exitButtonInner" style="width: 104px;position: fixed;margin-left: auto;margin-right: auto;top: 0px;cursor: pointer;z-index: 1002;" src="/griffintest/your_content/images/symbolXWhite.png" onclick="document.getElementById('overlayHome').style.visibility = 'hidden'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'hidden'; document.getElementById('comicWorldOther').style.visibility = 'hidden';  document.getElementById('comicWorldHC').style.visibility = 'hidden';
+	document.getElementById('bookWorldPitFighters').style.visibility = 'hidden';
+	document.getElementById('bookWorldAniDroids').style.visibility = 'hidden'; document.getElementById('bookWorldHC').style.visibility = 'hidden';">
+																								<h1 class="entryTitle">Pit Fighters</h1>
+																								<h1 style="color: white;font-size: 27px;margin-top: -10px;font-weight: normal;">**THIS SERIES IS FOR ADULT READERS <strong>
+																										<em>
+																											<span style="text-decoration: underline;">ONLY</span>
+																										</em>
+																									</strong>**</h1>
+																								<div class="bookTable">
+																									<div class="borderOne" style="margin-bottom: 30px;min-height: 419px;display: flex;align-items: center;height: 100%;">
+																										<div class="pictureLeft" style="width: 330px;">
+																											<img class="bookImage" src="/griffintest/your_content/images/books/pf1-cover.jpg" alt="Image 1" style="margin-right: 110px;/*! margin-top: 16px; */margin-left: 30px;">
 				</div>
-																					<div class="bookDescription" style="/*! padding-top: 60px; */padding-left: -70px;margin-left: -1px;">
-																						<h4>
-																							<span>
+																											<div class="bookDescription" style="/*! padding-top: 60px; */padding-left: -70px;margin-left: -1px;">
+																												<h4>
+																													<span>
 							1 . The Opportunity<br>
 						</span>
-																							</h4>
-																							<p>
-																								<span>
-																									<em>Join the Pit Fighters in its 77th season! We need new, fresh fighters willing to shake up the status quo and go all the way! Fame and fortune could be yours! Ages 16+, any body type, any skill level, no formal training required! Average monthly winnings start at 6600Ƌ.</em>
-																								</span>
-																							</p>
-																							<p>
-																								<span>
+																													</h4>
+																													<p>
+																														<span>
+																															<em>Join the Pit Fighters in its 77th season! We need new, fresh fighters willing to shake up the status quo and go all the way! Fame and fortune could be yours! Ages 16+, any body type, any skill level, no formal training required! Average monthly winnings start at 6600Ƌ.</em>
+																														</span>
+																													</p>
+																													<p>
+																														<span>
 							The start of a new series by Rick Griffin takes place on the Mediterranean paradise island of St. Marten-Cristo. Paris the rabbit finds himself unhappy with how his romantic life has been going, but learns his favorite sport, Pit Fighting, is open to new recruits. Could he possibly find happiness in the seedy world of arena combat?
 						</span>
-																							</p>
-																							<p>
-																								<span>Available on
+																													</p>
+																													<p>
+																														<span>Available on
 							<a href="https://www.smashwords.com/books/view/917684"> Smashwords</a> and <a href="https://www.amazon.com/Pit-Fighters-Opportunity-Rick-Griffin-ebook/dp/B07MMKSG8Z">Amazon</a>
-																								</span>
-																							</p>
-																						</div>
-																					</div>
-																					<div style="margin-bottom: 30px;min-height: 419px;display: flex;align-items: center;height: 100%;" class="borderTwo">
-																						<div class="bookDescription" style="padding-left: 30px;margin-top: 30px;margin-bottom: 16px;">
-																							<h4>
-																								<span>
-							2. Orientation<br>
-						</span>
-																								</h4>
-																								<p>
-																									<span>
-																										<em>Paris realized: he did not know what he was doing. Why did he think he could succeed as a pit fighter? Because he found the fighters hot, with Porte being nowhere near an exception? Or because he took a few martial arts classes as a kid? That was over a decade ago! Sure, he managed four years worth, until the… backwards elbow incident…</em>
-																									</span>
-																								</p>
-																								<p>
-																									<span>
-							The second story in the new series by Rick Griffin takes place on the Mediterranean paradise island of St. Marten-Cristo. After discovering his contract has him trapped in the lowest ranks of the pit fighters, Paris tries to make the most of it--or at least, he will once he can get over the jitters that comes with fighting for real.
-						</span>
-																								</p>
-																								<p>
-																									<span>This book contains some adult content and situations. Available on <a href="https://www.smashwords.com/books/view/945734" target="_blank" rel="noopener">Smashwords</a>
-																									</span>
-																								</p>
-																							</div>
-																							<div class="pictureLeft" style="width: 330px;position: relative;">
-																								<img class="bookImage" src="/griffintest/your_content/images/books/pf2-cover.jpg" alt="Image 1" style="margin-right: 30px;">
-					</div>
-																							</div>
-																							<div class="borderOne" style="margin-bottom: 30px;min-height: 419px;display: flex;align-items: center;height: 100%;">
-																								<div class="pictureLeft" style="width: 330px;">
-																									<img class="bookImage" src="/griffintest/your_content/images/books/pf3-cover.jpg" alt="Image 1" style="margin-right: 110px;/*! margin-top: 16px; */margin-left: 30px;">
-				</div>
-																									<div class="bookDescription" style="/*! padding-top: 60px; */padding-left: -70px;margin-left: -1px;">
-																										<h4>
-																											<span>
-							3. Side Gig<br>
-						</span>
-																											</h4>
-																											<p>
-																												<span>
-																													<em>“Oh, it looks like my books have arrived,” said the massive red-and-cream kangaroo. His voice was deep, but soothing like a massage chair. Paris couldn’t help but throw his eyes all over the perfect specimen before him—shoulders almost as wide as he was tall, thick rippling abs, firm pecs, thick legs, and his… well, his…</em>
-																												</span>
-																											</p>
-																											<p>
-																												<span>
-																													<em>Paris looked up before his dream-come-true noticed him staring at his crotch.</em>
-																												</span>
-																											</p>
-																											<p>
-																												<span>
-																													<em>“S-S-Sultan?” Paris eked out.</em>
-																												</span>
-																											</p>
-																											<p>
-																												<span>
-							The third story by Rick Griffin that takes place on the Mediterranean paradise island of St. Marten-Cristo. Paris wants out of his obligations and is looking to buy his way out, so takes on a side job he hopes will earn him enough money to be free by the end of the decade. It doesn't go very well.
-						</span>
-																											</p>
-																											<p>
-																												<span>This book contains adult content and situations. Available on<a href="https://www.smashwords.com/books/view/1016030" target="_blank" rel="noopener"> Smashwords</a>
-																												</span>
-																											</p>
-																										</div>
-																									</div>
-																									<div style="margin-bottom: 30px;min-height: 419px;display: flex;align-items: center;height: 100%;" class="borderTwo">
-																										<div class="bookDescription" style="padding-left: 30px;margin-top: 30px;margin-bottom: 16px;">
-																											<h4>
-																												<span>
-						4. Family Ties<br>
-						</span>
-																												</h4>
-																												<p>
-																													<span>
-																														<em>Paris sighed. “Like, before I came here, I promised my mom I’d let her watch me fight if we did a public exhibition somewhere she could access.”</em>
-																													</span>
-																												</p>
-																												<p>
-																													<span>
-																														<em>“Your mom!” Logan’s eyes lit up, and he started scrubbing Paris down harder like they were late for a dinner date. “She’ll be proud of how far you’ve come in the last few months!”</em>
-																													</span>
-																												</p>
-																												<p>
-																													<span>
-																														<em>“No, no no!” Paris said. “I haven’t told her anything about my contract situation!”</em>
-																													</span>
-																												</p>
-																												<p>
-																													<span>
-							The fourth story by Rick Griffin takes place on the Mediterranean paradise island of St. Marten-Cristo. Paris finally decides to take his training as a Pit Fighter seriously. But can he face the harshest opponent of all--actually having to admit his problems to his mother?!
-						</span>
-																												</p>
-																												<p>
-																													<span>This book contains some (a lot of) adult content and situations.<br>Available on <a href="https://www.smashwords.com/books/view/1095782" target="_blank" rel="noopener">Smashwords</a>
 																														</span>
 																													</p>
 																												</div>
-																												<div class="pictureLeft" style="width: 330px;position: relative;">
-																													<img class="bookImage" src="/griffintest/your_content/images/books/pf4-cover.jpg" alt="Image 1" style="margin-right: 30px;">
-					</div>
-																												</div>
 																											</div>
-																										</div>
-																										<div class="bookWorld" id="bookWorldAniDroids">
-																										<img class="exitButtonInner" style="width: 104px;position: fixed;margin-left: auto;margin-right: auto;top: 0px;cursor: pointer;z-index: 1002;" src="/griffintest/your_content/images/symbolXWhite.png" onclick="document.getElementById('overlayHome').style.visibility = 'hidden'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'hidden'; document.getElementById('comicWorldOther').style.visibility = 'hidden';  document.getElementById('comicWorldHC').style.visibility = 'hidden';
-	document.getElementById('bookWorldPitFighters').style.visibility = 'hidden';
-	document.getElementById('bookWorldAniDroids').style.visibility = 'hidden'; document.getElementById('bookWorldHC').style.visibility = 'hidden';">
-																											<h1 class="entryTitle">Ani-Droids</h1>
-																											<h2 class="anidroidsOne">Generation pass, and change is inevitable</h2>
-																											<h2 class="anidroidsTwo">200 years in the future, the world is still hurting from the scars of the conflicts it has wrought, and in that time people have remade society with new technology to live the normal lives humans strive for. This technology is vastly complex, so much so that laws have limited its scope so humanity does not lose control of it again. But can the bottle be plugged forever?</h2>
-																											<div class="anidroidsTable">
-																												<div class="borderOneAnidroids">
-																													<div class="pictureLeft">
-																														<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/banners/ad-icon.png">
-				</div>
-																														<div class="anidroidsText">
-																															<div class="anidroidsDescription">
-																																<div>
-																																	<h2 class="whiteText anidroidsTitle">ANI-DROIDS</h2>
-																																	<p>The world is good. The world is perfect. The world will not be changed from its course.</p>
-																																	<p>In violation of the will of the Collective, Mira McAllister set out to create a new breed of ani-droids that can think for themselves. But when she discovers a mouse-droid with unusual quirks to her programming—and darker secrets besides—she may have set in motion an accidental rebellion.</p>
-																																	<p>The Collective must not find out.</p>
-																																	<p>But the Collective is every other ani-droid on Earth.</p>
-																																	<p>
-																																		<a class="redLink" href="https://www.smashwords.com/books/view/1434225" target="_blank">Get the ebook on Smashwords</a>
-																																		<br>
-																																			<a class="redLink" href="https://mybook.to/ani-droids" target="_blank">Get the paperback on Amazon</a>
-																																		</p>
-																																	</div>
-																																</div>
-																															</div>
+																											<div style="margin-bottom: 30px;min-height: 419px;display: flex;align-items: center;height: 100%;" class="borderTwo">
+																												<div class="pictureLeft pictureMobile" style="width: 330px;position: relative;">
+																													<img class="bookImage" src="/griffintest/your_content/images/books/pf2-cover.jpg" alt="Image 1" style="margin-right: 30px;">
+																												</div>
+																													<div class="bookDescription" style="padding-left: 30px;margin-top: 30px;margin-bottom: 16px;">
+																														<h4>
+																															<span>
+							2. Orientation<br>
+						</span>
+																															</h4>
+																															<p>
+																																<span>
+																																	<em>Paris realized: he did not know what he was doing. Why did he think he could succeed as a pit fighter? Because he found the fighters hot, with Porte being nowhere near an exception? Or because he took a few martial arts classes as a kid? That was over a decade ago! Sure, he managed four years worth, until the… backwards elbow incident…</em>
+																																</span>
+																															</p>
+																															<p>
+																																<span>
+							The second story in the new series by Rick Griffin takes place on the Mediterranean paradise island of St. Marten-Cristo. After discovering his contract has him trapped in the lowest ranks of the pit fighters, Paris tries to make the most of it--or at least, he will once he can get over the jitters that comes with fighting for real.
+						</span>
+																															</p>
+																															<p>
+																																<span>This book contains some adult content and situations. Available on <a href="https://www.smashwords.com/books/view/945734" target="_blank" rel="noopener">Smashwords</a>
+																																</span>
+																															</p>
 																														</div>
-																														<h5 style="text-align: center;color: white;font-size: 33px;font-weight: normal;">Other stories!</h5>
-																														<div class="borderTwoAnidroids">
-																															<div class="pictureLeft">
-																																<img class="felidaeIcon" src="/griffintest/your_content/images/books/storyboard011.jpg" alt="Image 1">
+																														<div class="pictureRight" style="width: 330px;position: relative;">
+																															<img class="bookImage" src="/griffintest/your_content/images/books/pf2-cover.jpg" alt="Image 1" style="margin-right: 30px;">
+																														</div>
+																														</div>
+																														<div class="borderOne" style="margin-bottom: 30px;min-height: 419px;display: flex;align-items: center;height: 100%;">
+																															<div class="pictureLeft" style="width: 330px;">
+																																<img class="bookImage" src="/griffintest/your_content/images/books/pf3-cover.jpg" alt="Image 1" style="margin-right: 110px;/*! margin-top: 16px; */margin-left: 30px;">
 				</div>
-																																<div class="felidaeDescription">
-																																	<h4 style="text-align: center;">
-																																		<span>Felidae<br>
+																																<div class="bookDescription" style="/*! padding-top: 60px; */padding-left: -70px;margin-left: -1px;">
+																																	<h4>
+																																		<span>
+							3. Side Gig<br>
 						</span>
 																																		</h4>
 																																		<p>
-																																			<a class="redLink" href="https://mothorialcomic.github.io/griffintest/the-storyboard/comic/011/" style="font-size: 20px;">Read now!</a>
+																																			<span>
+																																				<em>“Oh, it looks like my books have arrived,” said the massive red-and-cream kangaroo. His voice was deep, but soothing like a massage chair. Paris couldn’t help but throw his eyes all over the perfect specimen before him—shoulders almost as wide as he was tall, thick rippling abs, firm pecs, thick legs, and his… well, his…</em>
+																																			</span>
+																																		</p>
+																																		<p>
+																																			<span>
+																																				<em>Paris looked up before his dream-come-true noticed him staring at his crotch.</em>
+																																			</span>
+																																		</p>
+																																		<p>
+																																			<span>
+																																				<em>“S-S-Sultan?” Paris eked out.</em>
+																																			</span>
+																																		</p>
+																																		<p>
+																																			<span>
+							The third story by Rick Griffin that takes place on the Mediterranean paradise island of St. Marten-Cristo. Paris wants out of his obligations and is looking to buy his way out, so takes on a side job he hopes will earn him enough money to be free by the end of the decade. It doesn't go very well.
+						</span>
+																																		</p>
+																																		<p>
+																																			<span>This book contains adult content and situations. Available on<a href="https://www.smashwords.com/books/view/1016030" target="_blank" rel="noopener"> Smashwords</a>
+																																			</span>
 																																		</p>
 																																	</div>
 																																</div>
-																															</div>
-																														</div>
-																														<div class="bookWorld" id="bookWorldHC">
-																														<img class="exitButtonInner" style="width: 104px;position: fixed;margin-left: auto;margin-right: auto;top: 0px;cursor: pointer;z-index: 1002;" src="/griffintest/your_content/images/symbolXWhite.png" onclick="document.getElementById('overlayHome').style.visibility = 'hidden'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'hidden'; document.getElementById('comicWorldOther').style.visibility = 'hidden';  document.getElementById('comicWorldHC').style.visibility = 'hidden';
+																																<div style="margin-bottom: 30px;min-height: 419px;display: flex;align-items: center;height: 100%;" class="borderTwo">
+																																<div class="pictureLeft" style="width: 330px;position: relative;">
+																																				<img class="bookImage" src="/griffintest/your_content/images/books/pf4-cover.jpg" alt="Image 1" style="margin-right: 30px;">
+					</div>
+																																	<div class="bookDescription" style="padding-left: 30px;margin-top: 30px;margin-bottom: 16px;">
+																																		<h4>
+																																			<span>
+						4. Family Ties<br>
+						</span>
+																																			</h4>
+																																			<p>
+																																				<span>
+																																					<em>Paris sighed. “Like, before I came here, I promised my mom I’d let her watch me fight if we did a public exhibition somewhere she could access.”</em>
+																																				</span>
+																																			</p>
+																																			<p>
+																																				<span>
+																																					<em>“Your mom!” Logan’s eyes lit up, and he started scrubbing Paris down harder like they were late for a dinner date. “She’ll be proud of how far you’ve come in the last few months!”</em>
+																																				</span>
+																																			</p>
+																																			<p>
+																																				<span>
+																																					<em>“No, no no!” Paris said. “I haven’t told her anything about my contract situation!”</em>
+																																				</span>
+																																			</p>
+																																			<p>
+																																				<span>
+							The fourth story by Rick Griffin takes place on the Mediterranean paradise island of St. Marten-Cristo. Paris finally decides to take his training as a Pit Fighter seriously. But can he face the harshest opponent of all--actually having to admit his problems to his mother?!
+						</span>
+																																			</p>
+																																			<p>
+																																				<span>This book contains some (a lot of) adult content and situations.<br>Available on <a href="https://www.smashwords.com/books/view/1095782" target="_blank" rel="noopener">Smashwords</a>
+																																					</span>
+																																				</p>
+																																			</div>
+																																			<div class="pictureRight" style="width: 330px;position: relative;">
+																																				<img class="bookImage" src="/griffintest/your_content/images/books/pf4-cover.jpg" alt="Image 1" style="margin-right: 30px;">
+					</div>
+																																			</div>
+																																		</div>
+																																	</div>
+																																	<div class="bookWorld" id="bookWorldAniDroids">
+																																		<img class="exitButtonInner" style="width: 104px;position: fixed;margin-left: auto;margin-right: auto;top: 0px;cursor: pointer;z-index: 1002;" src="/griffintest/your_content/images/symbolXWhite.png" onclick="document.getElementById('overlayHome').style.visibility = 'hidden'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'hidden'; document.getElementById('comicWorldOther').style.visibility = 'hidden';  document.getElementById('comicWorldHC').style.visibility = 'hidden';
 	document.getElementById('bookWorldPitFighters').style.visibility = 'hidden';
 	document.getElementById('bookWorldAniDroids').style.visibility = 'hidden'; document.getElementById('bookWorldHC').style.visibility = 'hidden';">
-																															<h1 class="entryTitle">
+																																			<h1 class="entryTitle">Ani-Droids</h1>
+																																			<h2 class="anidroidsOne">Generation pass, and change is inevitable</h2>
+																																			<h2 class="anidroidsTwo">200 years in the future, the world is still hurting from the scars of the conflicts it has wrought, and in that time people have remade society with new technology to live the normal lives humans strive for. This technology is vastly complex, so much so that laws have limited its scope so humanity does not lose control of it again. But can the bottle be plugged forever?</h2>
+																																			<div class="anidroidsTable">
+																																				<div class="borderOneAnidroids">
+																																					<div class="pictureLeft">
+																																						<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/banners/ad-icon.png">
+				</div>
+																																						<div class="anidroidsText">
+																																							<div class="anidroidsDescription">
+																																								<div>
+																																									<h2 class="whiteText anidroidsTitle">ANI-DROIDS</h2>
+																																									<p>The world is good. The world is perfect. The world will not be changed from its course.</p>
+																																									<p>In violation of the will of the Collective, Mira McAllister set out to create a new breed of ani-droids that can think for themselves. But when she discovers a mouse-droid with unusual quirks to her programming—and darker secrets besides—she may have set in motion an accidental rebellion.</p>
+																																									<p>The Collective must not find out.</p>
+																																									<p>But the Collective is every other ani-droid on Earth.</p>
+																																									<p>
+																																										<a class="redLink" href="https://www.smashwords.com/books/view/1434225" target="_blank">Get the ebook on Smashwords</a>
+																																										<br>
+																																											<a class="redLink" href="https://mybook.to/ani-droids" target="_blank">Get the paperback on Amazon</a>
+																																										</p>
+																																									</div>
+																																								</div>
+																																							</div>
+																																						</div>
+																																						<h5 style="text-align: center;color: white;font-size: 33px;font-weight: normal;">Other stories!</h5>
+																																						<div class="borderTwoAnidroids">
+																																							<div class="pictureLeft">
+																																								<img class="felidaeIcon" src="/griffintest/your_content/images/books/storyboard011.jpg" alt="Image 1">
+				</div>
+																																								<div class="felidaeDescription">
+																																									<h4 style="text-align: center;">
+																																										<span>Felidae<br>
+						</span>
+																																										</h4>
+																																										<p>
+																																											<a class="redLink" href="https://mothorialcomic.github.io/griffintest/the-storyboard/comic/011/" style="font-size: 20px;">Read now!</a>
+																																										</p>
+																																									</div>
+																																								</div>
+																																							</div>
+																																						</div>
+																																						<div class="bookWorld" id="bookWorldHC">
+																																							<img class="exitButtonInner" style="width: 104px;position: fixed;margin-left: auto;margin-right: auto;top: 0px;cursor: pointer;z-index: 1002;" src="/griffintest/your_content/images/symbolXWhite.png" onclick="document.getElementById('overlayHome').style.visibility = 'hidden'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'hidden'; document.getElementById('comicWorldOther').style.visibility = 'hidden';  document.getElementById('comicWorldHC').style.visibility = 'hidden';
+	document.getElementById('bookWorldPitFighters').style.visibility = 'hidden';
+	document.getElementById('bookWorldAniDroids').style.visibility = 'hidden'; document.getElementById('bookWorldHC').style.visibility = 'hidden';">
+																																								<h1 class="entryTitle">
 Hayven Celestia
 </h1>
-																															<h2 class="anidroidsOne">The laws benefit the lawmakers</h2>
-																															<h2 class="anidroidsTwo">Space is vast. Though worlds are plentiful, in the end their rulers are the ones with the strength and technology to conquer and hold. Who can stand in their way?</h2>
-																															<h2 class="anidroidsTwo">This is not about power, but the survival of those who carve out a life for themselves and dream of a place they might call home.</h2>
-																															<h2 class="anidroidsOne" style="margin-top: 30px;">There's a lot of books here</h2>
-																															<h2 class="anidroidsTwo" style="">The fans, all the time they be asking me: "Rick, what order should I read these books in?" And that's why I'm making this handy-dandy chart here.</h2>
-																															<h2 class="anidroidsTwo" style="">Skinchange, the comic you can access below, is going to periodically update with an ongoing story unconnected to any of the following works. All the books below are prose with illustrations.</h2>
-																															<div class="anidroidsTable">
-																																<div class="borderOneHC" style="border: none;background-color: rgba(17,17,17,0.42);">
-																																	<div class="pictureLeft">
-																																		<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/banners/banner_Skinchange.png" style="margin-left: 210px;">
+																																								<h2 class="anidroidsOne">The laws benefit the lawmakers</h2>
+																																								<h2 class="anidroidsTwo">Space is vast. Though worlds are plentiful, in the end their rulers are the ones with the strength and technology to conquer and hold. Who can stand in their way?</h2>
+																																								<h2 class="anidroidsTwo">This is not about power, but the survival of those who carve out a life for themselves and dream of a place they might call home.</h2>
+																																								<h2 class="anidroidsOne" style="margin-top: 30px;">There's a lot of books here</h2>
+																																								<h2 class="anidroidsTwo" style="">The fans, all the time they be asking me: "Rick, what order should I read these books in?" And that's why I'm making this handy-dandy chart here.</h2>
+																																								<h2 class="anidroidsTwo" style="">Skinchange, the comic you can access below, is going to periodically update with an ongoing story unconnected to any of the following works. All the books below are prose with illustrations.</h2>
+																																								<div class="anidroidsTable">
+																																									<div class="borderOneHC" style="border: none;background-color: rgba(17,17,17,0.42);">
+																																										<div class="pictureLeft">
+																																											<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/banners/banner_Skinchange.png" style="margin-left: 210px;">
 				</div>
-																																		<div class="anidroidsText" style="margin-left: 200px;">
-																																			<div class="anidroidsDescription">
-																																				<div>
-																																					<h6 class="whiteText novel">Comic</h6>
-																																					<h2 class="whiteText anidroidsTitle">Skinchange</h2>
-																																					<p>
-																																						<a class="redLink" href="https://mothorialcomic.github.io/griffintest/skinchange/comic/001/" style="font-size: 20px;">Read now!</a>
+																																											<div class="anidroidsText" style="margin-left: 200px;">
+																																												<div class="anidroidsDescription">
+																																													<div>
+																																														<h6 class="whiteText novel">Comic</h6>
+																																														<h2 class="whiteText anidroidsTitle">Skinchange</h2>
+																																														<p>
+																																															<a class="redLink" href="https://mothorialcomic.github.io/griffintest/skinchange/comic/001/" style="font-size: 20px;">Read now!</a>
+																																														</p>
+																																													</div>
+																																												</div>
+																																											</div>
+																																										</div>
+																																									</div>
+																																									<div class="anidroidsTable">
+																																										<div class="borderOneHC" style="border: none;background-color: rgba(17,17,17,0.42);">
+																																											<div class="pictureLeft">
+																																												<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/underonesky.jpg" style="margin-left: 67px;width: 400px;height: 317px;">
+				</div>
+																																												<div class="anidroidsText" style="margin-left: 200px;width: 390px;">
+																																													<div class="anidroidsDescription">
+																																														<div>
+																																															<h6 class="whiteText novel">Game</h6>
+																																															<h2 class="whiteText anidroidsTitle">Under One Sky</h2>
+																																															<p>Hayven Celestia: Under One Sky is a Sci-fi Visual Novel following Sera, a hotshot pilot and the planet's best defense against the evil Krakun empire. But you can't do it alone. An adventure this dangerous is gonna require the cooperation of both friend... and foe.
+																																						
 																																					</p>
-																																				</div>
-																																			</div>
-																																		</div>
-																																	</div>
-																																</div><div class="anidroidsTable">
-																																<div class="borderOneHC" style="border: none;background-color: rgba(17,17,17,0.42);">
-																																	<div class="pictureLeft">
-																																		<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/underonesky.jpg" style="margin-left: 67px;width: 400px;height: 317px;">
-				</div>
-																																		<div class="anidroidsText" style="margin-left: 200px;width: 390px;">
-																																			<div class="anidroidsDescription">
-																																				<div>
-																																					<h6 class="whiteText novel">Game</h6>
-																																					<h2 class="whiteText anidroidsTitle">Under One Sky</h2>
-																																					<p>Hayven Celestia: Under One Sky is a Sci-fi Visual Novel following Sera, a hotshot pilot and the planet's best defense against the evil Krakun empire. But you can't do it alone. An adventure this dangerous is gonna require the cooperation of both friend... and foe.
-																																						
-																																					</p><p>
-																																						<a class="redLink" style="font-size: 20px;" href="https://millerdark.itch.io/under-one-sky">Play now!</a>
-																																					</p>
-																																				</div>
-																																			</div>
-																																		</div>
-																																	</div>
-																																</div>
-																																<div class="anidroidsTable" style="min-height: 419px;border-style: double;border-width: 9px;background-color: rgb(17, 17, 17);">
-																																	<div class="">
-																																		<div class="anidroidsText">
+																																															<p>
+																																																<a class="redLink" style="font-size: 20px;" href="https://millerdark.itch.io/under-one-sky">Play now!</a>
+																																															</p>
+																																														</div>
+																																													</div>
+																																												</div>
+																																											</div>
+																																										</div>
+																																										<div class="anidroidsTable" style="min-height: 419px;border-style: double;border-width: 9px;background-color: rgb(17, 17, 17);">
+																																											<div class="">
+																																												<div class="anidroidsText">
 					
 				</div>
-																																		<h6 class="whiteText" style="font-size: 54px;color: white;margin-top: 60px;text-align: center;font-weight: normal;">The Final Days of the White Flower II</h6>
-																																		<div class="anidroidsDescription" style="text-align: left;margin-left: 40px;margin-right: 40px;">
-																																			<div style="/*! text-align: left; */font-weight: normal;margin-right: 18px;font-size: 1.2rem;">
-																																				<p>The Final Days of the White Flower II is a novel trilogy retelling of the short story "Ten Thousand Miles Up". Note that "Ten Thousand Miles Up", avaiable on Smashwords, will contain some spoilers for the trilogy, so depending on how avoidant you are of spoilers, you may wish to wait for the trilogy to be complete!</p><p>
-																																			</p></div>
-																																		</div>
-																																		<div class="borderOneHC" style="padding-top: -130px;position: relative;margin-top: 0px;/*! padding-top: 0px; */">
-																																			<div class="pictureLeft" style="">
-																																				<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/traitorsthievesandliars.jpg" style="margin-right: 110px;margin-left: 30px;width: 258px;">
+																																												<h6 class="whiteText" style="font-size: 54px;color: white;margin-top: 60px;text-align: center;font-weight: normal;">The Final Days of the White Flower II</h6>
+																																												<div class="anidroidsDescription" style="text-align: left;margin-left: 40px;margin-right: 40px;">
+																																													<div style="/*! text-align: left; */font-weight: normal;margin-right: 18px;font-size: 1.2rem;">
+																																														<p>The Final Days of the White Flower II is a novel trilogy retelling of the short story "Ten Thousand Miles Up". Note that "Ten Thousand Miles Up", avaiable on Smashwords, will contain some spoilers for the trilogy, so depending on how avoidant you are of spoilers, you may wish to wait for the trilogy to be complete!</p>
+																																														<p>
+																																			</p>
+																																													</div>
+																																												</div>
+																																												<div class="borderOneHC" style="padding-top: -130px;position: relative;margin-top: 0px;/*! padding-top: 0px; */">
+																																													<div class="pictureLeft" style="">
+																																														<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/traitorsthievesandliars.jpg" style="margin-right: 110px;margin-left: 30px;width: 258px;">
 				</div>
-																																				<div class="anidroidsText" style="padding-top: 0px;">
-																																					<div class="anidroidsDescription" style="text-align: left;">
-																																						<div style="/*! text-align: left; */font-weight: normal;margin-right: 18px;">
-																																							<p>
-																																							</p><h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -40px;text-align: left;font-weight: normal;">1: TRAITORS, THIEVES AND LIARS</h2>
-																																							<p>
-																																							</p><p style="text-align: left;">Traitors, Thieves and Liars follows Subcommander Gert, next in line to be captain of the White Flower II, a krakun slave ship served by geroo. The ship is waylaid by pirates who have a very interesting and dangerous offer, which Captain Ateri cannot simply ignore.</p>
-																																							<p style="font-weight: bold;">The Final Days of the White Flower II trilogy is meant to be read on its own and does not require you have read any of the other books. It takes place chronologically after The Kanti Cycle, but is not required reading.</p>
-																																							
-																																							<p class="redLink">
-																																								<a href="http://mybook.to/traitorsthievesliars" target="_blank" rel="noopener">Buy it on Amazon</a>
+																																														<div class="anidroidsText" style="padding-top: 0px;">
+																																															<div class="anidroidsDescription" style="text-align: left;">
+																																																<div style="/*! text-align: left; */font-weight: normal;margin-right: 18px;">
+																																																	<p>
 																																							</p>
-																																							<p class="redLink">
-																																								<a href="https://www.smashwords.com/books/view/924593" target="_blank" rel="noopener">Buy it on Smashwords</a>
+																																																	<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -40px;text-align: left;font-weight: normal;">1: TRAITORS, THIEVES AND LIARS</h2>
+																																																	<p>
 																																							</p>
-																																							<p class="redLink">
-																																								<a href="https://www.audible.com/pd/B093LG5J4D/?source_code=AUDFPWS0223189MWT-BK-ACX0-253964&amp;ref=acx_bty_BK_ACX0_253964_rh_us" target="_blank" rel="noopener">Get the audiobook</a>
-																																							</p>
-																																						</div>
-																																					</div>
-																																				</div>
-																																			</div>
-																																		</div>
-																																		<div class="">
-																																			<div class="borderOneHC" style="padding-top: 50px;">
-																																				<div class="anidroidsDescription" style="text-align: left;margin-left: 10px;">
-																																					<div style="/*! text-align: left; */font-weight: normal;margin-left: 18px;">
-																																						<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -80px;text-align: left;font-weight: normal;">2: THE CAPTAIN'S OATH</h2>
-																																						<p>The Captain's Oath is the second book of The Final Days of the White Flower II. It follows Subcommander Tesko, science officer of the White Flower II, as she discovers the conspiracy the captain has embroiled them all in. She is at first very enthusiastic about the prospect of escape from their slavery, but things quickly take a turn for the worse.</p>
-																																						<p style="font-weight: bold;">The Final Days of the White Flower II trilogy is meant to be read on its own and does not require you have read any of the other books. It takes place chronologically after The Kanti Cycle, but is not required reading.</p>
-																																						
-																																						<p>
-																																							<a href="http://mybook.to/TheCaptainsOath" target="_blank" rel="noopener">Buy it on Amazon</a>
-																																						</p>
-																																						<p>
-																																							<a href="https://www.smashwords.com/books/view/1070464" target="_blank" rel="noopener">Buy it on Smashwords</a>
-																																						</p>
-																																						<p>
-																																							<a href="https://www.audible.com/pd/The-Captains-Oath-Audiobook/B098886CST?source_code=AUDFPWS0223189MWT-BK-ACX0-265681&amp;ref=acx_bty_BK_ACX0_265681_rh_us" target="_blank" rel="noopener">Get the audiobook</a>
-																																						</p>
-																																					</div>
-																																				</div>
-																																				<div class="pictureLeft" style="margin-top: -119px;">
-																																					<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/thecaptainsoath.jpg" style="margin-right: 30px;margin-left: 30px;width: 258px;">
+																																																	<p style="text-align: left;">Traitors, Thieves and Liars follows Subcommander Gert, next in line to be captain of the White Flower II, a krakun slave ship served by geroo. The ship is waylaid by pirates who have a very interesting and dangerous offer, which Captain Ateri cannot simply ignore.</p>
+																																																	<p style="font-weight: bold;">The Final Days of the White Flower II trilogy is meant to be read on its own and does not require you have read any of the other books. It takes place chronologically after The Kanti Cycle, but is not required reading.</p>
+																																																	<p class="redLink">
+																																																		<a href="http://mybook.to/traitorsthievesliars" target="_blank" rel="noopener">Buy it on Amazon</a>
+																																																	</p>
+																																																	<p class="redLink">
+																																																		<a href="https://www.smashwords.com/books/view/924593" target="_blank" rel="noopener">Buy it on Smashwords</a>
+																																																	</p>
+																																																	<p class="redLink">
+																																																		<a href="https://www.audible.com/pd/B093LG5J4D/?source_code=AUDFPWS0223189MWT-BK-ACX0-253964&amp;ref=acx_bty_BK_ACX0_253964_rh_us" target="_blank" rel="noopener">Get the audiobook</a>
+																																																	</p>
+																																																</div>
+																																															</div>
+																																														</div>
+																																													</div>
+																																												</div>
+																																												<div class="">
+																																													<div class="borderOneHC" style="padding-top: 50px;">
+																																														<div class="anidroidsDescription" style="text-align: left;margin-left: 10px;">
+																																															<div style="/*! text-align: left; */font-weight: normal;margin-left: 18px;">
+																																																<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -80px;text-align: left;font-weight: normal;">2: THE CAPTAIN'S OATH</h2>
+																																																<p>The Captain's Oath is the second book of The Final Days of the White Flower II. It follows Subcommander Tesko, science officer of the White Flower II, as she discovers the conspiracy the captain has embroiled them all in. She is at first very enthusiastic about the prospect of escape from their slavery, but things quickly take a turn for the worse.</p>
+																																																<p style="font-weight: bold;">The Final Days of the White Flower II trilogy is meant to be read on its own and does not require you have read any of the other books. It takes place chronologically after The Kanti Cycle, but is not required reading.</p>
+																																																<p>
+																																																	<a href="http://mybook.to/TheCaptainsOath" target="_blank" rel="noopener">Buy it on Amazon</a>
+																																																</p>
+																																																<p>
+																																																	<a href="https://www.smashwords.com/books/view/1070464" target="_blank" rel="noopener">Buy it on Smashwords</a>
+																																																</p>
+																																																<p>
+																																																	<a href="https://www.audible.com/pd/The-Captains-Oath-Audiobook/B098886CST?source_code=AUDFPWS0223189MWT-BK-ACX0-265681&amp;ref=acx_bty_BK_ACX0_265681_rh_us" target="_blank" rel="noopener">Get the audiobook</a>
+																																																</p>
+																																															</div>
+																																														</div>
+																																														<div class="pictureLeft" style="margin-top: -119px;">
+																																															<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/thecaptainsoath.jpg" style="margin-right: 30px;margin-left: 30px;width: 258px;">
 				</div>
-																																				</div>
-																																			</div>
-																																			<div class="">
-																																				<div class="borderOneHC" style="position: relative;margin-top: -110px;">
-																																			<div class="pictureLeft" style="margin-top: -240px;">
-																																				<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/chainunbroken.jpg" style="margin-right: 110px;margin-left: 30px;width: 258px;">
+																																														</div>
+																																													</div>
+																																													<div class="">
+																																														<div class="borderOneHC" style="position: relative;margin-top: -110px;">
+																																															<div class="pictureLeft" style="margin-top: -240px;">
+																																																<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/chainunbroken.jpg" style="margin-right: 110px;margin-left: 30px;width: 258px;">
 				</div>
-																																				<div class="anidroidsText" style="padding-top: 40px;">
-																																					<div class="anidroidsDescription" style="text-align: left;">
-																																						<div style="/*! text-align: left; */font-weight: normal;margin-right: 18px;">
-																																							<p>
-																																							</p><h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -40px;text-align: left;font-weight: normal;">3: Chain Unbroken</h2>
-																																							<p>
-																																							</p><p style="text-align: left;">Nothing will ever be the same again.</p><p style="text-align: left;">Having successfully averted a mutiny and the near-discovery of the Exit Plan, the White Flower II's new captain is now in charge of fulfilling that plan to its end, and there's only a little more than a month to prepare. But there's a problem—Tesko doesn't want to deliver the terraformer to the pirates as agreed. She wants it for the geroo, and she will not take no for an answer. But it's not as simple as kicking the pirates out, as both crews need each other. For now.</p><p style="text-align: left;">The mistrust between the crews of the White Flower II and the Jet Black Sword are at an all-time high. Everyone, geroo and ringel alike, know that a war is coming. They smile at each other while holding daggers behind their backs. If that wasn't bad enough, there's still the Geordian Guard to deal with, as well as Commissioner Pokokuro who has this time come prepared. And what's worse... Subcommander Gert is still in love with the ringel.</p><p style="text-align: left;">Now begins the slow, inexorable countdown to the end of everything they know. Is it a new beginning—or is it the geroos' last gasp of hope?</p><p style="text-align: left;">Chain Unbroken is the final entry in the epic heist that will redirect the fate of an entire species. Have faith and courage, because in the end, the only ones we can rely on are each other.</p>
-																																							<p style="font-weight: bold;">The Final Days of the White Flower II trilogy is meant to be read on its own and does not require you have read any of the other books. It takes place chronologically after The Kanti Cycle, but is not required reading.</p>
-																																							
-																																							<p class="redLink">
-																																								<a target="_blank" rel="noopener" href="https://mybook.to/chainunbroken">Buy it on Amazon</a>
+																																																<div class="anidroidsText" style="padding-top: 40px;">
+																																																	<div class="anidroidsDescription" style="text-align: left;">
+																																																		<div style="/*! text-align: left; */font-weight: normal;margin-right: 18px;">
+																																																			<p>
 																																							</p>
-																																							<p class="redLink">
-																																								<a target="_blank" rel="noopener" href="https://www.smashwords.com/books/view/1632708">Buy it on Smashwords</a>
+																																																			<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -40px;text-align: left;font-weight: normal;">3: Chain Unbroken</h2>
+																																																			<p>
 																																							</p>
-																																							
-																																						</div>
-																																					</div>
-																																				</div>
-																																			</div>
-																																			</div>
-																																		</div>
-																																	<div class="anidroidsTable" style="min-height: 419px;border-style: double;border-width: 9px;background-color: rgb(17, 17, 17);margin-top: 50px;">
-																																	<div class="">
-																																		<div class="anidroidsText">
+																																																			<p style="text-align: left;">Nothing will ever be the same again.</p>
+																																																			<p style="text-align: left;">Having successfully averted a mutiny and the near-discovery of the Exit Plan, the White Flower II's new captain is now in charge of fulfilling that plan to its end, and there's only a little more than a month to prepare. But there's a problem—Tesko doesn't want to deliver the terraformer to the pirates as agreed. She wants it for the geroo, and she will not take no for an answer. But it's not as simple as kicking the pirates out, as both crews need each other. For now.</p>
+																																																			<p style="text-align: left;">The mistrust between the crews of the White Flower II and the Jet Black Sword are at an all-time high. Everyone, geroo and ringel alike, know that a war is coming. They smile at each other while holding daggers behind their backs. If that wasn't bad enough, there's still the Geordian Guard to deal with, as well as Commissioner Pokokuro who has this time come prepared. And what's worse... Subcommander Gert is still in love with the ringel.</p>
+																																																			<p style="text-align: left;">Now begins the slow, inexorable countdown to the end of everything they know. Is it a new beginning—or is it the geroos' last gasp of hope?</p>
+																																																			<p style="text-align: left;">Chain Unbroken is the final entry in the epic heist that will redirect the fate of an entire species. Have faith and courage, because in the end, the only ones we can rely on are each other.</p>
+																																																			<p style="font-weight: bold;">The Final Days of the White Flower II trilogy is meant to be read on its own and does not require you have read any of the other books. It takes place chronologically after The Kanti Cycle, but is not required reading.</p>
+																																																			<p class="redLink">
+																																																				<a target="_blank" rel="noopener" href="https://mybook.to/chainunbroken">Buy it on Amazon</a>
+																																																			</p>
+																																																			<p class="redLink">
+																																																				<a target="_blank" rel="noopener" href="https://www.smashwords.com/books/view/1632708">Buy it on Smashwords</a>
+																																																			</p>
+																																																		</div>
+																																																	</div>
+																																																</div>
+																																															</div>
+																																														</div>
+																																													</div>
+																																													<div class="anidroidsTable" style="min-height: 419px;border-style: double;border-width: 9px;background-color: rgb(17, 17, 17);margin-top: 50px;">
+																																														<div class="">
+																																															<div class="anidroidsText">
 					
 				</div>
-																																		<h6 class="whiteText" style="font-size: 54px;color: white;margin-top: 60px;text-align: center;font-weight: normal;">The Kanti Cycle</h6>
-																																		
-																																		<div class="borderOneHC" style="position: relative;margin-top: -120px;padding-top: 45px;padding-bottom: 20px;">
-																																			<div class="pictureLeft" style="">
-																																				<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/sc.jpg" style="margin-right: 110px;margin-left: 30px;width: 258px;">
+																																															<h6 class="whiteText" style="font-size: 54px;color: white;margin-top: 60px;text-align: center;font-weight: normal;">The Kanti Cycle</h6>
+																																															<div class="borderOneHC" style="position: relative;margin-top: -120px;padding-top: 45px;padding-bottom: 20px;">
+																																																<div class="pictureLeft" style="">
+																																																	<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/sc.jpg" style="margin-right: 110px;margin-left: 30px;width: 258px;">
 				</div>
-																																				<div class="anidroidsText" style="padding-top: 40px;">
-																																					<div class="anidroidsDescription" style="text-align: left;">
-																																						<div style="/*! text-align: left; */font-weight: normal;margin-right: 18px;">
-																																							<p>
-																																							</p><h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -40px;text-align: left;font-weight: normal;">1: SKELETON CREW</h2>
-																																							<p>
-																																							</p><p style="text-align: left;">Kanti's life has not been going to way he's wanted it. He's working the lowest job of the White Flower II, that of the recycler bay crew. When his best friend dies and Kanti accidentally takes over his identity, he's suddenly thrust into the middle of a shipwide conspiracy, and if Kanti wants to keep his own life, he my just have to tell the truth about who he really is.</p>
-																																							<p style="font-weight: bold;">The Kanti Cycle is a trilogy that should be read in order. It is a prequel to The Final Days of the White Flower II, but is meant to be read on its own. </p>
-																																							<p class="redLink">
-																																								<a target="_blank" rel="noopener" href="https://www.etsy.com/shop/gre7g">Buy it on Etsy</a>
+																																																	<div class="anidroidsText" style="padding-top: 40px;">
+																																																		<div class="anidroidsDescription" style="text-align: left;">
+																																																			<div style="/*! text-align: left; */font-weight: normal;margin-right: 18px;">
+																																																				<p>
 																																							</p>
-																																							<p class="redLink">
-																																								<a target="_blank" rel="noopener" href="https://www.amazon.com/Skeleton-Crew-Kanti-Cycle-Book-ebook/dp/B086RB5ZFC">Buy it on Amazon</a>
+																																																				<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -40px;text-align: left;font-weight: normal;">1: SKELETON CREW</h2>
+																																																				<p>
 																																							</p>
-																																							
-																																							<p class="redLink">
-																																								<a target="_blank" rel="noopener" href="https://www.audible.com/pd/Skeleton-Crew-Audiobook/B099VKV94J?ref_pageloadid=M7KhBHiTDJ6aC60x&amp;pf_rd_p=2feb1981-ce9d-438d-ab14-86799c9ef174&amp;pf_rd_r=E1222VCRNP8TMSMJEYRA&amp;plink=ceiNMKa37mcvGqrv&amp;pageLoadId=9BeJs6QDYF9hzczr&amp;creativeId=0af2a489-14b7-432e-9a67-0e4657ded0c8&amp;ref=a_series_Th_c11_adblp13nssbo_1">Get the audiobook</a>
-																																							</p>
-																																						</div>
-																																					</div>
-																																				</div>
-																																			</div>
-																																		</div>
-																																		<div class="">
-																																			<div class="borderOneHC" style="padding-top: 50px;padding-bottom: 0px;">
-																																				<div class="anidroidsDescription" style="text-align: left;margin-left: 10px;">
-																																					<div style="/*! text-align: left; */font-weight: normal;margin-left: 18px;">
-																																						<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -60px;text-align: left;font-weight: normal;">2: SMALL WORLD</h2>
-																																						<p>Kanti finally got everything he ever wanted, and now he must pay for it. He and fifty others are forced to go to Krakuntec Prime and serve as the commissioner's personal cleaning crew on a planet whose atmosphere he can't even breathe. Can he make a new life here?</p>
-																																						<p style="font-weight: bold;">The Kanti Cycle is a trilogy that should be read in order. It is a prequel to The Final Days of the White Flower II, but is meant to be read on its own. </p>
-																																						<p>
-																																							<a target="_blank" rel="noopener" href="https://www.etsy.com/shop/gre7g">Buy it on Etsy</a>
-																																						</p>
-																																						<p>
-																																							<a target="_blank" rel="noopener" href="https://www.amazon.com/gp/product/B086QBYTFC?ref_=dbs_m_mng_rwt_calw_tkin_1&amp;storeType=ebooks">Buy it on Amazon</a>
-																																						</p>
-																																						
-																																						<p>
-																																							<a target="_blank" rel="noopener" href="https://www.audible.com/pd/Small-World-Audiobook/B09D3Z2ZZZ?ref_pageloadid=1a7OwpMzQcqOS5Bj&amp;pf_rd_p=ae77544a-4f02-4042-bed0-641b7aadbd7d&amp;pf_rd_r=7VFEC5JSFWMEE008GJ5V&amp;plink=waxcPKc7o0SFvf7B&amp;pageLoadId=wHf5AbhNIc7Qj1R8&amp;creativeId=b570234c-250a-43ff-be6b-ca1b4c5d7caa&amp;ref=a_series_Th_c5_lProduct_1_2">Get the audiobook</a>
-																																						</p>
-																																					</div>
-																																				</div>
-																																				<div class="pictureLeft" style="margin-top: -119px;">
-																																					<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/sw.jpg" style="margin-right: 30px;margin-left: 30px;width: 258px;">
+																																																				<p style="text-align: left;">Kanti's life has not been going to way he's wanted it. He's working the lowest job of the White Flower II, that of the recycler bay crew. When his best friend dies and Kanti accidentally takes over his identity, he's suddenly thrust into the middle of a shipwide conspiracy, and if Kanti wants to keep his own life, he my just have to tell the truth about who he really is.</p>
+																																																				<p style="font-weight: bold;">The Kanti Cycle is a trilogy that should be read in order. It is a prequel to The Final Days of the White Flower II, but is meant to be read on its own. </p>
+																																																				<p class="redLink">
+																																																					<a target="_blank" rel="noopener" href="https://www.etsy.com/shop/gre7g">Buy it on Etsy</a>
+																																																				</p>
+																																																				<p class="redLink">
+																																																					<a target="_blank" rel="noopener" href="https://www.amazon.com/Skeleton-Crew-Kanti-Cycle-Book-ebook/dp/B086RB5ZFC">Buy it on Amazon</a>
+																																																				</p>
+																																																				<p class="redLink">
+																																																					<a target="_blank" rel="noopener" href="https://www.audible.com/pd/Skeleton-Crew-Audiobook/B099VKV94J?ref_pageloadid=M7KhBHiTDJ6aC60x&amp;pf_rd_p=2feb1981-ce9d-438d-ab14-86799c9ef174&amp;pf_rd_r=E1222VCRNP8TMSMJEYRA&amp;plink=ceiNMKa37mcvGqrv&amp;pageLoadId=9BeJs6QDYF9hzczr&amp;creativeId=0af2a489-14b7-432e-9a67-0e4657ded0c8&amp;ref=a_series_Th_c11_adblp13nssbo_1">Get the audiobook</a>
+																																																				</p>
+																																																			</div>
+																																																		</div>
+																																																	</div>
+																																																</div>
+																																															</div>
+																																															<div class="">
+																																																<div class="borderOneHC" style="padding-top: 50px;padding-bottom: 0px;">
+																																																	<div class="anidroidsDescription" style="text-align: left;margin-left: 10px;">
+																																																		<div style="/*! text-align: left; */font-weight: normal;margin-left: 18px;">
+																																																			<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -60px;text-align: left;font-weight: normal;">2: SMALL WORLD</h2>
+																																																			<p>Kanti finally got everything he ever wanted, and now he must pay for it. He and fifty others are forced to go to Krakuntec Prime and serve as the commissioner's personal cleaning crew on a planet whose atmosphere he can't even breathe. Can he make a new life here?</p>
+																																																			<p style="font-weight: bold;">The Kanti Cycle is a trilogy that should be read in order. It is a prequel to The Final Days of the White Flower II, but is meant to be read on its own. </p>
+																																																			<p>
+																																																				<a target="_blank" rel="noopener" href="https://www.etsy.com/shop/gre7g">Buy it on Etsy</a>
+																																																			</p>
+																																																			<p>
+																																																				<a target="_blank" rel="noopener" href="https://www.amazon.com/gp/product/B086QBYTFC?ref_=dbs_m_mng_rwt_calw_tkin_1&amp;storeType=ebooks">Buy it on Amazon</a>
+																																																			</p>
+																																																			<p>
+																																																				<a target="_blank" rel="noopener" href="https://www.audible.com/pd/Small-World-Audiobook/B09D3Z2ZZZ?ref_pageloadid=1a7OwpMzQcqOS5Bj&amp;pf_rd_p=ae77544a-4f02-4042-bed0-641b7aadbd7d&amp;pf_rd_r=7VFEC5JSFWMEE008GJ5V&amp;plink=waxcPKc7o0SFvf7B&amp;pageLoadId=wHf5AbhNIc7Qj1R8&amp;creativeId=b570234c-250a-43ff-be6b-ca1b4c5d7caa&amp;ref=a_series_Th_c5_lProduct_1_2">Get the audiobook</a>
+																																																			</p>
+																																																		</div>
+																																																	</div>
+																																																	<div class="pictureLeft" style="margin-top: -119px;">
+																																																		<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/sw.jpg" style="margin-right: 30px;margin-left: 30px;width: 258px;">
 				</div>
-																																				</div>
-																																			</div>
-																																			<div class="">
-																																				<div style="/*! text-align: left; */font-weight: normal;margin-left: 18px;">
-																																					<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -40px;text-align: center;font-weight: normal;">BOOK 3 COMING SOON</h2>
-																																				</div>
-																																			<div class="borderOneHC" style="position: relative;margin-top: -140px;padding-top: 30px;padding-bottom: 30px;">
-																																			<div class="pictureLeft" style="">
-																																				<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/ft.jpg" style="margin-right: 110px;margin-left: 30px;width: 258px;">
+																																																	</div>
+																																																</div>
+																																																<div class="">
+																																																	<div style="/*! text-align: left; */font-weight: normal;margin-left: 18px;">
+																																																		<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -40px;text-align: center;font-weight: normal;">BOOK 3 COMING SOON</h2>
+																																																	</div>
+																																																	<div class="borderOneHC" style="position: relative;margin-top: -140px;padding-top: 30px;padding-bottom: 30px;">
+																																																		<div class="pictureLeft" style="">
+																																																			<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/ft.jpg" style="margin-right: 110px;margin-left: 30px;width: 258px;">
 				</div>
-																																				<div class="anidroidsText" style="padding-top: 40px;">
-																																					<div class="anidroidsDescription" style="text-align: left;">
-																																						<div style="/*! text-align: left; */font-weight: normal;margin-right: 18px;">
-																																							<p>
-																																							</p><h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -40px;text-align: left;font-weight: normal;">3: FAIR TRADE</h2>
-																																							<p>
-																																							</p><p style="text-align: left;">Kanti now finds out there was a whole other world behind the walls of the krakun apartment building, lorded over by a species known as the sourang. He once again finds himself in a life of servitude, this time separated from the ones he loves. But he's not going to quit--not yet, not when his family needs him.</p>
-																																							<p style="font-weight: bold;">The Kanti Cycle is a trilogy that should be read in order. It is a prequel to The Final Days of the White Flower II, but is meant to be read on its own. </p>
-																																							<p class="redLink">
-																																								<a target="_blank" rel="noopener" href="https://www.etsy.com/shop/gre7g">Buy it on Etsy</a>
+																																																			<div class="anidroidsText" style="padding-top: 40px;">
+																																																				<div class="anidroidsDescription" style="text-align: left;">
+																																																					<div style="/*! text-align: left; */font-weight: normal;margin-right: 18px;">
+																																																						<p>
 																																							</p>
-																																							<p class="redLink">
-																																								<a target="_blank" rel="noopener" href="https://www.amazon.com/gp/product/B086QBR94R?ref_=dbs_m_mng_rwt_calw_tkin_2&amp;storeType=ebooks">Buy it on Amazon</a>
+																																																						<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -40px;text-align: left;font-weight: normal;">3: FAIR TRADE</h2>
+																																																						<p>
 																																							</p>
-																																							
-																																							<p class="redLink">
-																																								<a target="_blank" rel="noopener" href="https://www.audible.com/pd/Fair-Trade-Audiobook/B09N3Z8FDH?ref_pageloadid=1a7OwpMzQcqOS5Bj&amp;pf_rd_p=ae77544a-4f02-4042-bed0-641b7aadbd7d&amp;pf_rd_r=7VFEC5JSFWMEE008GJ5V&amp;plink=waxcPKc7o0SFvf7B&amp;pageLoadId=wHf5AbhNIc7Qj1R8&amp;creativeId=b570234c-250a-43ff-be6b-ca1b4c5d7caa&amp;ref=a_series_Th_c5_lProduct_1_3">Get the audiobook</a>
-																																							</p>
-																																						</div>
-																																					</div>
-																																				</div>
-																																			</div></div>
-																																		</div><div class="anidroidsTable" style="min-height: 419px;border-style: double;border-width: 9px;background-color: rgb(17, 17, 17);margin-top: 50px;">
-																																	<div class="">
-																																		<div class="anidroidsText">
+																																																						<p style="text-align: left;">Kanti now finds out there was a whole other world behind the walls of the krakun apartment building, lorded over by a species known as the sourang. He once again finds himself in a life of servitude, this time separated from the ones he loves. But he's not going to quit--not yet, not when his family needs him.</p>
+																																																						<p style="font-weight: bold;">The Kanti Cycle is a trilogy that should be read in order. It is a prequel to The Final Days of the White Flower II, but is meant to be read on its own. </p>
+																																																						<p class="redLink">
+																																																							<a target="_blank" rel="noopener" href="https://www.etsy.com/shop/gre7g">Buy it on Etsy</a>
+																																																						</p>
+																																																						<p class="redLink">
+																																																							<a target="_blank" rel="noopener" href="https://www.amazon.com/gp/product/B086QBR94R?ref_=dbs_m_mng_rwt_calw_tkin_2&amp;storeType=ebooks">Buy it on Amazon</a>
+																																																						</p>
+																																																						<p class="redLink">
+																																																							<a target="_blank" rel="noopener" href="https://www.audible.com/pd/Fair-Trade-Audiobook/B09N3Z8FDH?ref_pageloadid=1a7OwpMzQcqOS5Bj&amp;pf_rd_p=ae77544a-4f02-4042-bed0-641b7aadbd7d&amp;pf_rd_r=7VFEC5JSFWMEE008GJ5V&amp;plink=waxcPKc7o0SFvf7B&amp;pageLoadId=wHf5AbhNIc7Qj1R8&amp;creativeId=b570234c-250a-43ff-be6b-ca1b4c5d7caa&amp;ref=a_series_Th_c5_lProduct_1_3">Get the audiobook</a>
+																																																						</p>
+																																																					</div>
+																																																				</div>
+																																																			</div>
+																																																		</div>
+																																																	</div>
+																																																</div>
+																																																<div class="anidroidsTable" style="min-height: 419px;border-style: double;border-width: 9px;background-color: rgb(17, 17, 17);margin-top: 50px;">
+																																																	<div class="">
+																																																		<div class="anidroidsText">
 					
 				</div>
-																																		<h6 class="whiteText" style="font-size: 54px;color: white;margin-top: 60px;text-align: center;font-weight: normal;">Tori Mysteries</h6>
-																																		
-																																		<div class="borderOneHC" style="position: relative;margin-top: -120px;padding-top: 45px;padding-bottom: 20px;">
-																																			<div class="pictureLeft" style="">
-																																				<img class="bookImageAnidroids" alt="Image 1" style="margin-right: 110px;margin-left: 30px;width: 258px;" src="/griffintest/your_content/images/books/rl.jpg">
+																																																		<h6 class="whiteText" style="font-size: 54px;color: white;margin-top: 60px;text-align: center;font-weight: normal;">Tori Mysteries</h6>
+																																																		<div class="borderOneHC" style="position: relative;margin-top: -120px;padding-top: 45px;padding-bottom: 20px;">
+																																																			<div class="pictureLeft" style="">
+																																																				<img class="bookImageAnidroids" alt="Image 1" style="margin-right: 110px;margin-left: 30px;width: 258px;" src="/griffintest/your_content/images/books/rl.jpg">
 				</div>
-																																				<div class="anidroidsText" style="padding-top: 40px;">
-																																					<div class="anidroidsDescription" style="text-align: left;">
-																																						<div style="/*! text-align: left; */font-weight: normal;margin-right: 18px;">
-																																							<p>
-																																							</p><h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -40px;text-align: left;font-weight: normal;">1: 
+																																																				<div class="anidroidsText" style="padding-top: 40px;">
+																																																					<div class="anidroidsDescription" style="text-align: left;">
+																																																						<div style="/*! text-align: left; */font-weight: normal;margin-right: 18px;">
+																																																							<p>
+																																							</p>
+																																																							<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -40px;text-align: left;font-weight: normal;">1: 
 
 REAPER'S LOTTERY</h2>
-																																							<p>
-																																							</p><p style="text-align: left;">The first of a series following Tori, a factory worker on the gateship Harvest Reaper. When a series of murders implicates her best friend, she's forced to play detective and find out who the real culprit is, before it's too late and the wheels of justice take everything she cares about.</p>
-																																							
-																																							<p class="redLink">
-																																								<a target="_blank" rel="noopener" href="https://www.etsy.com/shop/gre7g">Buy it on Etsy</a>
+																																																							<p>
 																																							</p>
-																																							<p class="redLink">
-																																								<a target="_blank" rel="noopener" href="https://www.amazon.com/Reapers-Lottery-Tori-Mysteries-Book/dp/B0BT718N77/?_encoding=UTF8&amp;pd_rd_w=nxvQM&amp;content-id=amzn1.sym.bc3ba8d1-5076-4ab7-9ba8-a5c6211e002d&amp;pf_rd_p=bc3ba8d1-5076-4ab7-9ba8-a5c6211e002d&amp;pf_rd_r=143-0021460-7696177&amp;pd_rd_wg=nqdlL&amp;pd_rd_r=c00e997d-8428-4925-aecf-6894421a61e3&amp;ref_=aufs_ap_sc_dsk">Buy it on Amazon</a>
-																																							</p>
-																																							
-																																							<p class="redLink">
-																																								<a target="_blank" rel="noopener" href="https://www.audible.com/pd/Reapers-Lottery-Audiobook/B0BT6VFW5G?ref_pageloadid=df7ndqU2XNmOBtdO&amp;pf_rd_p=f3abc0ee-320d-4c19-8388-fcd3a8e6c3a4&amp;pf_rd_r=J6FB9GDZVK8HBDHA002D&amp;plink=iXvenZ09epqvBJhS&amp;pageLoadId=cNHPKui2vFYgYwao&amp;creativeId=73c32a9a-e504-4597-bb87-c30c58fc0204&amp;ref=a_author_Gr_c19_lProduct_1_3">Get the audiobook</a>
-																																							</p>
-																																						</div>
-																																					</div>
-																																				</div>
-																																			</div>
-																																		</div>
-																																		<div class="">
-																																			<div class="borderOneHC" style="padding-top: 50px;padding-bottom: 0px;">
-																																				<div class="anidroidsDescription" style="text-align: left;margin-left: 10px;">
-																																					<div style="/*! text-align: left; */font-weight: normal;margin-left: 18px;">
-																																						<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -60px;text-align: left;font-weight: normal;">2: EXECUTIONER'S GAMBIT</h2>
-																																						<p>Tori stared at the screen. "Wait, what? How long is three hundred and fifty-five hours?"</p>
-																																						<p>"It's about fifteen days, Tori," the commissioner sighed. "If we don't get the trinity back online within fifteen days—give or take—there won't be enough power capacity left to bring it back up, and the reactor will be past the point of no return. Without the reactor, this ship is going to get very cold, and everyone will freeze to death."</p><p>Desperate to get the surgery she needs, Tori transfers aboard the Sailor's Gambit I to catch a vigilante. But the situation quickly unravels, and our unlikely investigator discovers that a serial killer on the loose is the very least of her problems.</p>
-																																						<p>
-																																							<a target="_blank" rel="noopener" href="https://www.etsy.com/shop/gre7g">Buy it on Etsy</a>
-																																						</p>
-																																						<p>
-																																							<a target="_blank" rel="noopener" href="https://mybook.to/executionersgambit">Buy it on Amazon</a>
-																																						</p>
-																																						
-																																						<p>
-																																							<a target="_blank" rel="noopener" href="https://www.audible.com/pd/Executioners-Gambit-Audiobook/B0DK48HMPC2">Get the audiobook</a>
-																																						</p>
-																																					</div>
-																																				</div>
-																																				<div class="pictureLeft" style="margin-top: -119px;">
-																																					<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/eg.png" style="margin-right: 30px;margin-left: 30px;width: 258px;">
+																																																							<p style="text-align: left;">The first of a series following Tori, a factory worker on the gateship Harvest Reaper. When a series of murders implicates her best friend, she's forced to play detective and find out who the real culprit is, before it's too late and the wheels of justice take everything she cares about.</p>
+																																																							<p class="redLink">
+																																																								<a target="_blank" rel="noopener" href="https://www.etsy.com/shop/gre7g">Buy it on Etsy</a>
+																																																							</p>
+																																																							<p class="redLink">
+																																																								<a target="_blank" rel="noopener" href="https://www.amazon.com/Reapers-Lottery-Tori-Mysteries-Book/dp/B0BT718N77/?_encoding=UTF8&amp;pd_rd_w=nxvQM&amp;content-id=amzn1.sym.bc3ba8d1-5076-4ab7-9ba8-a5c6211e002d&amp;pf_rd_p=bc3ba8d1-5076-4ab7-9ba8-a5c6211e002d&amp;pf_rd_r=143-0021460-7696177&amp;pd_rd_wg=nqdlL&amp;pd_rd_r=c00e997d-8428-4925-aecf-6894421a61e3&amp;ref_=aufs_ap_sc_dsk">Buy it on Amazon</a>
+																																																							</p>
+																																																							<p class="redLink">
+																																																								<a target="_blank" rel="noopener" href="https://www.audible.com/pd/Reapers-Lottery-Audiobook/B0BT6VFW5G?ref_pageloadid=df7ndqU2XNmOBtdO&amp;pf_rd_p=f3abc0ee-320d-4c19-8388-fcd3a8e6c3a4&amp;pf_rd_r=J6FB9GDZVK8HBDHA002D&amp;plink=iXvenZ09epqvBJhS&amp;pageLoadId=cNHPKui2vFYgYwao&amp;creativeId=73c32a9a-e504-4597-bb87-c30c58fc0204&amp;ref=a_author_Gr_c19_lProduct_1_3">Get the audiobook</a>
+																																																							</p>
+																																																						</div>
+																																																					</div>
+																																																				</div>
+																																																			</div>
+																																																		</div>
+																																																		<div class="">
+																																																			<div class="borderOneHC" style="padding-top: 50px;padding-bottom: 0px;">
+																																																				<div class="anidroidsDescription" style="text-align: left;margin-left: 10px;">
+																																																					<div style="/*! text-align: left; */font-weight: normal;margin-left: 18px;">
+																																																						<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -60px;text-align: left;font-weight: normal;">2: EXECUTIONER'S GAMBIT</h2>
+																																																						<p>Tori stared at the screen. "Wait, what? How long is three hundred and fifty-five hours?"</p>
+																																																						<p>"It's about fifteen days, Tori," the commissioner sighed. "If we don't get the trinity back online within fifteen days—give or take—there won't be enough power capacity left to bring it back up, and the reactor will be past the point of no return. Without the reactor, this ship is going to get very cold, and everyone will freeze to death."</p>
+																																																						<p>Desperate to get the surgery she needs, Tori transfers aboard the Sailor's Gambit I to catch a vigilante. But the situation quickly unravels, and our unlikely investigator discovers that a serial killer on the loose is the very least of her problems.</p>
+																																																						<p>
+																																																							<a target="_blank" rel="noopener" href="https://www.etsy.com/shop/gre7g">Buy it on Etsy</a>
+																																																						</p>
+																																																						<p>
+																																																							<a target="_blank" rel="noopener" href="https://mybook.to/executionersgambit">Buy it on Amazon</a>
+																																																						</p>
+																																																						<p>
+																																																							<a target="_blank" rel="noopener" href="https://www.audible.com/pd/Executioners-Gambit-Audiobook/B0DK48HMPC2">Get the audiobook</a>
+																																																						</p>
+																																																					</div>
+																																																				</div>
+																																																				<div class="pictureLeft" style="margin-top: -119px;">
+																																																					<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/eg.png" style="margin-right: 30px;margin-left: 30px;width: 258px;">
 				</div>
-																																				</div>
-																																			</div>
-																																			
-																																		</div>
-																																		<div class="anidroidsTable" style="min-height: 419px;border-style: none;margin-top: 50px;">
-<div class="celestiaBooks anidroidsText" style="padding-top: 0px;">
-																																			<div class="pictureLeft" style="">
-																																				<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/talesofhayvencelestia.jpg" style="margin-right: 110px;margin-left: 30px;width: 258px;">
+																																																				</div>
+																																																			</div>
+																																																		</div>
+																																																		<div class="anidroidsTable" style="min-height: 419px;border-style: none;margin-top: 50px;">
+																																																			<div class="celestiaBooks anidroidsText" style="padding-top: 0px;">
+																																																				<div class="pictureLeft" style="">
+																																																					<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/talesofhayvencelestia.jpg" style="margin-right: 110px;margin-left: 30px;width: 258px;">
 				</div>
-																																				<div class="anidroidsText" style="padding-top: 40px;">
-																																					<div class="anidroidsDescription" style="text-align: left;">
-																																						<div style="font-weight: normal;margin-right: 18px;">
-																																							<p>
-																																							</p><h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -40px;text-align: left;font-weight: normal;">TALES OF HAYVEN CELESTIA</h2>
-																																							<p>
-																																							</p><p style="text-align: left;">Tales of Hayven Celestia is an anthology containing 13 stories from all over the Hayven Celestia universe. There is a wide selection of stories and characters here, ranging from romantic, heroic, heartbreaking and terrifying.</p>
-																																							<p style="font-weight: bold;">While some knowledge of of gateships from The Kanti Cycle or The Final Days of the White Flower II may be illustrative for some geroo stories, Tales of Hayven Celesia is a standalone work whose stories can be read in any order.</p>
-																																							
-																																							<p class="redLink">
-																																								<a rel="noopener" href="https://www.etsy.com/shop/gre7g" target="_blank">Buy it on Etsy</a>
-																																							</p><p class="redLink">
-																																								<a target="_blank" rel="noopener" href="https://www.amazon.com/dp/1655632256?th=1&amp;psc=1&amp;geniuslink=true&amp;tag=bk00010a-20">Buy it on Amazon</a>
+																																																					<div class="anidroidsText" style="padding-top: 40px;">
+																																																						<div class="anidroidsDescription" style="text-align: left;">
+																																																							<div style="font-weight: normal;margin-right: 18px;">
+																																																								<p>
 																																							</p>
-																																							<p class="redLink">
-																																								<a target="_blank" rel="noopener" href="https://www.smashwords.com/books/view/998921">Buy it on Smashwords</a>
+																																																								<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -40px;text-align: left;font-weight: normal;">TALES OF HAYVEN CELESTIA</h2>
+																																																								<p>
 																																							</p>
-																																							<p class="redLink">
-																																								<a target="_blank" rel="noopener" href="https://www.audible.com/pd/Tales-of-Hayven-Celestia-Audiobook/B0BNZN7DJ3?ref_pageloadid=9BeJs6QDYF9hzczr&amp;pf_rd_p=ae77544a-4f02-4042-bed0-641b7aadbd7d&amp;pf_rd_r=T7GJN73M8XJJ9SCXRGET&amp;plink=Yz3baKP64xyVgsyv&amp;pageLoadId=WAs7l8p9s0Rwq0kD&amp;creativeId=b570234c-250a-43ff-be6b-ca1b4c5d7caa&amp;ref=a_series_Ha_c5_lProduct_1_1">Get the audiobook</a>
-																																							</p>
-																																						</div>
-																																					</div>
-																																				</div>
-																																			</div><div style="padding-top: 50px;" class="celestiaBooks anidroidsText">
-																																				<div class="anidroidsDescription" style="text-align: left;margin-left: 10px;">
-																																					<div style="/*! text-align: left; */font-weight: normal;margin-left: 18px;margin-top: 0px;">
-																																						<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -40px;text-align: left;font-weight: normal;">LONG WAY HOME</h2>
-																																						<p>**THIS BOOK IS FOR ADULT READERS <strong>ONLY</strong>**</p><p>Jungo couldn't pass up the opportunity to become an astronaut, even though his first mission would take him years to complete. Well, it turns out he got a lot more than he bargained for, as a nine-year mission ends up taking much, much longer.</p>
-																																						<p style="font-weight: bold;">Long Way Home is a standalone story that may contain spoilers for Ten Thousand Miles Up and The Final Days of the White Flower II, but does not require knowledge of any other plot details.</p>
-																																						<p>
-																																							<a href="https://gre7g.com/store/index.php?main_page=product_info&amp;cPath=0&amp;products_id=13" target="_blank" rel="noopener">Buy it on Etsy</a>
-																																						</p>
-																																						<p>
-																																							<a target="_blank" rel="noopener" href="https://www.amazon.com/Long-Way-Home-Gre7g-Luterman-ebook/dp/B09LVF4HZK/ref=sr_1_2?dib=eyJ2IjoiMSJ9.D8nXzM1dWugXggr582DQrJ3Vu3OlpJHFDK-3W3JCZ7Su7HNz_jJX5Okvo1Cv8WsQSgFY05T0MLNhjzFIoJ7EZmPLeqV3h7lvKVt6QLaMPExD0tDwUtg9nn8LIHgrTrmi-VNroWyyrT3uSzGIUDN4EsnL9PIHJ3V5M984sAyU7MUbmsb2PeaKVjHJVk1i_1VC.cyfSav1mG0uW0YSN5l8RRZGkK1_pNKEcx6tffYvxaZE&amp;dib_tag=se&amp;keywords=Gre7g+Luterman&amp;qid=1735010551&amp;s=audible&amp;sr=1-2-catcorr">Buy it on Amazon</a>
-																																						</p>
-																																						
-																																						<p>
-																																							<a target="_blank" rel="noopener" href="https://www.audible.com/ac/Long-Way-Home-Audiobook/B09QCRGKLG?ref_pageloadid=XyEHy4GaR7YG764c&amp;pf_rd_p=f3abc0ee-320d-4c19-8388-fcd3a8e6c3a4&amp;pf_rd_r=MEQDF7VXY7VXZRR93ASG&amp;plink=uJcwQcemvylkbr96&amp;pageLoadId=B9mmhoSDHwzNmLf2&amp;creativeId=73c32a9a-e504-4597-bb87-c30c58fc0204&amp;ref=a_author_Gr_c19_lProduct_1_2">Get the audiobook</a>
-																																						</p>
-																																					</div>
-																																				</div>
-																																				<div class="pictureLeft" style="margin-top: -29px;">
-																																					<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/front.jpg" style="margin-right: 30px;margin-left: 30px;width: 258px;">
+																																																								<p style="text-align: left;">Tales of Hayven Celestia is an anthology containing 13 stories from all over the Hayven Celestia universe. There is a wide selection of stories and characters here, ranging from romantic, heroic, heartbreaking and terrifying.</p>
+																																																								<p style="font-weight: bold;">While some knowledge of of gateships from The Kanti Cycle or The Final Days of the White Flower II may be illustrative for some geroo stories, Tales of Hayven Celesia is a standalone work whose stories can be read in any order.</p>
+																																																								<p class="redLink">
+																																																									<a rel="noopener" href="https://www.etsy.com/shop/gre7g" target="_blank">Buy it on Etsy</a>
+																																																								</p>
+																																																								<p class="redLink">
+																																																									<a target="_blank" rel="noopener" href="https://www.amazon.com/dp/1655632256?th=1&amp;psc=1&amp;geniuslink=true&amp;tag=bk00010a-20">Buy it on Amazon</a>
+																																																								</p>
+																																																								<p class="redLink">
+																																																									<a target="_blank" rel="noopener" href="https://www.smashwords.com/books/view/998921">Buy it on Smashwords</a>
+																																																								</p>
+																																																								<p class="redLink">
+																																																									<a target="_blank" rel="noopener" href="https://www.audible.com/pd/Tales-of-Hayven-Celestia-Audiobook/B0BNZN7DJ3?ref_pageloadid=9BeJs6QDYF9hzczr&amp;pf_rd_p=ae77544a-4f02-4042-bed0-641b7aadbd7d&amp;pf_rd_r=T7GJN73M8XJJ9SCXRGET&amp;plink=Yz3baKP64xyVgsyv&amp;pageLoadId=WAs7l8p9s0Rwq0kD&amp;creativeId=b570234c-250a-43ff-be6b-ca1b4c5d7caa&amp;ref=a_series_Ha_c5_lProduct_1_1">Get the audiobook</a>
+																																																								</p>
+																																																							</div>
+																																																						</div>
+																																																					</div>
+																																																				</div>
+																																																				<div style="padding-top: 50px;" class="celestiaBooks anidroidsText">
+																																																					<div class="anidroidsDescription" style="text-align: left;margin-left: 10px;">
+																																																						<div style="/*! text-align: left; */font-weight: normal;margin-left: 18px;margin-top: 0px;">
+																																																							<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -40px;text-align: left;font-weight: normal;">LONG WAY HOME</h2>
+																																																							<p>**THIS BOOK IS FOR ADULT READERS <strong>ONLY</strong>**</p>
+																																																							<p>Jungo couldn't pass up the opportunity to become an astronaut, even though his first mission would take him years to complete. Well, it turns out he got a lot more than he bargained for, as a nine-year mission ends up taking much, much longer.</p>
+																																																							<p style="font-weight: bold;">Long Way Home is a standalone story that may contain spoilers for Ten Thousand Miles Up and The Final Days of the White Flower II, but does not require knowledge of any other plot details.</p>
+																																																							<p>
+																																																								<a href="https://gre7g.com/store/index.php?main_page=product_info&amp;cPath=0&amp;products_id=13" target="_blank" rel="noopener">Buy it on Etsy</a>
+																																																							</p>
+																																																							<p>
+																																																								<a target="_blank" rel="noopener" href="https://www.amazon.com/Long-Way-Home-Gre7g-Luterman-ebook/dp/B09LVF4HZK/ref=sr_1_2?dib=eyJ2IjoiMSJ9.D8nXzM1dWugXggr582DQrJ3Vu3OlpJHFDK-3W3JCZ7Su7HNz_jJX5Okvo1Cv8WsQSgFY05T0MLNhjzFIoJ7EZmPLeqV3h7lvKVt6QLaMPExD0tDwUtg9nn8LIHgrTrmi-VNroWyyrT3uSzGIUDN4EsnL9PIHJ3V5M984sAyU7MUbmsb2PeaKVjHJVk1i_1VC.cyfSav1mG0uW0YSN5l8RRZGkK1_pNKEcx6tffYvxaZE&amp;dib_tag=se&amp;keywords=Gre7g+Luterman&amp;qid=1735010551&amp;s=audible&amp;sr=1-2-catcorr">Buy it on Amazon</a>
+																																																							</p>
+																																																							<p>
+																																																								<a target="_blank" rel="noopener" href="https://www.audible.com/ac/Long-Way-Home-Audiobook/B09QCRGKLG?ref_pageloadid=XyEHy4GaR7YG764c&amp;pf_rd_p=f3abc0ee-320d-4c19-8388-fcd3a8e6c3a4&amp;pf_rd_r=MEQDF7VXY7VXZRR93ASG&amp;plink=uJcwQcemvylkbr96&amp;pageLoadId=B9mmhoSDHwzNmLf2&amp;creativeId=73c32a9a-e504-4597-bb87-c30c58fc0204&amp;ref=a_author_Gr_c19_lProduct_1_2">Get the audiobook</a>
+																																																							</p>
+																																																						</div>
+																																																					</div>
+																																																					<div class="pictureLeft" style="margin-top: -29px;">
+																																																						<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/front.jpg" style="margin-right: 30px;margin-left: 30px;width: 258px;">
 				</div>
-																																				</div></div>
-																																	</div>
-																																	<div class="overlay" id="overlayHome" onclick="document.getElementById('overlayHome').style.visibility = 'hidden'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'hidden'; document.getElementById('comicWorldOther').style.visibility = 'hidden';  document.getElementById('comicWorldHC').style.visibility = 'hidden';
+																																																					</div>
+																																																				</div>
+																																																			</div>
+																																																			<div class="overlay" id="overlayHome" onclick="document.getElementById('overlayHome').style.visibility = 'hidden'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'hidden'; document.getElementById('comicWorldOther').style.visibility = 'hidden';  document.getElementById('comicWorldHC').style.visibility = 'hidden';
 	document.getElementById('bookWorldPitFighters').style.visibility = 'hidden';
-	document.getElementById('bookWorldAniDroids').style.visibility = 'hidden'; document.getElementById('bookWorldHC').style.visibility = 'hidden';"></div>
-																																</body>
-																															</html>
+	document.getElementById('bookWorldAniDroids').style.visibility = 'hidden'; document.getElementById('bookWorldHC').style.visibility = 'hidden';"/>
+																																																		</body>
+																																																	</html>

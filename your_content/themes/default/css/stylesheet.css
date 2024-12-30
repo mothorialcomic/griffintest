@@ -262,7 +262,7 @@ td, th {
 	table-layout: fixed;
 }
 
-.pictureLeft {
+.pictureLeft, .pictureRight {
 	width: 330px;
 }
 
@@ -389,7 +389,7 @@ td, th {
 }
 
 .exitButtonInner {
-	padding-left: 34%;
+	left: 81%;
 }
 
 	.comicAndBookThumbs {
@@ -399,6 +399,14 @@ td, th {
 	
 	.entryTitle {
 		margin-top: 110px;
+	}
+	
+	.pictureMobile {
+		display: none;
+	}
+	
+	.pictureRight {
+		display: block;
 	}
 
 /* All Comic Pages */
@@ -436,7 +444,7 @@ td, th {
 @media (max-width:900px) {
 	
 	.exitButtonInner {
-		padding-left: 27%;
+		left: 73%;
 }
 
 	div#banner {
@@ -465,5 +473,39 @@ td, th {
 	.pictureLeft {
 		padding-top: 20px;
   padding-bottom: 20px;
+	}
+	
+	.pictureMobile {
+		display: block;
+	}
+}
+
+@media (max-width:750px) {
+	.borderOne, .borderTwo {
+		flex-wrap: wrap;
+	}
+	
+	.pictureMobile {
+		display: block;
+	}
+	
+	.pictureRight {
+		display: none;
+	}
+	
+	.pictureLeft {
+		width: 100%;
+	}
+	
+	.bookImage {
+		margin-left: 0;
+		padding-left: 0;
+		padding-right: 0;
+	}
+	
+	.bookDescription {
+		text-align: center;
+		padding-left: 30px;
+		padding-right: 30px;
 	}
 }
