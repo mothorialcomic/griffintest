@@ -64,6 +64,7 @@ infinite-page-image {
 
 #banner-img {
 	margin-top: -13px;
+	width: 100%;
 }
 
 
@@ -71,6 +72,7 @@ div#container {
     max-width: 1000px;  /* The width of the main box that contains all content on the pages */
     background-color: white;  /* The background color of the main box */
   /* If you change the background color of website, play with this or else it will look bad. */
+	width: 90%;
 }
 
 div#links-bar {
@@ -253,6 +255,10 @@ td, th {
 	background-color: rgba(87,61,78,0.42);
 }
 
+.infinite-page-image {
+  width: 100%;
+}
+
 .bookWorld {
 	position: fixed;
 	top: 50%;
@@ -302,6 +308,11 @@ td, th {
 	color: white;
 	margin-top: 90px;
 	text-align: left;
+}
+
+div#jump-to {
+  margin-left: 8px;
+  margin-right: 8px;
 }
 
 .anidroids {
@@ -417,6 +428,10 @@ td, th {
 	.navigation-button {
 		font-size: 27px;
 	}
+	
+	a.chapter-links {
+		font-size: 70%;
+	}
 }
 
 @media (max-width:900px) {
@@ -440,6 +455,14 @@ td, th {
 		padding-top: 20px;
   padding-bottom: 20px;
 	}
+	
+	a.navigation-button {
+		font-size: 1.5em;  /* Size of the navigation bar hyperlinks */
+	}
+
+	a.navigation-button-disabled {
+		font-size: 1.5em;  /* Size of the disabled navigation bar hyperlinks */
+	}
 }
 
 
@@ -447,14 +470,37 @@ td, th {
 	.navigation-button {
 		font-size: 22px;
 	}
+	
+	h1#page-title {
+		color: black;
+		font-size: 2em;
+	}
+}
+
+@media (max-width:650px) {
+
+	a.navigation-button {
+		font-size: 1em;  /* Size of the navigation bar hyperlinks */
+	}
+
+	a.navigation-button-disabled {
+		font-size: 1em;  /* Size of the disabled navigation bar hyperlinks */
+	}
 }
 
 @media (max-width:600px) {
 
-	.navigation-button {
+	a.navigation-button, a.navigation-button-disabled {
 		font-size: 17px;
 	}
 	
 	a.link-bar-link {
-		font-size: 14px;
+		font-size: 13px;
+}
+
+@media (max-width:450px) {
+	
+	a.navigation-button, a.navigation-button-disabled {
+		padding: 0 9px;
+	}
 }
