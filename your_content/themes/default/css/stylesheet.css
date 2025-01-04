@@ -424,6 +424,10 @@ td, th {
 		margin-left: 200px;
 		width: 390px;
 	}
+	
+	.skinchangeImage {
+		margin-left: 210px;
+	}
 
 /* All Comic Pages */
 
@@ -482,8 +486,12 @@ td, th {
 		display: block;
 	}
 	
-	.novel, .anidroidsTitle,  {
+	.novel, .anidroidsTitle  {
 		text-align: center;
+	}
+	
+	.anidroidsText {
+		margin-top: -70px;
 	}
 	
 	.pictureLeft {
@@ -502,7 +510,11 @@ td, th {
 	}
 	
 	.skinchangeText {
-		margin-left: 0px
+		margin-left: 0px;
+	}
+	
+	.skinchangeImage {
+		margin-left: 0px;
 	}
 	
 	.exitButtonInner {

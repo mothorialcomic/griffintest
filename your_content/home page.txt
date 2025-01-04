@@ -339,7 +339,7 @@ Hayven Celestia
 																																								<div class="anidroidsTable">
 																																									<div class="borderOneHC" style="border: none;background-color: rgba(17,17,17,0.42);">
 																																										<div class="pictureLeft">
-																																											<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/banners/banner_Skinchange.png" style="margin-left: 210px;">
+																																											<img class="bookImageAnidroids skinchangeImage" alt="Image 1" src="/griffintest/your_content/images/banners/banner_Skinchange.png">
 				</div>
 																																											<div class="anidroidsText skinchangeText">
 																																												<div class="anidroidsDescription">
