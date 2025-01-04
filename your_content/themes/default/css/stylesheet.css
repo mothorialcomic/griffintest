@@ -409,6 +409,21 @@ td, th {
 	.pictureRight {
 		display: block;
 	}
+	
+	.underOneSky {
+		margin-left: 67px;
+		width: 400px;
+		height: 317px;
+	}
+	
+	.skinchangeText {
+		margin-left: 200px;
+	}
+	
+	.underOneSkyText {
+		margin-left: 200px;
+		width: 390px;
+	}
 
 /* All Comic Pages */
 
@@ -417,7 +432,7 @@ td, th {
 } /* Sets width for all comic images without going over their original maximum size */
 
 
-@media (max-width: 1000px) {
+@media (max-width: 62.5rem) {
 	div#container {
 		max-width: 1000px;
 		width: 90%;	
@@ -443,6 +458,52 @@ td, th {
 }
 
 @media (max-width:56.25rem) {
+	
+	.entryTitle {
+		font-size: 2rem;
+	}
+	
+	.anidroidsOne, .anidroidsTwo {
+		margin-left: 10px;
+		margin-right: 10px;
+		font-size: 1rem;
+		text-align: center;
+	}
+	
+	.anidroidsTitle {
+		font-size: 2rem;
+	}
+	
+	.novel {
+		font-size: 1.4rem;
+	}
+	
+	.borderOneHC {
+		display: block;
+	}
+	
+	.novel, .anidroidsTitle,  {
+		text-align: center;
+	}
+	
+	.pictureLeft {
+		width: 100%;
+	}
+	
+	.underOneSky {
+		margin-left: 0px;
+		width: 100%;
+		height: auto;
+	}
+	
+	.underOneSkyText {
+		margin-left: 0px;
+		width: auto;
+	}
+	
+	.skinchangeText {
+		margin-left: 0px
+	}
 	
 	.exitButtonInner {
 		left: 73%;
@@ -481,7 +542,7 @@ td, th {
 	}
 }
 
-@media (max-width:750px) {
+@media (max-width:46.875rem) {
 	.borderOne, .borderTwo {
 		flex-wrap: wrap;
 	}
