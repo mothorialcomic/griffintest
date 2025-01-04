@@ -428,6 +428,16 @@ td, th {
 	.skinchangeImage {
 		margin-left: 210px;
 	}
+	
+	.exitButtonInner {
+		width: 104px;
+		position: fixed;
+		margin-left: auto;
+		margin-right: auto;
+		top: 0px;
+		cursor: pointer;
+		z-index: 1002;
+	}
 
 /* All Comic Pages */
 
@@ -463,8 +473,18 @@ td, th {
 
 @media (max-width:56.25rem) {
 	
+	#bookWorldHC {
+		overflow-x: hidden;
+	}
+	
 	.entryTitle {
 		font-size: 2rem;
+		margin-top: 170px;
+	}
+	
+	.exitButtonInner {
+		top: 50px;
+		left: 60%;
 	}
 	
 	.anidroidsOne, .anidroidsTwo {
@@ -486,7 +506,7 @@ td, th {
 		display: block;
 	}
 	
-	.novel, .anidroidsTitle  {
+	.novel, .anidroidsTitle, .redLink  {
 		text-align: center;
 	}
 	
