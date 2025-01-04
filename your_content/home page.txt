@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<meta charset="UTF-8">
 			<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta charset="UTF-8">
 </head>
 			<body>
 				<h2 class="comicBanner">COMICS</h2>
@@ -138,7 +138,7 @@
 	document.getElementById('bookWorldPitFighters').style.visibility = 'hidden';
 	document.getElementById('bookWorldAniDroids').style.visibility = 'hidden'; document.getElementById('bookWorldHC').style.visibility = 'hidden';">
 																								<h1 class="entryTitle">Pit Fighters</h1>
-																								<h1 style="color: white;font-size: 27px;margin-top: -10px;font-weight: normal;">**THIS SERIES IS FOR ADULT READERS <strong>
+																								<h1 style="color: white;font-size: 2rem;margin-top: -10px;font-weight: normal;">**THIS SERIES IS FOR ADULT READERS <strong>
 																										<em>
 																											<span style="text-decoration: underline;">ONLY</span>
 																										</em>
@@ -201,10 +201,10 @@
 																														</div>
 																														</div>
 																														<div class="borderOne" style="margin-bottom: 30px;min-height: 419px;display: flex;align-items: center;height: 100%;">
-																															<div class="pictureLeft" style="width: 330px;">
+																															<div class="pictureLeft pictureMobile" style="width: 330px;">
 																																<img class="bookImage" src="/griffintest/your_content/images/books/pf3-cover.jpg" alt="Image 1" style="margin-right: 110px;/*! margin-top: 16px; */margin-left: 30px;">
 				</div>
-																																<div class="bookDescription" style="/*! padding-top: 60px; */padding-left: -70px;margin-left: -1px;">
+																																<div class="bookDescription" style="padding-top: 30px; margin-left: -1px;">
 																																	<h4>
 																																		<span>
 							3. Side Gig<br>
@@ -306,7 +306,7 @@
 																																								</div>
 																																							</div>
 																																						</div>
-																																						<h5 style="text-align: center;color: white;font-size: 33px;font-weight: normal;">Other stories!</h5>
+																																						<h5 style="text-align: center;color: white;font-size: 2.3rem;font-weight: normal;">Other stories!</h5>
 																																						<div class="borderTwoAnidroids">
 																																							<div class="pictureLeft">
 																																								<img class="felidaeIcon" src="/griffintest/your_content/images/books/storyboard011.jpg" alt="Image 1">
@@ -317,7 +317,7 @@
 						</span>
 																																										</h4>
 																																										<p>
-																																											<a class="redLink" href="https://mothorialcomic.github.io/griffintest/the-storyboard/comic/011/" style="font-size: 20px;">Read now!</a>
+																																											<a class="redLink" href="https://mothorialcomic.github.io/griffintest/the-storyboard/comic/011/">Read now!</a>
 																																										</p>
 																																									</div>
 																																								</div>
@@ -347,7 +347,7 @@ Hayven Celestia
 																																														<h6 class="whiteText novel">Comic</h6>
 																																														<h2 class="whiteText anidroidsTitle">Skinchange</h2>
 																																														<p>
-																																															<a class="redLink" href="https://mothorialcomic.github.io/griffintest/skinchange/comic/001/" style="font-size: 20px;">Read now!</a>
+																																															<a class="redLink" href="https://mothorialcomic.github.io/griffintest/skinchange/comic/001/">Read now!</a>
 																																														</p>
 																																													</div>
 																																												</div>
@@ -368,7 +368,7 @@ Hayven Celestia
 																																						
 																																					</p>
 																																															<p>
-																																																<a class="redLink" style="font-size: 20px;" href="https://millerdark.itch.io/under-one-sky">Play now!</a>
+																																																<a class="redLink" href="https://millerdark.itch.io/under-one-sky">Play now!</a>
 																																															</p>
 																																														</div>
 																																													</div>
@@ -380,7 +380,7 @@ Hayven Celestia
 																																												<div class="anidroidsText">
 					
 				</div>
-																																												<h6 class="whiteText" style="font-size: 54px;color: white;margin-top: 60px;text-align: center;font-weight: normal;">The Final Days of the White Flower II</h6>
+																																												<h6 class="whiteText" style="font-size: 3rem;color: white;margin-top: 60px;text-align: center;font-weight: normal;">The Final Days of the White Flower II</h6>
 																																												<div class="anidroidsDescription" style="text-align: left;margin-left: 40px;margin-right: 40px;">
 																																													<div style="/*! text-align: left; */font-weight: normal;margin-right: 18px;font-size: 1.2rem;">
 																																														<p>The Final Days of the White Flower II is a novel trilogy retelling of the short story "Ten Thousand Miles Up". Note that "Ten Thousand Miles Up", avaiable on Smashwords, will contain some spoilers for the trilogy, so depending on how avoidant you are of spoilers, you may wish to wait for the trilogy to be complete!</p>
@@ -397,7 +397,7 @@ Hayven Celestia
 																																																<div style="/*! text-align: left; */font-weight: normal;margin-right: 18px;">
 																																																	<p>
 																																							</p>
-																																																	<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -40px;text-align: left;font-weight: normal;">1: TRAITORS, THIEVES AND LIARS</h2>
+																																																	<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 2rem;margin-top: -40px;text-align: left;font-weight: normal;">1: TRAITORS, THIEVES AND LIARS</h2>
 																																																	<p>
 																																							</p>
 																																																	<p style="text-align: left;">Traitors, Thieves and Liars follows Subcommander Gert, next in line to be captain of the White Flower II, a krakun slave ship served by geroo. The ship is waylaid by pirates who have a very interesting and dangerous offer, which Captain Ateri cannot simply ignore.</p>
@@ -420,7 +420,7 @@ Hayven Celestia
 																																													<div class="borderOneHC" style="padding-top: 50px;">
 																																														<div class="anidroidsDescription" style="text-align: left;margin-left: 10px;">
 																																															<div style="/*! text-align: left; */font-weight: normal;margin-left: 18px;">
-																																																<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -80px;text-align: left;font-weight: normal;">2: THE CAPTAIN'S OATH</h2>
+																																																<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 2rem;margin-top: -80px;text-align: left;font-weight: normal;">2: THE CAPTAIN'S OATH</h2>
 																																																<p>The Captain's Oath is the second book of The Final Days of the White Flower II. It follows Subcommander Tesko, science officer of the White Flower II, as she discovers the conspiracy the captain has embroiled them all in. She is at first very enthusiastic about the prospect of escape from their slavery, but things quickly take a turn for the worse.</p>
 																																																<p style="font-weight: bold;">The Final Days of the White Flower II trilogy is meant to be read on its own and does not require you have read any of the other books. It takes place chronologically after The Kanti Cycle, but is not required reading.</p>
 																																																<p>
@@ -449,7 +449,7 @@ Hayven Celestia
 																																																		<div style="/*! text-align: left; */font-weight: normal;margin-right: 18px;">
 																																																			<p>
 																																							</p>
-																																																			<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -40px;text-align: left;font-weight: normal;">3: Chain Unbroken</h2>
+																																																			<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 2rem;margin-top: -40px;text-align: left;font-weight: normal;">3: Chain Unbroken</h2>
 																																																			<p>
 																																							</p>
 																																																			<p style="text-align: left;">Nothing will ever be the same again.</p>
@@ -475,7 +475,7 @@ Hayven Celestia
 																																															<div class="anidroidsText">
 					
 				</div>
-																																															<h6 class="whiteText" style="font-size: 54px;color: white;margin-top: 60px;text-align: center;font-weight: normal;">The Kanti Cycle</h6>
+																																															<h6 class="whiteText" style="font-size: 3.5rem;color: white;margin-top: 60px;text-align: center;font-weight: normal;">The Kanti Cycle</h6>
 																																															<div class="borderOneHC" style="position: relative;margin-top: -120px;padding-top: 45px;padding-bottom: 20px;">
 																																																<div class="pictureLeft" style="">
 																																																	<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/sc.jpg" style="margin-right: 110px;margin-left: 30px;width: 258px;">
@@ -485,7 +485,7 @@ Hayven Celestia
 																																																			<div style="/*! text-align: left; */font-weight: normal;margin-right: 18px;">
 																																																				<p>
 																																							</p>
-																																																				<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -40px;text-align: left;font-weight: normal;">1: SKELETON CREW</h2>
+																																																				<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 2rem;margin-top: -40px;text-align: left;font-weight: normal;">1: SKELETON CREW</h2>
 																																																				<p>
 																																							</p>
 																																																				<p style="text-align: left;">Kanti's life has not been going to way he's wanted it. He's working the lowest job of the White Flower II, that of the recycler bay crew. When his best friend dies and Kanti accidentally takes over his identity, he's suddenly thrust into the middle of a shipwide conspiracy, and if Kanti wants to keep his own life, he my just have to tell the truth about who he really is.</p>
@@ -508,7 +508,7 @@ Hayven Celestia
 																																																<div class="borderOneHC" style="padding-top: 50px;padding-bottom: 0px;">
 																																																	<div class="anidroidsDescription" style="text-align: left;margin-left: 10px;">
 																																																		<div style="/*! text-align: left; */font-weight: normal;margin-left: 18px;">
-																																																			<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -60px;text-align: left;font-weight: normal;">2: SMALL WORLD</h2>
+																																																			<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 2rem;margin-top: -60px;text-align: left;font-weight: normal;">2: SMALL WORLD</h2>
 																																																			<p>Kanti finally got everything he ever wanted, and now he must pay for it. He and fifty others are forced to go to Krakuntec Prime and serve as the commissioner's personal cleaning crew on a planet whose atmosphere he can't even breathe. Can he make a new life here?</p>
 																																																			<p style="font-weight: bold;">The Kanti Cycle is a trilogy that should be read in order. It is a prequel to The Final Days of the White Flower II, but is meant to be read on its own. </p>
 																																																			<p>
@@ -540,7 +540,7 @@ Hayven Celestia
 																																																					<div style="/*! text-align: left; */font-weight: normal;margin-right: 18px;">
 																																																						<p>
 																																							</p>
-																																																						<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -40px;text-align: left;font-weight: normal;">3: FAIR TRADE</h2>
+																																																						<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 2rem;margin-top: -40px;text-align: left;font-weight: normal;">3: FAIR TRADE</h2>
 																																																						<p>
 																																							</p>
 																																																						<p style="text-align: left;">Kanti now finds out there was a whole other world behind the walls of the krakun apartment building, lorded over by a species known as the sourang. He once again finds himself in a life of servitude, this time separated from the ones he loves. But he's not going to quit--not yet, not when his family needs him.</p>
@@ -565,7 +565,7 @@ Hayven Celestia
 																																																		<div class="anidroidsText">
 					
 				</div>
-																																																		<h6 class="whiteText" style="font-size: 54px;color: white;margin-top: 60px;text-align: center;font-weight: normal;">Tori Mysteries</h6>
+																																																		<h6 class="whiteText" style="font-size: 3.5rem;color: white;margin-top: 60px;text-align: center;font-weight: normal;">Tori Mysteries</h6>
 																																																		<div class="borderOneHC" style="position: relative;margin-top: -120px;padding-top: 45px;padding-bottom: 20px;">
 																																																			<div class="pictureLeft" style="">
 																																																				<img class="bookImageAnidroids" alt="Image 1" style="margin-right: 110px;margin-left: 30px;width: 258px;" src="/griffintest/your_content/images/books/rl.jpg">
@@ -575,7 +575,7 @@ Hayven Celestia
 																																																						<div style="/*! text-align: left; */font-weight: normal;margin-right: 18px;">
 																																																							<p>
 																																							</p>
-																																																							<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -40px;text-align: left;font-weight: normal;">1: 
+																																																							<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 2rem;margin-top: -40px;text-align: left;font-weight: normal;">1: 
 
 REAPER'S LOTTERY</h2>
 																																																							<p>
@@ -599,7 +599,7 @@ REAPER'S LOTTERY</h2>
 																																																			<div class="borderOneHC" style="padding-top: 50px;padding-bottom: 0px;">
 																																																				<div class="anidroidsDescription" style="text-align: left;margin-left: 10px;">
 																																																					<div style="/*! text-align: left; */font-weight: normal;margin-left: 18px;">
-																																																						<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -60px;text-align: left;font-weight: normal;">2: EXECUTIONER'S GAMBIT</h2>
+																																																						<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 2rem;margin-top: -60px;text-align: left;font-weight: normal;">2: EXECUTIONER'S GAMBIT</h2>
 																																																						<p>Tori stared at the screen. "Wait, what? How long is three hundred and fifty-five hours?"</p>
 																																																						<p>"It's about fifteen days, Tori," the commissioner sighed. "If we don't get the trinity back online within fifteen days—give or take—there won't be enough power capacity left to bring it back up, and the reactor will be past the point of no return. Without the reactor, this ship is going to get very cold, and everyone will freeze to death."</p>
 																																																						<p>Desperate to get the surgery she needs, Tori transfers aboard the Sailor's Gambit I to catch a vigilante. But the situation quickly unravels, and our unlikely investigator discovers that a serial killer on the loose is the very least of her problems.</p>
@@ -630,7 +630,7 @@ REAPER'S LOTTERY</h2>
 																																																							<div style="font-weight: normal;margin-right: 18px;">
 																																																								<p>
 																																							</p>
-																																																								<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -40px;text-align: left;font-weight: normal;">TALES OF HAYVEN CELESTIA</h2>
+																																																								<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 2rem;margin-top: -40px;text-align: left;font-weight: normal;">TALES OF HAYVEN CELESTIA</h2>
 																																																								<p>
 																																							</p>
 																																																								<p style="text-align: left;">Tales of Hayven Celestia is an anthology containing 13 stories from all over the Hayven Celestia universe. There is a wide selection of stories and characters here, ranging from romantic, heroic, heartbreaking and terrifying.</p>
@@ -654,7 +654,7 @@ REAPER'S LOTTERY</h2>
 																																																				<div style="padding-top: 50px;" class="celestiaBooks anidroidsText">
 																																																					<div class="anidroidsDescription" style="text-align: left;margin-left: 10px;">
 																																																						<div style="/*! text-align: left; */font-weight: normal;margin-left: 18px;margin-top: 0px;">
-																																																							<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -40px;text-align: left;font-weight: normal;">LONG WAY HOME</h2>
+																																																							<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 2rem;margin-top: -40px;text-align: left;font-weight: normal;">LONG WAY HOME</h2>
 																																																							<p>**THIS BOOK IS FOR ADULT READERS <strong>ONLY</strong>**</p>
 																																																							<p>Jungo couldn't pass up the opportunity to become an astronaut, even though his first mission would take him years to complete. Well, it turns out he got a lot more than he bargained for, as a nine-year mission ends up taking much, much longer.</p>
 																																																							<p style="font-weight: bold;">Long Way Home is a standalone story that may contain spoilers for Ten Thousand Miles Up and The Final Days of the White Flower II, but does not require knowledge of any other plot details.</p>
