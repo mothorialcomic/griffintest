@@ -360,7 +360,7 @@ Hayven Celestia
 																																												<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/underonesky.jpg" style="margin-left: 67px;width: 400px;height: 317px;">
 				</div>
 																																												<div class="anidroidsText" style="margin-left: 200px;width: 390px;">
-																																													<div class="anidroidsDescription">
+																																													<div class="anidroidsDescription" style="margin-right: 24px;">
 																																														<div>
 																																															<h6 class="whiteText novel">Game</h6>
 																																															<h2 class="whiteText anidroidsTitle">Under One Sky</h2>
