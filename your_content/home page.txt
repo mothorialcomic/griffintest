@@ -375,14 +375,14 @@ Hayven Celestia
 																																												</div>
 																																											</div>
 																																										</div>
-																																										<div class="anidroidsTable" style="min-height: 419px;border-style: double;border-width: 9px;background-color: rgb(17, 17, 17);">
+																																										<div class="anidroidsTable bookSection">
 																																											<div class="">
 																																												<div class="anidroidsText">
 					
 				</div>
-																																												<h6 class="whiteText" style="font-size: 3rem;color: white;margin-top: 60px;text-align: center;font-weight: normal;">The Final Days of the White Flower II</h6>
-																																												<div class="anidroidsDescription" style="text-align: left;margin-left: 40px;margin-right: 40px;">
-																																													<div style="/*! text-align: left; */font-weight: normal;margin-right: 18px;font-size: 1.2rem;">
+																																												<h6 class="whiteText bookTitle">The Final Days of the White Flower II</h6>
+																																												<div class="anidroidsDescription textBox">
+																																													<div class="storyDescription">
 																																														<p>The Final Days of the White Flower II is a novel trilogy retelling of the short story "Ten Thousand Miles Up". Note that "Ten Thousand Miles Up", avaiable on Smashwords, will contain some spoilers for the trilogy, so depending on how avoidant you are of spoilers, you may wish to wait for the trilogy to be complete!</p>
 																																														<p>
 																																			</p>
@@ -390,17 +390,17 @@ Hayven Celestia
 																																												</div>
 																																												<div class="borderOneHC" style="padding-top: -130px;position: relative;margin-top: 0px;/*! padding-top: 0px; */">
 																																													<div class="pictureLeft" style="">
-																																														<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/traitorsthievesandliars.jpg" style="margin-right: 110px;margin-left: 30px;width: 258px;">
+																																														<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/traitorsthievesandliars.jpg">
 				</div>
 																																														<div class="anidroidsText" style="padding-top: 0px;">
-																																															<div class="anidroidsDescription" style="text-align: left;">
-																																																<div style="/*! text-align: left; */font-weight: normal;margin-right: 18px;">
+																																															<div class="anidroidsDescription">
+																																																<div >
 																																																	<p>
 																																							</p>
-																																																	<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 2rem;margin-top: -40px;text-align: left;font-weight: normal;">1: TRAITORS, THIEVES AND LIARS</h2>
+																																																	<h2 class="whiteText anidroidsTitle seriesTitle">1: TRAITORS, THIEVES AND LIARS</h2>
 																																																	<p>
 																																							</p>
-																																																	<p style="text-align: left;">Traitors, Thieves and Liars follows Subcommander Gert, next in line to be captain of the White Flower II, a krakun slave ship served by geroo. The ship is waylaid by pirates who have a very interesting and dangerous offer, which Captain Ateri cannot simply ignore.</p>
+																																																	<p>Traitors, Thieves and Liars follows Subcommander Gert, next in line to be captain of the White Flower II, a krakun slave ship served by geroo. The ship is waylaid by pirates who have a very interesting and dangerous offer, which Captain Ateri cannot simply ignore.</p>
 																																																	<p style="font-weight: bold;">The Final Days of the White Flower II trilogy is meant to be read on its own and does not require you have read any of the other books. It takes place chronologically after The Kanti Cycle, but is not required reading.</p>
 																																																	<p class="redLink">
 																																																		<a href="http://mybook.to/traitorsthievesliars" target="_blank" rel="noopener">Buy it on Amazon</a>
@@ -418,9 +418,9 @@ Hayven Celestia
 																																												</div>
 																																												<div class="">
 																																													<div class="borderOneHC" style="padding-top: 50px;">
-																																														<div class="anidroidsDescription" style="text-align: left;margin-left: 10px;">
-																																															<div style="/*! text-align: left; */font-weight: normal;margin-left: 18px;">
-																																																<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 2rem;margin-top: -80px;text-align: left;font-weight: normal;">2: THE CAPTAIN'S OATH</h2>
+																																														<div class="anidroidsDescription">
+																																															<div>
+																																																<h2 class="whiteText anidroidsTitle" >2: THE CAPTAIN'S OATH</h2>
 																																																<p>The Captain's Oath is the second book of The Final Days of the White Flower II. It follows Subcommander Tesko, science officer of the White Flower II, as she discovers the conspiracy the captain has embroiled them all in. She is at first very enthusiastic about the prospect of escape from their slavery, but things quickly take a turn for the worse.</p>
 																																																<p style="font-weight: bold;">The Final Days of the White Flower II trilogy is meant to be read on its own and does not require you have read any of the other books. It takes place chronologically after The Kanti Cycle, but is not required reading.</p>
 																																																<p>
@@ -435,29 +435,29 @@ Hayven Celestia
 																																															</div>
 																																														</div>
 																																														<div class="pictureLeft" style="margin-top: -119px;">
-																																															<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/thecaptainsoath.jpg" style="margin-right: 30px;margin-left: 30px;width: 258px;">
+																																															<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/thecaptainsoath.jpg">
 				</div>
 																																														</div>
 																																													</div>
 																																													<div class="">
-																																														<div class="borderOneHC" style="position: relative;margin-top: -110px;">
-																																															<div class="pictureLeft" style="margin-top: -240px;">
-																																																<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/chainunbroken.jpg" style="margin-right: 110px;margin-left: 30px;width: 258px;">
+																																														<div class="borderOneHC" >
+																																															<div class="pictureLeft">
+																																																<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/chainunbroken.jpg">
 				</div>
-																																																<div class="anidroidsText" style="padding-top: 40px;">
-																																																	<div class="anidroidsDescription" style="text-align: left;">
-																																																		<div style="/*! text-align: left; */font-weight: normal;margin-right: 18px;">
+																																																<div class="anidroidsText">
+																																																	<div class="anidroidsDescription">
+																																																		<div>
 																																																			<p>
 																																							</p>
-																																																			<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 2rem;margin-top: -40px;text-align: left;font-weight: normal;">3: Chain Unbroken</h2>
+																																																			<h2 class="whiteText anidroidsTitle">3: Chain Unbroken</h2>
 																																																			<p>
 																																							</p>
-																																																			<p style="text-align: left;">Nothing will ever be the same again.</p>
-																																																			<p style="text-align: left;">Having successfully averted a mutiny and the near-discovery of the Exit Plan, the White Flower II's new captain is now in charge of fulfilling that plan to its end, and there's only a little more than a month to prepare. But there's a problem—Tesko doesn't want to deliver the terraformer to the pirates as agreed. She wants it for the geroo, and she will not take no for an answer. But it's not as simple as kicking the pirates out, as both crews need each other. For now.</p>
-																																																			<p style="text-align: left;">The mistrust between the crews of the White Flower II and the Jet Black Sword are at an all-time high. Everyone, geroo and ringel alike, know that a war is coming. They smile at each other while holding daggers behind their backs. If that wasn't bad enough, there's still the Geordian Guard to deal with, as well as Commissioner Pokokuro who has this time come prepared. And what's worse... Subcommander Gert is still in love with the ringel.</p>
-																																																			<p style="text-align: left;">Now begins the slow, inexorable countdown to the end of everything they know. Is it a new beginning—or is it the geroos' last gasp of hope?</p>
-																																																			<p style="text-align: left;">Chain Unbroken is the final entry in the epic heist that will redirect the fate of an entire species. Have faith and courage, because in the end, the only ones we can rely on are each other.</p>
-																																																			<p style="font-weight: bold;">The Final Days of the White Flower II trilogy is meant to be read on its own and does not require you have read any of the other books. It takes place chronologically after The Kanti Cycle, but is not required reading.</p>
+																																																			<p>Nothing will ever be the same again.</p>
+																																																			<p>Having successfully averted a mutiny and the near-discovery of the Exit Plan, the White Flower II's new captain is now in charge of fulfilling that plan to its end, and there's only a little more than a month to prepare. But there's a problem—Tesko doesn't want to deliver the terraformer to the pirates as agreed. She wants it for the geroo, and she will not take no for an answer. But it's not as simple as kicking the pirates out, as both crews need each other. For now.</p>
+																																																			<p>The mistrust between the crews of the White Flower II and the Jet Black Sword are at an all-time high. Everyone, geroo and ringel alike, know that a war is coming. They smile at each other while holding daggers behind their backs. If that wasn't bad enough, there's still the Geordian Guard to deal with, as well as Commissioner Pokokuro who has this time come prepared. And what's worse... Subcommander Gert is still in love with the ringel.</p>
+																																																			<p>Now begins the slow, inexorable countdown to the end of everything they know. Is it a new beginning—or is it the geroos' last gasp of hope?</p>
+																																																			<p>Chain Unbroken is the final entry in the epic heist that will redirect the fate of an entire species. Have faith and courage, because in the end, the only ones we can rely on are each other.</p>
+																																																			<p>The Final Days of the White Flower II trilogy is meant to be read on its own and does not require you have read any of the other books. It takes place chronologically after The Kanti Cycle, but is not required reading.</p>
 																																																			<p class="redLink">
 																																																				<a target="_blank" rel="noopener" href="https://mybook.to/chainunbroken">Buy it on Amazon</a>
 																																																			</p>
@@ -470,26 +470,26 @@ Hayven Celestia
 																																															</div>
 																																														</div>
 																																													</div>
-																																													<div class="anidroidsTable" style="min-height: 419px;border-style: double;border-width: 9px;background-color: rgb(17, 17, 17);margin-top: 50px;">
+																																													<div class="anidroidsTable">
 																																														<div class="">
 																																															<div class="anidroidsText">
 					
 				</div>
-																																															<h6 class="whiteText" style="font-size: 3.5rem;color: white;margin-top: 60px;text-align: center;font-weight: normal;">The Kanti Cycle</h6>
-																																															<div class="borderOneHC" style="position: relative;margin-top: -120px;padding-top: 45px;padding-bottom: 20px;">
+																																															<h6 class="whiteText">The Kanti Cycle</h6>
+																																															<div class="borderOneHC">
 																																																<div class="pictureLeft" style="">
-																																																	<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/sc.jpg" style="margin-right: 110px;margin-left: 30px;width: 258px;">
+																																																	<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/sc.jpg">
 				</div>
-																																																	<div class="anidroidsText" style="padding-top: 40px;">
-																																																		<div class="anidroidsDescription" style="text-align: left;">
-																																																			<div style="/*! text-align: left; */font-weight: normal;margin-right: 18px;">
+																																																	<div class="anidroidsText">
+																																																		<div class="anidroidsDescription">
+																																																			<div>
 																																																				<p>
 																																							</p>
-																																																				<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 2rem;margin-top: -40px;text-align: left;font-weight: normal;">1: SKELETON CREW</h2>
+																																																				<h2 class="whiteText anidroidsTitle" s>1: SKELETON CREW</h2>
 																																																				<p>
 																																							</p>
-																																																				<p style="text-align: left;">Kanti's life has not been going to way he's wanted it. He's working the lowest job of the White Flower II, that of the recycler bay crew. When his best friend dies and Kanti accidentally takes over his identity, he's suddenly thrust into the middle of a shipwide conspiracy, and if Kanti wants to keep his own life, he my just have to tell the truth about who he really is.</p>
-																																																				<p style="font-weight: bold;">The Kanti Cycle is a trilogy that should be read in order. It is a prequel to The Final Days of the White Flower II, but is meant to be read on its own. </p>
+																																																				<p>Kanti's life has not been going to way he's wanted it. He's working the lowest job of the White Flower II, that of the recycler bay crew. When his best friend dies and Kanti accidentally takes over his identity, he's suddenly thrust into the middle of a shipwide conspiracy, and if Kanti wants to keep his own life, he my just have to tell the truth about who he really is.</p>
+																																																				<p>The Kanti Cycle is a trilogy that should be read in order. It is a prequel to The Final Days of the White Flower II, but is meant to be read on its own. </p>
 																																																				<p class="redLink">
 																																																					<a target="_blank" rel="noopener" href="https://www.etsy.com/shop/gre7g">Buy it on Etsy</a>
 																																																				</p>

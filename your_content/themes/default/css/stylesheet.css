@@ -438,6 +438,40 @@ td, th {
 		cursor: pointer;
 		z-index: 1002;
 	}
+	
+	.bookSeries {
+		min-height: 419px;
+		border-style: double;
+		border-width: 9px;
+		background-color: rgb(17, 17, 17);
+	}
+	
+	.bookTitle {
+		font-size: 3rem;
+		color: white;
+		margin-top: 60px;
+		text-align: center;
+		font-weight: normal;
+	}
+	
+	.storyDescription {
+		font-weight: normal;
+		margin-right: 18px;
+		font-size: 1.2rem;
+	}
+	
+	.textBox {
+		text-align: left;
+		margin-left: 40px;
+	}
+	
+	.seriesTitle {
+		color: white;
+		font-size: 2rem;
+		margin-top: -40px;
+		text-align: left;
+		font-weight: normal;
+	}
 
 /* All Comic Pages */
 
@@ -477,14 +511,44 @@ td, th {
 		overflow-x: hidden;
 	}
 	
+	.bookImageAnidroids {
+		margin-right: auto;
+		margin-left: auto;
+		width: 100%;
+	}
+	
+	.seriesTitle {
+		margin-top: 70px;
+		text-align: center;
+	}
+	
+	.bookTitle {
+		padding-top: 30px;
+	}
+	
 	.entryTitle {
 		font-size: 2rem;
 		margin-top: 170px;
 	}
 	
+	.bookSeries {
+		border-style: none;
+	}
+	
 	.exitButtonInner {
 		top: 50px;
 		left: 60%;
+	}
+	
+	.storyDescription {
+		margin-right: auto;
+		margin-left: auto;
+		text-align: center;
+	}
+	
+	.textBox {
+		margin-left: 10px;
+		margin-right: 10px;
 	}
 	
 	.anidroidsOne, .anidroidsTwo {
@@ -506,7 +570,12 @@ td, th {
 		display: block;
 	}
 	
-	.novel, .anidroidsTitle, .redLink  {
+	.anidroidsDescription {
+		margin-top: -70px;
+		text-align: center;
+	}
+	
+	.novel, .anidroidsTitle, .redLink, .anidroidsDescription {
 		text-align: center;
 	}
 	
@@ -536,10 +605,6 @@ td, th {
 	.skinchangeImage {
 		margin-left: 0px;
 	}
-	
-	.exitButtonInner {
-		left: 73%;
-}
 
 	div#banner {
 		margin-top: -25px;
