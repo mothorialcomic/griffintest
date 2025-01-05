@@ -477,6 +477,18 @@ td, th {
 		padding-top: 50px;
 		padding-bottom: 0px;
 	}
+	
+	.titleTwo {
+		padding-top: 20px;
+	}
+	
+	.imageChainUnbroken {
+		margin-top: -310px;
+	}
+	
+	.textVertical {
+		padding-top: 50px;
+	}
 
 /* All Comic Pages */
 
@@ -522,8 +534,16 @@ td, th {
 		padding-top: 7px;
 	}
 	
+	.kantiTitle {
+		margin-bottom: 20px;
+	}
+	
 	.titleTwo {
 		padding-top: 0px;
+	}
+	
+	.bookImageSC {
+		padding-top: 70px;
 	}
 	
 	.titleThree {

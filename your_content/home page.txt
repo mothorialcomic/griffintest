@@ -392,7 +392,7 @@ Hayven Celestia
 																																													<div class="pictureLeft" style="">
 																																														<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/traitorsthievesandliars.jpg">
 				</div>
-																																														<div class="anidroidsText" style="padding-top: 0px;">
+																																														<div class="anidroidsText textVertical" style="padding-top: 0px;">
 																																															<div class="anidroidsDescription">
 																																																<div >
 																																																	<p>
@@ -445,9 +445,9 @@ Hayven Celestia
 																																													<div class="">
 																																														<div class="borderOneHC titleThree" >
 																																															<div class="pictureLeft">
-																																																<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/chainunbroken.jpg">
+																																																<img class="bookImageAnidroids imageChainUnbroken" alt="Image 1" src="/griffintest/your_content/images/books/chainunbroken.jpg">
 				</div>
-																																																<div class="anidroidsText">
+																																																<div class="anidroidsText textVertical">
 																																																	<div class="anidroidsDescription">
 																																																		<div>
 																																																			<p>
@@ -478,17 +478,17 @@ Hayven Celestia
 																																															<div class="anidroidsText">
 					
 				</div>
-																																															<h6 class="whiteText bookTitle">The Kanti Cycle</h6>
+																																															<h6 class="whiteText bookTitle kantiTitle">The Kanti Cycle</h6>
 																																															<div class="borderOneHC">
 																																																<div class="pictureLeft" style="">
-																																																	<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/sc.jpg">
+																																																	<img class="bookImageAnidroids bookImageSC" alt="Image 1" src="/griffintest/your_content/images/books/sc.jpg">
 				</div>
 																																																	<div class="anidroidsText">
 																																																		<div class="anidroidsDescription">
 																																																			<div>
 																																																				<p>
 																																							</p>
-																																																				<h2 class="whiteText anidroidsTitle" s>1: SKELETON CREW</h2>
+																																																				<h2 class="whiteText anidroidsTitle seriesTitle" s>1: SKELETON CREW</h2>
 																																																				<p>
 																																							</p>
 																																																				<p>Kanti's life has not been going to way he's wanted it. He's working the lowest job of the White Flower II, that of the recycler bay crew. When his best friend dies and Kanti accidentally takes over his identity, he's suddenly thrust into the middle of a shipwide conspiracy, and if Kanti wants to keep his own life, he my just have to tell the truth about who he really is.</p>
