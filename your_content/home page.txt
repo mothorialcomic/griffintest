@@ -417,13 +417,13 @@ Hayven Celestia
 																																													</div>
 																																												</div>
 																																												<div class="">
-																																												<div class="pictureLeft pictureMobile" style="margin-top: -119px;">
+																																												<div class="pictureLeft pictureMobile">
 																																															<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/thecaptainsoath.jpg">
 				</div>
 																																													<div class="borderOneHC titleTwo">
 																																														<div class="anidroidsDescription">
 																																															<div>
-																																																<h2 class="whiteText anidroidsTitle" >2: THE CAPTAIN'S OATH</h2>
+																																																<h2 class="whiteText anidroidsTitle seriesTitle" >2: THE CAPTAIN'S OATH</h2>
 																																																<p>The Captain's Oath is the second book of The Final Days of the White Flower II. It follows Subcommander Tesko, science officer of the White Flower II, as she discovers the conspiracy the captain has embroiled them all in. She is at first very enthusiastic about the prospect of escape from their slavery, but things quickly take a turn for the worse.</p>
 																																																<p style="font-weight: bold;">The Final Days of the White Flower II trilogy is meant to be read on its own and does not require you have read any of the other books. It takes place chronologically after The Kanti Cycle, but is not required reading.</p>
 																																																<p>
@@ -452,7 +452,7 @@ Hayven Celestia
 																																																		<div>
 																																																			<p>
 																																							</p>
-																																																			<h2 class="whiteText anidroidsTitle">3: Chain Unbroken</h2>
+																																																			<h2 class="whiteText anidroidsTitle seriesTitle">3: Chain Unbroken</h2>
 																																																			<p>
 																																							</p>
 																																																			<p>Nothing will ever be the same again.</p>
@@ -478,7 +478,7 @@ Hayven Celestia
 																																															<div class="anidroidsText">
 					
 				</div>
-																																															<h6 class="whiteText">The Kanti Cycle</h6>
+																																															<h6 class="whiteText bookTitle">The Kanti Cycle</h6>
 																																															<div class="borderOneHC">
 																																																<div class="pictureLeft" style="">
 																																																	<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/sc.jpg">

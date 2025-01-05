@@ -344,7 +344,7 @@ td, th {
 }
 
 .anidroidsDescription {
-	margin-top: 0px;
+	margin-top: -90px;
 	text-align: left;
 }
 
@@ -518,14 +518,16 @@ td, th {
 	
 	.borderOneHC {
 		min-height: 10px;
+		padding-bottom: 7px;
+		padding-top: 7px;
 	}
 	
 	.titleTwo {
-		padding-top: 70px;
+		padding-top: 0px;
 	}
 	
 	.titleThree {
-		padding-top: 100px;
+		padding-top: 0px;
 	}
 	
 	.bookTitle {
@@ -546,6 +548,7 @@ td, th {
 	
 	.bookTitle {
 		padding-top: 30px;
+		font-weight: bold;
 	}
 	
 	.entryTitle {
@@ -566,6 +569,7 @@ td, th {
 		margin-right: auto;
 		margin-left: auto;
 		text-align: center;
+		padding-top: 10px;
 	}
 	
 	.textBox {
