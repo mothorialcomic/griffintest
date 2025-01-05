@@ -417,7 +417,10 @@ Hayven Celestia
 																																													</div>
 																																												</div>
 																																												<div class="">
-																																													<div class="borderOneHC" style="padding-top: 50px;">
+																																												<div class="pictureLeft pictureMobile" style="margin-top: -119px;">
+																																															<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/thecaptainsoath.jpg">
+				</div>
+																																													<div class="borderOneHC titleTwo">
 																																														<div class="anidroidsDescription">
 																																															<div>
 																																																<h2 class="whiteText anidroidsTitle" >2: THE CAPTAIN'S OATH</h2>
@@ -434,13 +437,13 @@ Hayven Celestia
 																																																</p>
 																																															</div>
 																																														</div>
-																																														<div class="pictureLeft" style="margin-top: -119px;">
+																																														<div class="pictureRight" style="margin-top: -119px;">
 																																															<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/thecaptainsoath.jpg">
 				</div>
 																																														</div>
 																																													</div>
 																																													<div class="">
-																																														<div class="borderOneHC" >
+																																														<div class="borderOneHC titleThree" >
 																																															<div class="pictureLeft">
 																																																<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/chainunbroken.jpg">
 				</div>
@@ -505,7 +508,7 @@ Hayven Celestia
 																																																</div>
 																																															</div>
 																																															<div class="">
-																																																<div class="borderOneHC" style="padding-top: 50px;padding-bottom: 0px;">
+																																																<div class="borderOneHC">
 																																																	<div class="anidroidsDescription" style="text-align: left;margin-left: 10px;">
 																																																		<div style="/*! text-align: left; */font-weight: normal;margin-left: 18px;">
 																																																			<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 2rem;margin-top: -60px;text-align: left;font-weight: normal;">2: SMALL WORLD</h2>

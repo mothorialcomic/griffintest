@@ -472,6 +472,11 @@ td, th {
 		text-align: left;
 		font-weight: normal;
 	}
+	
+	.titleTwo {
+		padding-top: 50px;
+		padding-bottom: 0px;
+	}
 
 /* All Comic Pages */
 
@@ -511,10 +516,27 @@ td, th {
 		overflow-x: hidden;
 	}
 	
+	.borderOneHC {
+		min-height: 10px;
+	}
+	
+	.titleTwo {
+		padding-top: 70px;
+	}
+	
+	.titleThree {
+		padding-top: 100px;
+	}
+	
+	.bookTitle {
+		font-size: 2rem;
+	}
+	
 	.bookImageAnidroids {
 		margin-right: auto;
 		margin-left: auto;
 		width: 100%;
+		max-width: 300px;
 	}
 	
 	.seriesTitle {
@@ -559,7 +581,7 @@ td, th {
 	}
 	
 	.anidroidsTitle {
-		font-size: 2rem;
+		font-size: 1.7rem;
 	}
 	
 	.novel {
@@ -632,6 +654,10 @@ td, th {
 	.pictureLeft {
 		padding-top: 20px;
   padding-bottom: 20px;
+	}
+	
+	.pictureRight {
+		display: none;
 	}
 	
 	.pictureMobile {
