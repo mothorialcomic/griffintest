@@ -489,6 +489,15 @@ td, th {
 	.textVertical {
 		padding-top: 50px;
 	}
+	
+	.series {
+		background-color: #111111;
+	}
+	
+	.kantiTitle {
+		margin-bottom: 10px;
+		padding-top: 30px;
+	}
 
 /* All Comic Pages */
 
@@ -543,11 +552,12 @@ td, th {
 	}
 	
 	.textVertical {
-		padding-top: 50px;
+		padding-top: 0px;
 	}
 	
 	.kantiTitle {
-		margin-bottom: 20px;
+		margin-bottom: -50px;
+		margin-top: 120px;
 	}
 	
 	.titleTwo {
@@ -560,10 +570,6 @@ td, th {
 	
 	.titleThree {
 		padding-top: 0px;
-	}
-	
-	.bookTitle {
-		font-size: 2rem;
 	}
 	
 	.bookImageAnidroids {
@@ -579,12 +585,14 @@ td, th {
 	}
 	
 	.bookTitle {
-		padding-top: 30px;
+		margin-top: 20px;
 		font-weight: bold;
+		font-size: 2rem;
+		padding-top: 30px;
 	}
 	
 	.entryTitle {
-		font-size: 2rem;
+		font-size: 3rem;
 		margin-top: 170px;
 	}
 	
@@ -635,10 +643,6 @@ td, th {
 	
 	.novel, .anidroidsTitle, .redLink, .anidroidsDescription {
 		text-align: center;
-	}
-	
-	.anidroidsText {
-		margin-top: -70px;
 	}
 	
 	.pictureLeft {

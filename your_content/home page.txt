@@ -376,10 +376,7 @@ Hayven Celestia
 																																											</div>
 																																										</div>
 																																										<div class="anidroidsTable bookSection">
-																																											<div class="">
-																																												<div class="anidroidsText">
-					
-				</div>
+																																											<div class="series">
 																																												<h6 class="whiteText bookTitle">The Final Days of the White Flower II</h6>
 																																												<div class="anidroidsDescription textBox">
 																																													<div class="storyDescription">
@@ -507,7 +504,7 @@ Hayven Celestia
 																																																<div class="borderOneHC">
 																																																	<div class="anidroidsDescription descriptionLeft" style="text-align: left;margin-left: 10px;">
 																																																		<div style="/*! text-align: left; */font-weight: normal;margin-left: 18px;">
-																																																			<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 2rem;margin-top: -60px;text-align: left;font-weight: normal;">2: SMALL WORLD</h2>
+																																																			<h2 class="whiteText anidroidsTitle">2: SMALL WORLD</h2>
 																																																			<p>Kanti finally got everything he ever wanted, and now he must pay for it. He and fifty others are forced to go to Krakuntec Prime and serve as the commissioner's personal cleaning crew on a planet whose atmosphere he can't even breathe. Can he make a new life here?</p>
 																																																			<p style="font-weight: bold;">The Kanti Cycle is a trilogy that should be read in order. It is a prequel to The Final Days of the White Flower II, but is meant to be read on its own. </p>
 																																																			<p>
