@@ -389,7 +389,7 @@ Hayven Celestia
 																																													<div class="pictureLeft" style="">
 																																														<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/traitorsthievesandliars.jpg">
 				</div>
-																																														<div class="anidroidsText textVertical" style="padding-top: 0px;">
+																																														<div class="anidroidsText textVertical">
 																																															<div class="anidroidsDescription descriptionRight">
 																																																<div >
 																																																	<p>
@@ -423,13 +423,13 @@ Hayven Celestia
 																																																<h2 class="whiteText anidroidsTitle seriesTitle" >2: THE CAPTAIN'S OATH</h2>
 																																																<p>The Captain's Oath is the second book of The Final Days of the White Flower II. It follows Subcommander Tesko, science officer of the White Flower II, as she discovers the conspiracy the captain has embroiled them all in. She is at first very enthusiastic about the prospect of escape from their slavery, but things quickly take a turn for the worse.</p>
 																																																<p style="font-weight: bold;">The Final Days of the White Flower II trilogy is meant to be read on its own and does not require you have read any of the other books. It takes place chronologically after The Kanti Cycle, but is not required reading.</p>
-																																																<p>
+																																																<p class="redLink">
 																																																	<a href="http://mybook.to/TheCaptainsOath" target="_blank" rel="noopener">Buy it on Amazon</a>
 																																																</p>
-																																																<p>
+																																																<p class="redLink">
 																																																	<a href="https://www.smashwords.com/books/view/1070464" target="_blank" rel="noopener">Buy it on Smashwords</a>
 																																																</p>
-																																																<p>
+																																																<p class="redLink">
 																																																	<a href="https://www.audible.com/pd/The-Captains-Oath-Audiobook/B098886CST?source_code=AUDFPWS0223189MWT-BK-ACX0-265681&amp;ref=acx_bty_BK_ACX0_265681_rh_us" target="_blank" rel="noopener">Get the audiobook</a>
 																																																</p>
 																																															</div>
@@ -447,13 +447,13 @@ Hayven Celestia
 																																																<div class="anidroidsText textVertical">
 																																																	<div class="anidroidsDescription descriptionRight">
 																																																		<div>
-																																																			<h2 class="whiteText anidroidsTitle seriesTitle">3: Chain Unbroken</h2>
+																																																			<h2 class="whiteText anidroidsTitle seriesTitle">3: CHAIN UNBROKEN</h2>
 <p>Nothing will ever be the same again.</p>
 																																																			<p>Having successfully averted a mutiny and the near-discovery of the Exit Plan, the White Flower II's new captain is now in charge of fulfilling that plan to its end, and there's only a little more than a month to prepare. But there's a problem—Tesko doesn't want to deliver the terraformer to the pirates as agreed. She wants it for the geroo, and she will not take no for an answer. But it's not as simple as kicking the pirates out, as both crews need each other. For now.</p>
 																																																			<p>The mistrust between the crews of the White Flower II and the Jet Black Sword are at an all-time high. Everyone, geroo and ringel alike, know that a war is coming. They smile at each other while holding daggers behind their backs. If that wasn't bad enough, there's still the Geordian Guard to deal with, as well as Commissioner Pokokuro who has this time come prepared. And what's worse... Subcommander Gert is still in love with the ringel.</p>
 																																																			<p>Now begins the slow, inexorable countdown to the end of everything they know. Is it a new beginning—or is it the geroos' last gasp of hope?</p>
 																																																			<p>Chain Unbroken is the final entry in the epic heist that will redirect the fate of an entire species. Have faith and courage, because in the end, the only ones we can rely on are each other.</p>
-																																																			<p>The Final Days of the White Flower II trilogy is meant to be read on its own and does not require you have read any of the other books. It takes place chronologically after The Kanti Cycle, but is not required reading.</p>
+																																																			<p style="font-weight: bold;">The Final Days of the White Flower II trilogy is meant to be read on its own and does not require you have read any of the other books. It takes place chronologically after The Kanti Cycle, but is not required reading.</p>
 																																																			<p class="redLink">
 																																																				<a target="_blank" rel="noopener" href="https://mybook.to/chainunbroken">Buy it on Amazon</a>
 																																																			</p>
@@ -467,44 +467,97 @@ Hayven Celestia
 																																														</div>
 																																													</div>
 																																													<div class="anidroidsTable">
-																																														<div class="">
-																																															<div class="anidroidsText">
-					
+																																														<div class="anidroidsTable bookSection">
+																																											<div class="series">
+																																												<h6 class="whiteText bookTitle">The Kanti Cycle</h6>
+																																												<div class="borderOneHC">
+																																													<div class="pictureLeft" style="">
+																																														<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/sc.jpg">
 				</div>
-																																															<h6 class="whiteText bookTitle kantiTitle">The Kanti Cycle</h6>
-																																															<div class="borderOneHC">
-																																																<div class="pictureLeft" style="">
-																																																	<img class="bookImageAnidroids bookImageSC" alt="Image 1" src="/griffintest/your_content/images/books/sc.jpg">
-				</div>
-																																																	<div class="anidroidsText">
-																																																		<div class="anidroidsDescription descriptionRight">
-																																																			<div>
-																																																				<p>
+																																														<div class="anidroidsText textVertical">
+																																															<div class="anidroidsDescription descriptionRight">
+																																																<div>
+																																																	<p>
 																																							</p>
-																																																				<h2 class="whiteText anidroidsTitle seriesTitle" s>1: SKELETON CREW</h2>
-																																																				<p>
+																																																	<h2 class="whiteText anidroidsTitle seriesTitle">1: SKELETON CREW</h2>
+																																																	<p>
 																																							</p>
-																																																				<p>Kanti's life has not been going to way he's wanted it. He's working the lowest job of the White Flower II, that of the recycler bay crew. When his best friend dies and Kanti accidentally takes over his identity, he's suddenly thrust into the middle of a shipwide conspiracy, and if Kanti wants to keep his own life, he my just have to tell the truth about who he really is.</p>
-																																																				<p>The Kanti Cycle is a trilogy that should be read in order. It is a prequel to The Final Days of the White Flower II, but is meant to be read on its own. </p>
-																																																				<p class="redLink">
+																																																	<p>Kanti's life has not been going to way he's wanted it. He's working the lowest job of the White Flower II, that of the recycler bay crew. When his best friend dies and Kanti accidentally takes over his identity, he's suddenly thrust into the middle of a shipwide conspiracy, and if Kanti wants to keep his own life, he my just have to tell the truth about who he really is.</p>
+																																																	<p style="font-weight: bold;">The Kanti Cycle is a trilogy that should be read in order. It is a prequel to The Final Days of the White Flower II, but is meant to be read on its own. </p>
+																																																	<p class="redLink">
 																																																					<a target="_blank" rel="noopener" href="https://www.etsy.com/shop/gre7g">Buy it on Etsy</a>
 																																																				</p>
-																																																				<p class="redLink">
-																																																					<a target="_blank" rel="noopener" href="https://www.amazon.com/Skeleton-Crew-Kanti-Cycle-Book-ebook/dp/B086RB5ZFC">Buy it on Amazon</a>
+																																																	<p class="redLink">
+																																																		<a href="https://www.amazon.com/Skeleton-Crew-Kanti-Cycle-Book-ebook/dp/B086RB5ZFC" target="_blank" rel="noopener">Buy it on Amazon</a>
+																																																	</p>
+																																																	<p class="redLink">
+																																																		<a href="href="https://www.audible.com/pd/Skeleton-Crew-Audiobook/B099VKV94J?ref_pageloadid=M7KhBHiTDJ6aC60x&pf_rd_p=2feb1981-ce9d-438d-ab14-86799c9ef174&pf_rd_r=E1222VCRNP8TMSMJEYRA&plink=ceiNMKa37mcvGqrv&pageLoadId=9BeJs6QDYF9hzczr&creativeId=0af2a489-14b7-432e-9a67-0e4657ded0c8&ref=a_series_Th_c11_adblp13nssbo_1" target="_blank" rel="noopener">Get the audiobook</a>
+																																																	</p>
+																																																</div>
+																																															</div>
+																																														</div>
+																																													</div>
+																																												</div>
+																																												<div class="">
+																																													<div class="borderOneHC titleTwo">
+																																														<div class="pictureLeft pictureMobile">
+																																																<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/sw.jpg">
+					</div>
+																																														<div class="anidroidsDescription descriptionLeft">
+																																															<div>
+																																																<h2 class="whiteText anidroidsTitle seriesTitle">2: SMALL WORLD</h2>
+																																																<p>Kanti finally got everything he ever wanted, and now he must pay for it. He and fifty others are forced to go to Krakuntec Prime and serve as the commissioner's personal cleaning crew on a planet whose atmosphere he can't even breathe. Can he make a new life here?</p>
+																																																<p style="font-weight: bold;">The Kanti Cycle is a trilogy that should be read in order. It is a prequel to The Final Days of the White Flower II, but is meant to be read on its own.</p>
+																																																<p class="redLink">
+																																																					<a target="_blank" rel="noopener" href="https://www.etsy.com/shop/gre7g">Buy it on Etsy</a>
 																																																				</p>
-																																																				<p class="redLink">
-																																																					<a target="_blank" rel="noopener" href="https://www.audible.com/pd/Skeleton-Crew-Audiobook/B099VKV94J?ref_pageloadid=M7KhBHiTDJ6aC60x&amp;pf_rd_p=2feb1981-ce9d-438d-ab14-86799c9ef174&amp;pf_rd_r=E1222VCRNP8TMSMJEYRA&amp;plink=ceiNMKa37mcvGqrv&amp;pageLoadId=9BeJs6QDYF9hzczr&amp;creativeId=0af2a489-14b7-432e-9a67-0e4657ded0c8&amp;ref=a_series_Th_c11_adblp13nssbo_1">Get the audiobook</a>
+																																																	<p class="redLink">
+																																																		<a href="https://www.amazon.com/gp/product/B086QBYTFC?ref_=dbs_m_mng_rwt_calw_tkin_1&storeType=ebooks" target="_blank" rel="noopener">Buy it on Amazon</a>
+																																																	</p>
+																																																	<p class="redLink">
+																																																		<a href="href="https://www.audible.com/pd/Small-World-Audiobook/B09D3Z2ZZZ?ref_pageloadid=1a7OwpMzQcqOS5Bj&pf_rd_p=ae77544a-4f02-4042-bed0-641b7aadbd7d&pf_rd_r=7VFEC5JSFWMEE008GJ5V&plink=waxcPKc7o0SFvf7B&pageLoadId=wHf5AbhNIc7Qj1R8&creativeId=b570234c-250a-43ff-be6b-ca1b4c5d7caa&ref=a_series_Th_c5_lProduct_1_2" target="_blank" rel="noopener">Get the audiobook</a>
+																																																	</p>
+																																															</div>
+																																														</div>
+																																														<div class="pictureRight">
+																																															<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/sw.jpg">
+				</div>
+																																														</div>
+																																													</div>
+																																													<div class="">
+																																														<div class="borderOneHC titleThree">
+																																															<div class="pictureLeft">
+																																																<img class="bookImageAnidroids imageChainUnbroken" alt="Image 1" src="/griffintest/your_content/images/books/ft.jpg">
+				</div>
+																																																<div class="anidroidsText textVertical">
+																																																	<div class="anidroidsDescription descriptionRight">
+																																																		<div>
+																																																			<h2 class="whiteText anidroidsTitle seriesTitle">3: FAIR TRADE</h2>
+<p>Kanti now finds out there was a whole other world behind the walls of the krakun apartment building, lorded over by a species known as the sourang. He once again finds himself in a life of servitude, this time separated from the ones he loves. But he's not going to quit--not yet, not when his family needs him.</p>
+																																																			<p style="font-weight: bold;">The Kanti Cycle is a trilogy that should be read in order. It is a prequel to The Final Days of the White Flower II, but is meant to be read on its own.</p>
+																																																			<p class="redLink">
+																																																					<a target="_blank" rel="noopener" href="https://www.etsy.com/shop/gre7g">Buy it on Etsy</a>
 																																																				</p>
-																																																			</div>
+																																																	<p class="redLink">
+																																																		<a href="https://www.amazon.com/gp/product/B086QBR94R?ref_=dbs_m_mng_rwt_calw_tkin_2&storeType=ebooks" target="_blank" rel="noopener">Buy it on Amazon</a>
+																																																	</p>
+																																																	<p class="redLink">
+																																																		<a href="href="https://www.audible.com/pd/Fair-Trade-Audiobook/B09N3Z8FDH?ref_pageloadid=1a7OwpMzQcqOS5Bj&pf_rd_p=ae77544a-4f02-4042-bed0-641b7aadbd7d&pf_rd_r=7VFEC5JSFWMEE008GJ5V&plink=waxcPKc7o0SFvf7B&pageLoadId=wHf5AbhNIc7Qj1R8&creativeId=b570234c-250a-43ff-be6b-ca1b4c5d7caa&ref=a_series_Th_c5_lProduct_1_3" target="_blank" rel="noopener">Get the audiobook</a>
+																																																	</p>
 																																																		</div>
 																																																	</div>
 																																																</div>
 																																															</div>
+																																														</div>
+																																													</div>
 																																															<div class="">
 																																																<div class="borderOneHC">
+																																																<div class="pictureLeft pictureMobile">
+																																																		<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/sw.jpg">
+				</div>
 																																																	<div class="anidroidsDescription descriptionLeft" style="text-align: left;margin-left: 10px;">
-																																																		<div style="/*! text-align: left; */font-weight: normal;margin-left: 18px;">
-																																																			<h2 class="whiteText anidroidsTitle">2: SMALL WORLD</h2>
+																																																		<div>
+																																																			<h2 class="whiteText anidroidsTitle seriesTitle">2: SMALL WORLD</h2>
 																																																			<p>Kanti finally got everything he ever wanted, and now he must pay for it. He and fifty others are forced to go to Krakuntec Prime and serve as the commissioner's personal cleaning crew on a planet whose atmosphere he can't even breathe. Can he make a new life here?</p>
 																																																			<p style="font-weight: bold;">The Kanti Cycle is a trilogy that should be read in order. It is a prequel to The Final Days of the White Flower II, but is meant to be read on its own. </p>
 																																																			<p>
@@ -518,8 +571,8 @@ Hayven Celestia
 																																																			</p>
 																																																		</div>
 																																																	</div>
-																																																	<div class="pictureLeft" style="margin-top: -119px;">
-																																																		<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/sw.jpg" style="margin-right: 30px;margin-left: 30px;width: 258px;">
+																																																	<div class="pictureRight">
+																																																		<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/sw.jpg">
 				</div>
 																																																	</div>
 																																																</div>
@@ -536,7 +589,7 @@ Hayven Celestia
 																																																					<div>
 																																																						<p>
 																																							</p>
-																																																						<h2 class="whiteText anidroidsTitle">3: FAIR TRADE</h2>
+																																																						<h2 class="whiteText anidroidsTitle seriesTitle">3: FAIR TRADE</h2>
 																																																						<p>
 																																							</p>
 																																																						<p style="text-align: left;">Kanti now finds out there was a whole other world behind the walls of the krakun apartment building, lorded over by a species known as the sourang. He once again finds himself in a life of servitude, this time separated from the ones he loves. But he's not going to quit--not yet, not when his family needs him.</p>

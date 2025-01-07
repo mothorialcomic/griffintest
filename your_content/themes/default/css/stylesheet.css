@@ -364,8 +364,7 @@ td, th {
 	display: flex;
 	align-items: center;
 	height: 100%;
-	padding: 45px 0px;
-	border-width: 9px;
+	padding: 45px 0px 0px 0px;
 	background-color: #111111;
 }
 
@@ -452,6 +451,7 @@ td, th {
 		margin-top: 60px;
 		text-align: center;
 		font-weight: normal;
+		padding-top: 30px;
 	}
 	
 	.storyDescription {
@@ -479,7 +479,7 @@ td, th {
 	}
 	
 	.titleTwo {
-		padding-top: 20px;
+		padding-top: 70px;
 	}
 	
 	.imageChainUnbroken {
@@ -497,6 +497,14 @@ td, th {
 	.kantiTitle {
 		margin-bottom: 10px;
 		padding-top: 30px;
+	}
+	
+	.descriptionRight {
+		margin-right: 30px;
+	}
+	
+	.descriptionLeft {
+		margin-left: 30px;
 	}
 
 /* All Comic Pages */
@@ -545,6 +553,14 @@ td, th {
 	
 	.imageChainUnbroken {
 		margin-top: 0px;
+	}
+	
+	.descriptionRight {
+		margin-right: 0px;
+	}
+	
+	.descriptionLeft {
+		margin-left: 0px;
 	}
 	
 	.anidroidsText {
