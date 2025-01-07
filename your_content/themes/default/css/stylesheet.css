@@ -334,7 +334,7 @@ td, th {
 }
 
 .bookImageAnidroids {
-	margin-right: 110px;
+	margin-right: 30px;
 	margin-left: 30px;
 	width: 258px;
 }
@@ -532,6 +532,18 @@ td, th {
 		min-height: 10px;
 		padding-bottom: 7px;
 		padding-top: 7px;
+	}
+	
+	.imageChainUnbroken {
+		margin-top: 0px;
+	}
+	
+	.anidroidsText {
+		margin-top: 0px;
+	}
+	
+	.textVertical {
+		padding-top: 50px;
 	}
 	
 	.kantiTitle {

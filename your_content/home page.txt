@@ -393,7 +393,7 @@ Hayven Celestia
 																																														<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/traitorsthievesandliars.jpg">
 				</div>
 																																														<div class="anidroidsText textVertical" style="padding-top: 0px;">
-																																															<div class="anidroidsDescription">
+																																															<div class="anidroidsDescription descriptionRight">
 																																																<div >
 																																																	<p>
 																																							</p>
@@ -417,11 +417,11 @@ Hayven Celestia
 																																													</div>
 																																												</div>
 																																												<div class="">
-																																												<div class="pictureLeft pictureMobile">
-																																															<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/thecaptainsoath.jpg">
-				</div>
 																																													<div class="borderOneHC titleTwo">
-																																														<div class="anidroidsDescription">
+																																														<div class="pictureLeft pictureMobile">
+																																																<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/thecaptainsoath.jpg">
+					</div>
+																																														<div class="anidroidsDescription descriptionLeft">
 																																															<div>
 																																																<h2 class="whiteText anidroidsTitle seriesTitle" >2: THE CAPTAIN'S OATH</h2>
 																																																<p>The Captain's Oath is the second book of The Final Days of the White Flower II. It follows Subcommander Tesko, science officer of the White Flower II, as she discovers the conspiracy the captain has embroiled them all in. She is at first very enthusiastic about the prospect of escape from their slavery, but things quickly take a turn for the worse.</p>
@@ -448,14 +448,10 @@ Hayven Celestia
 																																																<img class="bookImageAnidroids imageChainUnbroken" alt="Image 1" src="/griffintest/your_content/images/books/chainunbroken.jpg">
 				</div>
 																																																<div class="anidroidsText textVertical">
-																																																	<div class="anidroidsDescription">
+																																																	<div class="anidroidsDescription descriptionRight">
 																																																		<div>
-																																																			<p>
-																																							</p>
 																																																			<h2 class="whiteText anidroidsTitle seriesTitle">3: Chain Unbroken</h2>
-																																																			<p>
-																																							</p>
-																																																			<p>Nothing will ever be the same again.</p>
+<p>Nothing will ever be the same again.</p>
 																																																			<p>Having successfully averted a mutiny and the near-discovery of the Exit Plan, the White Flower II's new captain is now in charge of fulfilling that plan to its end, and there's only a little more than a month to prepare. But there's a problem—Tesko doesn't want to deliver the terraformer to the pirates as agreed. She wants it for the geroo, and she will not take no for an answer. But it's not as simple as kicking the pirates out, as both crews need each other. For now.</p>
 																																																			<p>The mistrust between the crews of the White Flower II and the Jet Black Sword are at an all-time high. Everyone, geroo and ringel alike, know that a war is coming. They smile at each other while holding daggers behind their backs. If that wasn't bad enough, there's still the Geordian Guard to deal with, as well as Commissioner Pokokuro who has this time come prepared. And what's worse... Subcommander Gert is still in love with the ringel.</p>
 																																																			<p>Now begins the slow, inexorable countdown to the end of everything they know. Is it a new beginning—or is it the geroos' last gasp of hope?</p>
@@ -484,7 +480,7 @@ Hayven Celestia
 																																																	<img class="bookImageAnidroids bookImageSC" alt="Image 1" src="/griffintest/your_content/images/books/sc.jpg">
 				</div>
 																																																	<div class="anidroidsText">
-																																																		<div class="anidroidsDescription">
+																																																		<div class="anidroidsDescription descriptionRight">
 																																																			<div>
 																																																				<p>
 																																							</p>
@@ -509,7 +505,7 @@ Hayven Celestia
 																																															</div>
 																																															<div class="">
 																																																<div class="borderOneHC">
-																																																	<div class="anidroidsDescription" style="text-align: left;margin-left: 10px;">
+																																																	<div class="anidroidsDescription descriptionLeft" style="text-align: left;margin-left: 10px;">
 																																																		<div style="/*! text-align: left; */font-weight: normal;margin-left: 18px;">
 																																																			<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 2rem;margin-top: -60px;text-align: left;font-weight: normal;">2: SMALL WORLD</h2>
 																																																			<p>Kanti finally got everything he ever wanted, and now he must pay for it. He and fifty others are forced to go to Krakuntec Prime and serve as the commissioner's personal cleaning crew on a planet whose atmosphere he can't even breathe. Can he make a new life here?</p>
@@ -539,11 +535,11 @@ Hayven Celestia
 																																																			<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/ft.jpg" style="margin-right: 110px;margin-left: 30px;width: 258px;">
 				</div>
 																																																			<div class="anidroidsText" style="padding-top: 40px;">
-																																																				<div class="anidroidsDescription" style="text-align: left;">
-																																																					<div style="/*! text-align: left; */font-weight: normal;margin-right: 18px;">
+																																																				<div class="anidroidsDescription descriptionRight" style="text-align: left;">
+																																																					<div>
 																																																						<p>
 																																							</p>
-																																																						<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 2rem;margin-top: -40px;text-align: left;font-weight: normal;">3: FAIR TRADE</h2>
+																																																						<h2 class="whiteText anidroidsTitle">3: FAIR TRADE</h2>
 																																																						<p>
 																																							</p>
 																																																						<p style="text-align: left;">Kanti now finds out there was a whole other world behind the walls of the krakun apartment building, lorded over by a species known as the sourang. He once again finds himself in a life of servitude, this time separated from the ones he loves. But he's not going to quit--not yet, not when his family needs him.</p>
@@ -573,12 +569,12 @@ Hayven Celestia
 																																																			<div class="pictureLeft" style="">
 																																																				<img class="bookImageAnidroids" alt="Image 1" style="margin-right: 110px;margin-left: 30px;width: 258px;" src="/griffintest/your_content/images/books/rl.jpg">
 				</div>
-																																																				<div class="anidroidsText" style="padding-top: 40px;">
-																																																					<div class="anidroidsDescription" style="text-align: left;">
-																																																						<div style="/*! text-align: left; */font-weight: normal;margin-right: 18px;">
+																																																				<div class="anidroidsText">
+																																																					<div class="anidroidsDescription descriptionRight" style="text-align: left;">
+																																																						<div>
 																																																							<p>
 																																							</p>
-																																																							<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 2rem;margin-top: -40px;text-align: left;font-weight: normal;">1: 
+																																																							<h2 class="whiteText anidroidsTitle">1: 
 
 REAPER'S LOTTERY</h2>
 																																																							<p>
@@ -599,10 +595,10 @@ REAPER'S LOTTERY</h2>
 																																																			</div>
 																																																		</div>
 																																																		<div class="">
-																																																			<div class="borderOneHC" style="padding-top: 50px;padding-bottom: 0px;">
-																																																				<div class="anidroidsDescription" style="text-align: left;margin-left: 10px;">
+																																																			<div class="borderOneHC">
+																																																				<div class="anidroidsDescription descriptionLeft">
 																																																					<div style="/*! text-align: left; */font-weight: normal;margin-left: 18px;">
-																																																						<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 2rem;margin-top: -60px;text-align: left;font-weight: normal;">2: EXECUTIONER'S GAMBIT</h2>
+																																																						<h2 class="whiteText anidroidsTitle">2: EXECUTIONER'S GAMBIT</h2>
 																																																						<p>Tori stared at the screen. "Wait, what? How long is three hundred and fifty-five hours?"</p>
 																																																						<p>"It's about fifteen days, Tori," the commissioner sighed. "If we don't get the trinity back online within fifteen days—give or take—there won't be enough power capacity left to bring it back up, and the reactor will be past the point of no return. Without the reactor, this ship is going to get very cold, and everyone will freeze to death."</p>
 																																																						<p>Desperate to get the surgery she needs, Tori transfers aboard the Sailor's Gambit I to catch a vigilante. But the situation quickly unravels, and our unlikely investigator discovers that a serial killer on the loose is the very least of her problems.</p>
@@ -629,7 +625,7 @@ REAPER'S LOTTERY</h2>
 																																																					<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/talesofhayvencelestia.jpg" style="margin-right: 110px;margin-left: 30px;width: 258px;">
 				</div>
 																																																					<div class="anidroidsText" style="padding-top: 40px;">
-																																																						<div class="anidroidsDescription" style="text-align: left;">
+																																																						<div class="anidroidsDescription descriptionRight" style="text-align: left;">
 																																																							<div style="font-weight: normal;margin-right: 18px;">
 																																																								<p>
 																																							</p>
