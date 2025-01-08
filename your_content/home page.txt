@@ -527,7 +527,7 @@ Hayven Celestia
 																																													<div class="">
 																																														<div class="borderOneHC titleThree">
 																																															<div class="pictureLeft">
-																																																<img class="bookImageAnidroids imageChainUnbroken" alt="Image 1" src="/griffintest/your_content/images/books/ft.jpg">
+																																																<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/ft.jpg">
 				</div>
 																																																<div class="anidroidsText textVertical">
 																																																	<div class="anidroidsDescription descriptionRight">
@@ -550,64 +550,6 @@ Hayven Celestia
 																																															</div>
 																																														</div>
 																																													</div>
-																																															<div class="">
-																																																<div class="borderOneHC">
-																																																<div class="pictureLeft pictureMobile">
-																																																		<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/sw.jpg">
-				</div>
-																																																	<div class="anidroidsDescription descriptionLeft" style="text-align: left;margin-left: 10px;">
-																																																		<div>
-																																																			<h2 class="whiteText anidroidsTitle seriesTitle">2: SMALL WORLD</h2>
-																																																			<p>Kanti finally got everything he ever wanted, and now he must pay for it. He and fifty others are forced to go to Krakuntec Prime and serve as the commissioner's personal cleaning crew on a planet whose atmosphere he can't even breathe. Can he make a new life here?</p>
-																																																			<p style="font-weight: bold;">The Kanti Cycle is a trilogy that should be read in order. It is a prequel to The Final Days of the White Flower II, but is meant to be read on its own. </p>
-																																																			<p>
-																																																				<a target="_blank" rel="noopener" href="https://www.etsy.com/shop/gre7g">Buy it on Etsy</a>
-																																																			</p>
-																																																			<p>
-																																																				<a target="_blank" rel="noopener" href="https://www.amazon.com/gp/product/B086QBYTFC?ref_=dbs_m_mng_rwt_calw_tkin_1&amp;storeType=ebooks">Buy it on Amazon</a>
-																																																			</p>
-																																																			<p>
-																																																				<a target="_blank" rel="noopener" href="https://www.audible.com/pd/Small-World-Audiobook/B09D3Z2ZZZ?ref_pageloadid=1a7OwpMzQcqOS5Bj&amp;pf_rd_p=ae77544a-4f02-4042-bed0-641b7aadbd7d&amp;pf_rd_r=7VFEC5JSFWMEE008GJ5V&amp;plink=waxcPKc7o0SFvf7B&amp;pageLoadId=wHf5AbhNIc7Qj1R8&amp;creativeId=b570234c-250a-43ff-be6b-ca1b4c5d7caa&amp;ref=a_series_Th_c5_lProduct_1_2">Get the audiobook</a>
-																																																			</p>
-																																																		</div>
-																																																	</div>
-																																																	<div class="pictureRight">
-																																																		<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/sw.jpg">
-				</div>
-																																																	</div>
-																																																</div>
-																																																<div class="">
-																																																	<div style="/*! text-align: left; */font-weight: normal;margin-left: 18px;">
-																																																		<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 33px;margin-top: -40px;text-align: center;font-weight: normal;">BOOK 3 COMING SOON</h2>
-																																																	</div>
-																																																	<div class="borderOneHC" style="position: relative;margin-top: -140px;padding-top: 30px;padding-bottom: 30px;">
-																																																		<div class="pictureLeft" style="">
-																																																			<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/ft.jpg" style="margin-right: 110px;margin-left: 30px;width: 258px;">
-				</div>
-																																																			<div class="anidroidsText" style="padding-top: 40px;">
-																																																				<div class="anidroidsDescription descriptionRight" style="text-align: left;">
-																																																					<div>
-																																																						<p>
-																																							</p>
-																																																						<h2 class="whiteText anidroidsTitle seriesTitle">3: FAIR TRADE</h2>
-																																																						<p>
-																																							</p>
-																																																						<p style="text-align: left;">Kanti now finds out there was a whole other world behind the walls of the krakun apartment building, lorded over by a species known as the sourang. He once again finds himself in a life of servitude, this time separated from the ones he loves. But he's not going to quit--not yet, not when his family needs him.</p>
-																																																						<p style="font-weight: bold;">The Kanti Cycle is a trilogy that should be read in order. It is a prequel to The Final Days of the White Flower II, but is meant to be read on its own. </p>
-																																																						<p class="redLink">
-																																																							<a target="_blank" rel="noopener" href="https://www.etsy.com/shop/gre7g">Buy it on Etsy</a>
-																																																						</p>
-																																																						<p class="redLink">
-																																																							<a target="_blank" rel="noopener" href="https://www.amazon.com/gp/product/B086QBR94R?ref_=dbs_m_mng_rwt_calw_tkin_2&amp;storeType=ebooks">Buy it on Amazon</a>
-																																																						</p>
-																																																						<p class="redLink">
-																																																							<a target="_blank" rel="noopener" href="https://www.audible.com/pd/Fair-Trade-Audiobook/B09N3Z8FDH?ref_pageloadid=1a7OwpMzQcqOS5Bj&amp;pf_rd_p=ae77544a-4f02-4042-bed0-641b7aadbd7d&amp;pf_rd_r=7VFEC5JSFWMEE008GJ5V&amp;plink=waxcPKc7o0SFvf7B&amp;pageLoadId=wHf5AbhNIc7Qj1R8&amp;creativeId=b570234c-250a-43ff-be6b-ca1b4c5d7caa&amp;ref=a_series_Th_c5_lProduct_1_3">Get the audiobook</a>
-																																																						</p>
-																																																					</div>
-																																																				</div>
-																																																			</div>
-																																																		</div>
-																																																	</div>
 																																																</div>
 																																																<div class="anidroidsTable" style="min-height: 419px;border-style: double;border-width: 9px;background-color: rgb(17, 17, 17);margin-top: 50px;">
 																																																	<div class="">
@@ -617,14 +559,14 @@ Hayven Celestia
 																																																		<h6 class="whiteText" style="font-size: 3.5rem;color: white;margin-top: 60px;text-align: center;font-weight: normal;">Tori Mysteries</h6>
 																																																		<div class="borderOneHC" style="position: relative;margin-top: -120px;padding-top: 45px;padding-bottom: 20px;">
 																																																			<div class="pictureLeft" style="">
-																																																				<img class="bookImageAnidroids" alt="Image 1" style="margin-right: 110px;margin-left: 30px;width: 258px;" src="/griffintest/your_content/images/books/rl.jpg">
+																																																				<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/rl.jpg">
 				</div>
 																																																				<div class="anidroidsText">
 																																																					<div class="anidroidsDescription descriptionRight" style="text-align: left;">
 																																																						<div>
 																																																							<p>
 																																							</p>
-																																																							<h2 class="whiteText anidroidsTitle">1: 
+																																																							<h2 class="whiteText anidroidsTitle seriesTitle">1: 
 
 REAPER'S LOTTERY</h2>
 																																																							<p>
@@ -645,26 +587,29 @@ REAPER'S LOTTERY</h2>
 																																																			</div>
 																																																		</div>
 																																																		<div class="">
-																																																			<div class="borderOneHC">
-																																																				<div class="anidroidsDescription descriptionLeft">
+																																																			<div class="borderOneHC titleTwo">
+	<div class="pictureLeft pictureMobile">
+																																																					<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/eg.png">
+				</div>
+																																																				</div>																																																			<div class="anidroidsDescription descriptionLeft">
 																																																					<div style="/*! text-align: left; */font-weight: normal;margin-left: 18px;">
-																																																						<h2 class="whiteText anidroidsTitle">2: EXECUTIONER'S GAMBIT</h2>
+																																																						<h2 class="whiteText anidroidsTitle seriesTitle">2: EXECUTIONER'S GAMBIT</h2>
 																																																						<p>Tori stared at the screen. "Wait, what? How long is three hundred and fifty-five hours?"</p>
 																																																						<p>"It's about fifteen days, Tori," the commissioner sighed. "If we don't get the trinity back online within fifteen days—give or take—there won't be enough power capacity left to bring it back up, and the reactor will be past the point of no return. Without the reactor, this ship is going to get very cold, and everyone will freeze to death."</p>
 																																																						<p>Desperate to get the surgery she needs, Tori transfers aboard the Sailor's Gambit I to catch a vigilante. But the situation quickly unravels, and our unlikely investigator discovers that a serial killer on the loose is the very least of her problems.</p>
-																																																						<p>
+																																																						<p class="redLink">
 																																																							<a target="_blank" rel="noopener" href="https://www.etsy.com/shop/gre7g">Buy it on Etsy</a>
 																																																						</p>
-																																																						<p>
+																																																						<p class="redLink">
 																																																							<a target="_blank" rel="noopener" href="https://mybook.to/executionersgambit">Buy it on Amazon</a>
 																																																						</p>
-																																																						<p>
+																																																						<p class="redLink">
 																																																							<a target="_blank" rel="noopener" href="https://www.audible.com/pd/Executioners-Gambit-Audiobook/B0DK48HMPC2">Get the audiobook</a>
 																																																						</p>
 																																																					</div>
 																																																				</div>
-																																																				<div class="pictureLeft" style="margin-top: -119px;">
-																																																					<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/eg.png" style="margin-right: 30px;margin-left: 30px;width: 258px;">
+																																																				<div class="pictureRight">
+																																																					<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/eg.png">
 				</div>
 																																																				</div>
 																																																			</div>
