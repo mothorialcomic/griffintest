@@ -134,7 +134,7 @@
 																							</table>
 																						</div>
 																						<div class="bookWorld" id="bookWorldPitFighters">
-																							<img class="exitButtonInner" style="width: 104px;position: fixed;margin-left: auto;margin-right: auto;top: 0px;cursor: pointer;z-index: 1002;" src="/griffintest/your_content/images/symbolXWhite.png" onclick="document.getElementById('overlayHome').style.visibility = 'hidden'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'hidden'; document.getElementById('comicWorldOther').style.visibility = 'hidden';  document.getElementById('comicWorldHC').style.visibility = 'hidden';
+																							<img class="exitButtonInner" src="/griffintest/your_content/images/symbolXWhite.png" onclick="document.getElementById('overlayHome').style.visibility = 'hidden'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'hidden'; document.getElementById('comicWorldOther').style.visibility = 'hidden';  document.getElementById('comicWorldHC').style.visibility = 'hidden';
 	document.getElementById('bookWorldPitFighters').style.visibility = 'hidden';
 	document.getElementById('bookWorldAniDroids').style.visibility = 'hidden'; document.getElementById('bookWorldHC').style.visibility = 'hidden';">
 																								<h1 class="entryTitle">Pit Fighters</h1>
@@ -278,7 +278,7 @@
 																																		</div>
 																																	</div>
 																																	<div class="bookWorld" id="bookWorldAniDroids">
-																																		<img class="exitButtonInner" style="width: 104px;position: fixed;margin-left: auto;margin-right: auto;top: 0px;cursor: pointer;z-index: 1002;" src="/griffintest/your_content/images/symbolXWhite.png" onclick="document.getElementById('overlayHome').style.visibility = 'hidden'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'hidden'; document.getElementById('comicWorldOther').style.visibility = 'hidden';  document.getElementById('comicWorldHC').style.visibility = 'hidden';
+																																		<img class="exitButtonInner" src="/griffintest/your_content/images/symbolXWhite.png" onclick="document.getElementById('overlayHome').style.visibility = 'hidden'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'hidden'; document.getElementById('comicWorldOther').style.visibility = 'hidden';  document.getElementById('comicWorldHC').style.visibility = 'hidden';
 	document.getElementById('bookWorldPitFighters').style.visibility = 'hidden';
 	document.getElementById('bookWorldAniDroids').style.visibility = 'hidden'; document.getElementById('bookWorldHC').style.visibility = 'hidden';">
 																																			<h1 class="entryTitle">Ani-Droids</h1>
