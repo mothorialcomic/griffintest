@@ -204,7 +204,7 @@
 																															<div class="pictureLeft">
 																																<img class="bookImage pitFightersOne" src="/griffintest/your_content/images/books/pf3-cover.jpg" alt="Image 1">
 				</div>
-																																<div class="bookDescriptionLeft">
+																																<div class="bookDescriptionRight">
 																																	<h4>
 																																		<span>
 							3. Side Gig<br>
@@ -240,7 +240,7 @@
 																																<div class="pictureLeft pictureMobile">
 																																				<img class="bookImage pitFightersOne" src="/griffintest/your_content/images/books/pf4-cover.jpg" alt="Image 1">
 					</div>
-																																	<div class="bookDescriptionRight">
+																																	<div class="bookDescriptionLeft">
 																																		<h4>
 																																			<span>
 						4. Family Ties<br>

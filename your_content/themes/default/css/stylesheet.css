@@ -207,11 +207,12 @@ td, th {
 }
 
 .bookDescriptionLeft {
-	padding-left: 30px;
-	margin-top: 30px;
-	margin-bottom: 16px;
+	padding-top: 30px;
+	padding-bottom: 16px;
 	text-align: left;
 	color: white;
+	padding-right: 0px;
+	padding-left: 40px;
 }
 
 .bookDescriptionRight {
@@ -220,6 +221,7 @@ td, th {
 	padding-top: 30px;
 	text-align: left;
 	color: white;
+	padding-bottom: 16px;
 }
 
 .overlay {
