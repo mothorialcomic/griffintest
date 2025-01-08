@@ -439,19 +439,7 @@ div#jump-to {
 	a.chapter-links {
 		font-size: 70%;
 	}
-}
 
-@media (max-width:56.25) {
-
-	body {
-		margin: 0;
-	}
-	
-	div#container {
-		width: 100%;
-		padding: 0;
-		margin: 0;
-	}
 	
 	.bookDescription {
 		padding-top: 20px;
@@ -474,8 +462,12 @@ div#jump-to {
 
 
 @media (max-width:64.875rem) {
-	.navigation-button {
-		font-size: 22px;
+	a.navigation-button {
+		font-size: 1em;  /* Size of the navigation bar hyperlinks */
+	}
+
+	a.navigation-button-disabled {
+		font-size: 1em;  /* Size of the disabled navigation bar hyperlinks */
 	}
 	
 	h1#page-title {
@@ -484,18 +476,8 @@ div#jump-to {
 	}
 }
 
-@media (max-width:40.625rem) {
 
-	a.navigation-button {
-		font-size: 1em;  /* Size of the navigation bar hyperlinks */
-	}
-
-	a.navigation-button-disabled {
-		font-size: 1em;  /* Size of the disabled navigation bar hyperlinks */
-	}
-}
-
-@media (max-width:600px) {
+@media (max-width:37.5rem) {
 
 	a.navigation-button, a.navigation-button-disabled {
 		font-size: 17px;
@@ -503,9 +485,20 @@ div#jump-to {
 	
 	a.link-bar-link {
 		font-size: 13px;
+	}
+	
+	#navigation-bar {
+		display: grid;
+		margin: 0 auto 20px auto;
+		font-weight: bold;
+		justify-content: center;
+		grid-template-areas:
+		"previous next" 
+		"first last";
+	}
 }
 
-@media (max-width:450px) {
+@media (max-width:28.125rem) {
 	
 	a.navigation-button, a.navigation-button-disabled {
 		padding: 0 9px;
