@@ -394,7 +394,7 @@ Hayven Celestia
 																																																<div >
 																																																	<p>
 																																							</p>
-																																																	<h2 class="whiteText anidroidsTitle seriesTitle">1: TRAITORS, THIEVES AND LIARS</h2>
+																																																	<h2 class="whiteText anidroidsTitle seriesTitle titleOne">1: TRAITORS, THIEVES AND LIARS</h2>
 																																																	<p>
 																																							</p>
 																																																	<p>Traitors, Thieves and Liars follows Subcommander Gert, next in line to be captain of the White Flower II, a krakun slave ship served by geroo. The ship is waylaid by pirates who have a very interesting and dangerous offer, which Captain Ateri cannot simply ignore.</p>
@@ -420,7 +420,7 @@ Hayven Celestia
 					</div>
 																																														<div class="anidroidsDescription descriptionLeft">
 																																															<div>
-																																																<h2 class="whiteText anidroidsTitle seriesTitle" >2: THE CAPTAIN'S OATH</h2>
+																																																<h2 class="whiteText anidroidsTitle seriesTitle smallWorld" >2: THE CAPTAIN'S OATH</h2>
 																																																<p>The Captain's Oath is the second book of The Final Days of the White Flower II. It follows Subcommander Tesko, science officer of the White Flower II, as she discovers the conspiracy the captain has embroiled them all in. She is at first very enthusiastic about the prospect of escape from their slavery, but things quickly take a turn for the worse.</p>
 																																																<p style="font-weight: bold;">The Final Days of the White Flower II trilogy is meant to be read on its own and does not require you have read any of the other books. It takes place chronologically after The Kanti Cycle, but is not required reading.</p>
 																																																<p class="redLink">
@@ -505,7 +505,7 @@ Hayven Celestia
 					</div>
 																																														<div class="anidroidsDescription descriptionLeft">
 																																															<div>
-																																																<h2 class="whiteText anidroidsTitle seriesTitle">2: SMALL WORLD</h2>
+																																																<h2 class="whiteText anidroidsTitle seriesTitle smallWorld">2: SMALL WORLD</h2>
 																																																<p>Kanti finally got everything he ever wanted, and now he must pay for it. He and fifty others are forced to go to Krakuntec Prime and serve as the commissioner's personal cleaning crew on a planet whose atmosphere he can't even breathe. Can he make a new life here?</p>
 																																																<p style="font-weight: bold;">The Kanti Cycle is a trilogy that should be read in order. It is a prequel to The Final Days of the White Flower II, but is meant to be read on its own.</p>
 																																																<p class="redLink">
@@ -525,7 +525,7 @@ Hayven Celestia
 																																														</div>
 																																													</div>
 																																													<div class="">
-																																														<div class="borderOneHC titleThree">
+																																														<div class="borderOneHC titleFour">
 																																															<div class="pictureLeft">
 																																																<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/ft.jpg">
 				</div>
@@ -566,9 +566,7 @@ Hayven Celestia
 																																																						<div>
 																																																							<p>
 																																							</p>
-																																																							<h2 class="whiteText anidroidsTitle seriesTitle">1: 
-
-REAPER'S LOTTERY</h2>
+																																																							<h2 class="whiteText anidroidsTitle seriesTitle smallWorld">1: REAPER'S LOTTERY</h2>
 																																																							<p>
 																																							</p>
 																																																							<p style="text-align: left;">The first of a series following Tori, a factory worker on the gateship Harvest Reaper. When a series of murders implicates her best friend, she's forced to play detective and find out who the real culprit is, before it's too late and the wheels of justice take everything she cares about.</p>
@@ -587,12 +585,12 @@ REAPER'S LOTTERY</h2>
 																																																			</div>
 																																																		</div>
 																																																		<div class="">
-																																																			<div class="borderOneHC titleTwo">
+																																																			<div class="borderOneHC titleFive">
 	<div class="pictureLeft pictureMobile">
 																																																					<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/eg.png">
 				</div>
 	<div class="anidroidsDescription descriptionLeft">
-																																																					<div style="/*! text-align: left; */font-weight: normal;margin-left: 18px;">
+																																																					<div>
 																																																						<h2 class="whiteText anidroidsTitle seriesTitle">2: EXECUTIONER'S GAMBIT</h2>
 																																																						<p>Tori stared at the screen. "Wait, what? How long is three hundred and fifty-five hours?"</p>
 																																																						<p>"It's about fifteen days, Tori," the commissioner sighed. "If we don't get the trinity back online within fifteen days—give or take—there won't be enough power capacity left to bring it back up, and the reactor will be past the point of no return. Without the reactor, this ship is going to get very cold, and everyone will freeze to death."</p>
@@ -655,7 +653,7 @@ REAPER'S LOTTERY</h2>
 					</div>
 																																														<div class="anidroidsDescription descriptionLeft">
 																																															<div>
-																																																<h2 class="whiteText anidroidsTitle seriesTitle">LONG WAY HOME</h2>
+																																																<h2 class="whiteText anidroidsTitle seriesTitle smallWorld">LONG WAY HOME</h2>
 																																																<p>**THIS BOOK IS FOR ADULT READERS <strong>ONLY</strong>**</p>
 																																																<p>Jungo couldn't pass up the opportunity to become an astronaut, even though his first mission would take him years to complete. Well, it turns out he got a lot more than he bargained for, as a nine-year mission ends up taking much, much longer.</p>
 																																																<p style="font-weight: bold;">Long Way Home is a standalone story that may contain spoilers for Ten Thousand Miles Up and The Final Days of the White Flower II, but does not require knowledge of any other plot details.</p>

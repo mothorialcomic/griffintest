@@ -453,6 +453,7 @@ td, th {
 		text-align: center;
 		font-weight: bold;
 		padding-top: 30px;
+		margin-bottom: 30px;
 	}
 	
 	.storyDescription {
@@ -474,13 +475,28 @@ td, th {
 		font-weight: normal;
 	}
 	
+	.titleOne {
+		margin-top: -20px;
+	}
+	
 	.titleTwo {
 		padding-top: 70px;
-		margin-bottom: -40px;
+		margin-bottom: -30px;
 	}
 	
 	.titleThree {
+		padding-top: 20px;
+		margin-bottom: 20px;
+	}
+	
+	.titleFour {
+		padding-top: 0px;
+		margin-bottom: 20px;
+	}
+	
+	.titleFive {
 		padding-top: 70px;
+		margin-bottom: 0px;
 	}
 	
 	.imageChainUnbroken {
@@ -498,8 +514,12 @@ td, th {
 	}
 	
 	.kantiTitle {
-		margin-bottom: 10px;
-		padding-top: 30px;
+		margin-bottom: 0px;
+		padding-top: 0px;
+	}
+	
+	.smallWorld {
+		margin-top: -90px;
 	}
 	
 	.toriTitle {
@@ -597,6 +617,10 @@ td, th {
 	
 	.titleThree {
 		padding-top: 0px;
+	}
+	
+	.smallWorld {
+		margin-top: 0px;
 	}
 	
 	.bookImageAnidroids {
