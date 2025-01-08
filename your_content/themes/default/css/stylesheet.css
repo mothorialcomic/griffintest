@@ -183,15 +183,41 @@ td, th {
 
 .borderOne {
 	background-color: rgba(87,61,78,0.42);
+	margin-bottom: 30px;
+	min-height: 419px;
+	display: flex;
+	align-items: center;
+	height: 100%;
 }
 
 .borderTwo {
 	background-color: rgba(142,107,92,0.42);
+	margin-bottom: 30px;
+	min-height: 419px;
+	display: flex;
+	align-items: center;
+	height: 100%;
 }
 
 .bookDescription {
 	padding-left: 0px;
 	padding-right: 40px;
+	text-align: left;
+	color: white;
+}
+
+.bookDescriptionLeft {
+	padding-left: 30px;
+	margin-top: 30px;
+	margin-bottom: 16px;
+	text-align: left;
+	color: white;
+}
+
+.bookDescriptionRight {
+	padding-left: 0px;
+	padding-right: 40px;
+	padding-top: 30px;
 	text-align: left;
 	color: white;
 }
@@ -349,14 +375,9 @@ td, th {
 }
 
 .borderOneAnidroids {
-	min-height: 419px;
-	display: flex;
-	align-items: center;
-	height: 100%;
-	padding: 45px 0px;
-	border-style: double;
-	border-width: 9px;
-	background-color: #111111;
+	margin-top: 0px;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
 .borderOneHC {
@@ -534,6 +555,15 @@ td, th {
 	.descriptionLeft {
 		margin-left: 30px;
 	}
+	
+	.felidaeText {
+		padding-left: 120px;
+	}
+	
+	.pitFightersOne {
+		margin-right: 30px;
+		margin-left: 30px;
+	}
 
 /* All Comic Pages */
 
@@ -576,6 +606,17 @@ td, th {
 	
 	#bookWorldHC {
 		overflow-x: hidden;
+	}
+	
+	.felidaeIcon {
+		margin-right: auto;
+		margin-left: auto;
+		max-width: 403px;
+		width: 90%;
+	}
+	
+	.felidaeText {
+		padding-left: 0px;
 	}
 	
 	.borderOneHC {
@@ -765,6 +806,10 @@ td, th {
 	
 	.pictureMobile {
 		display: block;
+	}
+	
+	.borderOne, .borderTwo {
+		flex-wrap: wrap;
 	}
 }
 
