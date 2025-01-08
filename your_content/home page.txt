@@ -172,8 +172,8 @@
 																												</div>
 																											</div>
 																											<div class="borderTwo">
-																												<div class="pictureLeft pictureMobile" style="width: 330px;position: relative;">
-																													<img class="bookImage" src="/griffintest/your_content/images/books/pf2-cover.jpg" alt="Image 1" style="margin-right: 30px;">
+																												<div class="pictureLeft pictureMobile">
+																													<img class="bookImage pitFightersOne" src="/griffintest/your_content/images/books/pf2-cover.jpg" alt="Image 1">
 																												</div>
 																													<div class="bookDescriptionLeft">
 																														<h4>
@@ -196,13 +196,13 @@
 																																</span>
 																															</p>
 																														</div>
-																														<div class="pictureRight">
+																														<div class="pictureRightPit">
 																															<img class="bookImage" src="/griffintest/your_content/images/books/pf2-cover.jpg" alt="Image 1"">
 																														</div>
 																														</div>
 																														<div class="borderOne">
 																															<div class="pictureLeft">
-																																<img class="bookImage" src="/griffintest/your_content/images/books/pf3-cover.jpg" alt="Image 1">
+																																<img class="bookImage pitFightersOne" src="/griffintest/your_content/images/books/pf3-cover.jpg" alt="Image 1">
 				</div>
 																																<div class="bookDescriptionLeft">
 																																	<h4>
@@ -237,8 +237,8 @@
 																																	</div>
 																																</div>
 																																<div class="borderTwo">
-																																<div class="pictureLeft pictureMobile" style="width: 330px;position: relative;">
-																																				<img class="bookImage" src="/griffintest/your_content/images/books/pf4-cover.jpg" alt="Image 1" style="margin-right: 30px;">
+																																<div class="pictureLeft pictureMobile">
+																																				<img class="bookImage pitFightersOne" src="/griffintest/your_content/images/books/pf4-cover.jpg" alt="Image 1">
 					</div>
 																																	<div class="bookDescriptionRight">
 																																		<h4>
@@ -271,7 +271,7 @@
 																																					</span>
 																																				</p>
 																																			</div>
-																																			<div class="pictureRight" style="width: 330px;position: relative;">
+																																			<div class="pictureRightPit">
 																																				<img class="bookImage" src="/griffintest/your_content/images/books/pf4-cover.jpg" alt="Image 1" style="margin-right: 30px;">
 					</div>
 																																			</div>

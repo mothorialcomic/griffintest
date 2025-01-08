@@ -431,6 +431,10 @@ td, th {
 		margin-top: -119px;
 	}
 	
+	.pictureRightPit {
+		display: block;
+	}
+	
 	.underOneSky {
 		margin-left: 67px;
 		width: 400px;
@@ -790,9 +794,12 @@ td, th {
 		margin: 0;
 	}
 	
-	.bookDescription {
-		padding-top: 20px;
+	.bookDescriptionLeft, .bookDescriptionRight {
+		text-align: center;
+		padding-left: 30px;
+		padding-right: 30px;
 		padding-bottom: 20px;
+		padding-top: 20px;
 	}
 	
 	.pictureLeft {
@@ -800,7 +807,7 @@ td, th {
   padding-bottom: 20px;
 	}
 	
-	.pictureRight {
+	.pictureRight, .pictureRightPit {
 		display: none;
 	}
 	
@@ -834,11 +841,5 @@ td, th {
 		margin-left: 0;
 		padding-left: 0;
 		padding-right: 0;
-	}
-	
-	.bookDescription {
-		text-align: center;
-		padding-left: 30px;
-		padding-right: 30px;
 	}
 }
