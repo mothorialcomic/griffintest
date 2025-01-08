@@ -197,7 +197,7 @@
 																															</p>
 																														</div>
 																														<div class="pictureRightPit">
-																															<img class="bookImage" src="/griffintest/your_content/images/books/pf2-cover.jpg" alt="Image 1"">
+																															<img class="bookImage pitFightersOne" src="/griffintest/your_content/images/books/pf2-cover.jpg" alt="Image 1"">
 																														</div>
 																														</div>
 																														<div class="borderOne">
@@ -272,7 +272,7 @@
 																																				</p>
 																																			</div>
 																																			<div class="pictureRightPit">
-																																				<img class="bookImage" src="/griffintest/your_content/images/books/pf4-cover.jpg" alt="Image 1" style="margin-right: 30px;">
+																																				<img class="bookImage pitFightersOne" src="/griffintest/your_content/images/books/pf4-cover.jpg" alt="Image 1" style="margin-right: 30px;">
 					</div>
 																																			</div>
 																																		</div>
