@@ -414,7 +414,7 @@ div#jump-to {
 	max-width: 100%;
 } /* Sets width for all comic images without going over their original maximum size */
 
-@media (max-width: 1000px) {
+@media (max-width: 62.5rem) {
 	div#container {
 		max-width: 1000px;
 		width: 90%;	
@@ -434,7 +434,7 @@ div#jump-to {
 	}
 }
 
-@media (max-width:900px) {
+@media (max-width:56.25) {
 
 	body {
 		margin: 0;
@@ -466,7 +466,7 @@ div#jump-to {
 }
 
 
-@media (max-width:750px) {
+@media (max-width:64.875rem) {
 	.navigation-button {
 		font-size: 22px;
 	}
@@ -477,7 +477,7 @@ div#jump-to {
 	}
 }
 
-@media (max-width:650px) {
+@media (max-width:40.625rem) {
 
 	a.navigation-button {
 		font-size: 1em;  /* Size of the navigation bar hyperlinks */
