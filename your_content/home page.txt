@@ -557,7 +557,7 @@ Hayven Celestia
 					
 				</div>
 																																																		<h6 class="whiteText bookTitle toriTitle">Tori Mysteries</h6>
-																																																		<div class="borderOneHC" style="position: relative;margin-top: -120px;padding-top: 45px;padding-bottom: 20px;">
+																																																		<div class="borderOneHC">
 																																																			<div class="pictureLeft" style="">
 																																																				<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/rl.jpg">
 				</div>
