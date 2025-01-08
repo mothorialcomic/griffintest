@@ -434,7 +434,7 @@ Hayven Celestia
 																																																</p>
 																																															</div>
 																																														</div>
-																																														<div class="pictureRight" style="margin-top: -119px;">
+																																														<div class="pictureRight">
 																																															<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/thecaptainsoath.jpg">
 				</div>
 																																														</div>
@@ -469,7 +469,7 @@ Hayven Celestia
 																																													<div class="anidroidsTable">
 																																														<div class="anidroidsTable bookSection">
 																																											<div class="series">
-																																												<h6 class="whiteText bookTitle">The Kanti Cycle</h6>
+																																												<h6 class="whiteText bookTitle kantiTitle">The Kanti Cycle</h6>
 																																												<div class="borderOneHC">
 																																													<div class="pictureLeft" style="">
 																																														<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/sc.jpg">
@@ -591,7 +591,7 @@ REAPER'S LOTTERY</h2>
 	<div class="pictureLeft pictureMobile">
 																																																					<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/eg.png">
 				</div>
-																																																				</div>																																																			<div class="anidroidsDescription descriptionLeft">
+	<div class="anidroidsDescription descriptionLeft">
 																																																					<div style="/*! text-align: left; */font-weight: normal;margin-left: 18px;">
 																																																						<h2 class="whiteText anidroidsTitle seriesTitle">2: EXECUTIONER'S GAMBIT</h2>
 																																																						<p>Tori stared at the screen. "Wait, what? How long is three hundred and fifty-five hours?"</p>
@@ -610,26 +610,28 @@ REAPER'S LOTTERY</h2>
 																																																				</div>
 																																																				<div class="pictureRight">
 																																																					<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/eg.png">
-				</div>
+				</div>																																																		</div>
 																																																				</div>
 																																																			</div>
-																																																		</div>
-																																																		<div class="anidroidsTable" style="min-height: 419px;border-style: none;margin-top: 50px;">
-																																																			<div class="celestiaBooks anidroidsText" style="padding-top: 0px;">
-																																																				<div class="pictureLeft" style="">
-																																																					<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/talesofhayvencelestia.jpg" style="margin-right: 110px;margin-left: 30px;width: 258px;">
+<div class="anidroidsTable bookSection">
+																																											<div class="series">
+																																												
+																																												
+																																												<div class="borderOneHC" style="padding-top: -130px;position: relative;margin-top: 0px;/*! padding-top: 0px; */">
+																																													<div class="pictureLeft" style="">
+																																														<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/talesofhayvencelestia.jpg">
 				</div>
-																																																					<div class="anidroidsText" style="padding-top: 40px;">
-																																																						<div class="anidroidsDescription descriptionRight" style="text-align: left;">
-																																																							<div style="font-weight: normal;margin-right: 18px;">
-																																																								<p>
+																																														<div class="anidroidsText textVertical">
+																																															<div class="anidroidsDescription descriptionRight">
+																																																<div>
+																																																	<p>
 																																							</p>
-																																																								<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 2rem;margin-top: -40px;text-align: left;font-weight: normal;">TALES OF HAYVEN CELESTIA</h2>
-																																																								<p>
+																																																	<h2 class="whiteText anidroidsTitle seriesTitle">TALES OF HAYVEN CELESTIA</h2>
+																																																	<p>
 																																							</p>
-																																																								<p style="text-align: left;">Tales of Hayven Celestia is an anthology containing 13 stories from all over the Hayven Celestia universe. There is a wide selection of stories and characters here, ranging from romantic, heroic, heartbreaking and terrifying.</p>
-																																																								<p style="font-weight: bold;">While some knowledge of of gateships from The Kanti Cycle or The Final Days of the White Flower II may be illustrative for some geroo stories, Tales of Hayven Celesia is a standalone work whose stories can be read in any order.</p>
-																																																								<p class="redLink">
+																																																	<p>Tales of Hayven Celestia is an anthology containing 13 stories from all over the Hayven Celestia universe. There is a wide selection of stories and characters here, ranging from romantic, heroic, heartbreaking and terrifying.</p>
+																																																	<p style="font-weight: bold;">While some knowledge of of gateships from The Kanti Cycle or The Final Days of the White Flower II may be illustrative for some geroo stories, Tales of Hayven Celesia is a standalone work whose stories can be read in any order.</p>
+																																																	<p class="redLink">
 																																																									<a rel="noopener" href="https://www.etsy.com/shop/gre7g" target="_blank">Buy it on Etsy</a>
 																																																								</p>
 																																																								<p class="redLink">
@@ -641,33 +643,42 @@ REAPER'S LOTTERY</h2>
 																																																								<p class="redLink">
 																																																									<a target="_blank" rel="noopener" href="https://www.audible.com/pd/Tales-of-Hayven-Celestia-Audiobook/B0BNZN7DJ3?ref_pageloadid=9BeJs6QDYF9hzczr&amp;pf_rd_p=ae77544a-4f02-4042-bed0-641b7aadbd7d&amp;pf_rd_r=T7GJN73M8XJJ9SCXRGET&amp;plink=Yz3baKP64xyVgsyv&amp;pageLoadId=WAs7l8p9s0Rwq0kD&amp;creativeId=b570234c-250a-43ff-be6b-ca1b4c5d7caa&amp;ref=a_series_Ha_c5_lProduct_1_1">Get the audiobook</a>
 																																																								</p>
-																																																							</div>
-																																																						</div>
-																																																					</div>
-																																																				</div>
-																																																				<div style="padding-top: 50px;" class="celestiaBooks anidroidsText">
-																																																					<div class="anidroidsDescription" style="text-align: left;margin-left: 10px;">
-																																																						<div style="/*! text-align: left; */font-weight: normal;margin-left: 18px;margin-top: 0px;">
-																																																							<h2 class="whiteText anidroidsTitle" style="color: white;font-size: 2rem;margin-top: -40px;text-align: left;font-weight: normal;">LONG WAY HOME</h2>
-																																																							<p>**THIS BOOK IS FOR ADULT READERS <strong>ONLY</strong>**</p>
-																																																							<p>Jungo couldn't pass up the opportunity to become an astronaut, even though his first mission would take him years to complete. Well, it turns out he got a lot more than he bargained for, as a nine-year mission ends up taking much, much longer.</p>
-																																																							<p style="font-weight: bold;">Long Way Home is a standalone story that may contain spoilers for Ten Thousand Miles Up and The Final Days of the White Flower II, but does not require knowledge of any other plot details.</p>
-																																																							<p>
+																																																</div>
+																																															</div>
+																																														</div>
+																																													</div>
+																																												</div>
+																																												<div class="">
+																																													<div class="borderOneHC titleTwo">
+																																														<div class="pictureLeft pictureMobile">
+																																																<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/front.jpg">
+					</div>
+																																														<div class="anidroidsDescription descriptionLeft">
+																																															<div>
+																																																<h2 class="whiteText anidroidsTitle seriesTitle">LONG WAY HOME</h2>
+																																																<p>**THIS BOOK IS FOR ADULT READERS <strong>ONLY</strong>**</p>
+																																																<p>Jungo couldn't pass up the opportunity to become an astronaut, even though his first mission would take him years to complete. Well, it turns out he got a lot more than he bargained for, as a nine-year mission ends up taking much, much longer.</p>
+																																																<p style="font-weight: bold;">Long Way Home is a standalone story that may contain spoilers for Ten Thousand Miles Up and The Final Days of the White Flower II, but does not require knowledge of any other plot details.</p>
+																																																<p class="redLink">
 																																																								<a href="https://gre7g.com/store/index.php?main_page=product_info&amp;cPath=0&amp;products_id=13" target="_blank" rel="noopener">Buy it on Etsy</a>
 																																																							</p>
-																																																							<p>
+																																																							<p class="redLink">
 																																																								<a target="_blank" rel="noopener" href="https://www.amazon.com/Long-Way-Home-Gre7g-Luterman-ebook/dp/B09LVF4HZK/ref=sr_1_2?dib=eyJ2IjoiMSJ9.D8nXzM1dWugXggr582DQrJ3Vu3OlpJHFDK-3W3JCZ7Su7HNz_jJX5Okvo1Cv8WsQSgFY05T0MLNhjzFIoJ7EZmPLeqV3h7lvKVt6QLaMPExD0tDwUtg9nn8LIHgrTrmi-VNroWyyrT3uSzGIUDN4EsnL9PIHJ3V5M984sAyU7MUbmsb2PeaKVjHJVk1i_1VC.cyfSav1mG0uW0YSN5l8RRZGkK1_pNKEcx6tffYvxaZE&amp;dib_tag=se&amp;keywords=Gre7g+Luterman&amp;qid=1735010551&amp;s=audible&amp;sr=1-2-catcorr">Buy it on Amazon</a>
 																																																							</p>
-																																																							<p>
+																																																							<p class="redLink">
 																																																								<a target="_blank" rel="noopener" href="https://www.audible.com/ac/Long-Way-Home-Audiobook/B09QCRGKLG?ref_pageloadid=XyEHy4GaR7YG764c&amp;pf_rd_p=f3abc0ee-320d-4c19-8388-fcd3a8e6c3a4&amp;pf_rd_r=MEQDF7VXY7VXZRR93ASG&amp;plink=uJcwQcemvylkbr96&amp;pageLoadId=B9mmhoSDHwzNmLf2&amp;creativeId=73c32a9a-e504-4597-bb87-c30c58fc0204&amp;ref=a_author_Gr_c19_lProduct_1_2">Get the audiobook</a>
 																																																							</p>
-																																																						</div>
-																																																					</div>
-																																																					<div class="pictureLeft" style="margin-top: -29px;">
-																																																						<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/front.jpg" style="margin-right: 30px;margin-left: 30px;width: 258px;">
+																																															</div>
+																																														</div>
+																																														<div class="pictureRight" style="margin-top: -119px;">
+																																															<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/front.jpg">
 				</div>
-																																																					</div>
-																																																				</div>
+																																														</div>
+																																													</div>
+																																													
+																																													</div>
+																																																		</div>
+																																																
 																																																			</div>
 																																																			<div class="overlay" id="overlayHome" onclick="document.getElementById('overlayHome').style.visibility = 'hidden'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'hidden'; document.getElementById('comicWorldOther').style.visibility = 'hidden';  document.getElementById('comicWorldHC').style.visibility = 'hidden';
 	document.getElementById('bookWorldPitFighters').style.visibility = 'hidden';

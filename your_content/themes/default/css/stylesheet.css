@@ -407,6 +407,7 @@ td, th {
 	
 	.pictureRight {
 		display: block;
+		margin-top: -119px;
 	}
 	
 	.underOneSky {
@@ -475,7 +476,7 @@ td, th {
 	
 	.titleTwo {
 		padding-top: 50px;
-		padding-bottom: 0px;
+		margin-bottom: -40px;
 	}
 	
 	.titleTwo {
