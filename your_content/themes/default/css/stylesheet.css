@@ -614,6 +614,11 @@ td, th {
 		overflow-x: hidden;
 	}
 	
+	#comicWorldInTheNewAge, #comicWorldOther, #comicWorldHC, #bookWorldPitFighters, #bookWorldAniDroids, #bookWorldHC {
+	border: 0px;
+	width: 100%;
+}
+	
 	.felidaeIcon {
 		margin-right: auto;
 		margin-left: auto;
