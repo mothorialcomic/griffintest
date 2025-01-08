@@ -375,8 +375,8 @@ Hayven Celestia
 																																												</div>
 																																											</div>
 																																										</div>
-																																										<div class="anidroidsTable bookSection">
-																																											<div class="series">
+																																										<div class="anidroidsTable bookSection series">
+																																											<div>
 																																												<h6 class="whiteText bookTitle">The Final Days of the White Flower II</h6>
 																																												<div class="anidroidsDescription textBox">
 																																													<div class="storyDescription">
@@ -466,9 +466,9 @@ Hayven Celestia
 																																															</div>
 																																														</div>
 																																													</div>
-																																													<div class="anidroidsTable">
+																																													<div class="anidroidsTable series">
 																																														<div class="anidroidsTable bookSection">
-																																											<div class="series">
+																																											<div>
 																																												<h6 class="whiteText bookTitle kantiTitle">The Kanti Cycle</h6>
 																																												<div class="borderOneHC">
 																																													<div class="pictureLeft" style="">
@@ -551,12 +551,12 @@ Hayven Celestia
 																																														</div>
 																																													</div>
 																																																</div>
-																																																<div class="anidroidsTable" style="min-height: 419px;border-style: double;border-width: 9px;background-color: rgb(17, 17, 17);margin-top: 50px;">
+																																																<div class="anidroidsTable series">
 																																																	<div class="">
 																																																		<div class="anidroidsText">
 					
 				</div>
-																																																		<h6 class="whiteText" style="font-size: 3.5rem;color: white;margin-top: 60px;text-align: center;font-weight: normal;">Tori Mysteries</h6>
+																																																		<h6 class="whiteText bookTitle toriTitle">Tori Mysteries</h6>
 																																																		<div class="borderOneHC" style="position: relative;margin-top: -120px;padding-top: 45px;padding-bottom: 20px;">
 																																																			<div class="pictureLeft" style="">
 																																																				<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/rl.jpg">
@@ -613,8 +613,8 @@ REAPER'S LOTTERY</h2>
 				</div>																																																		</div>
 																																																				</div>
 																																																			</div>
-<div class="anidroidsTable bookSection">
-																																											<div class="series">
+<div class="anidroidsTable bookSection series">
+																																											<div>
 																																												
 																																												
 																																												<div class="borderOneHC" style="padding-top: -130px;position: relative;margin-top: 0px;/*! padding-top: 0px; */">

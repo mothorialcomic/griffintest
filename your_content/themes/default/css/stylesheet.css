@@ -226,6 +226,7 @@ td, th {
 .anidroidsTitle {
 	font-size: 40px;
 	margin-top: -40px;
+	font-weight: bold;
 }
 
 .comicWorld {
@@ -493,6 +494,8 @@ td, th {
 	
 	.series {
 		background-color: #111111;
+		border-style: double;
+		border-width: 9px;
 	}
 	
 	.kantiTitle {
@@ -561,20 +564,17 @@ td, th {
 	}
 	
 	.descriptionLeft {
-		margin-left: 0px;
+		margin-right: 10px;
+		margin-left: 10px;
 	}
 	
 	.anidroidsText {
-		margin-top: 0px;
+		margin-right: 10px;
+		margin-left: 10px;
 	}
 	
 	.textVertical {
 		padding-top: 0px;
-	}
-	
-	.kantiTitle {
-		margin-bottom: 0px;
-		margin-top: 120px;
 	}
 	
 	.titleTwo {
@@ -606,11 +606,18 @@ td, th {
 		font-weight: bold;
 		font-size: 2rem;
 		padding-top: 30px;
+		margin-left: 10px;
+		margin-right: 10px;
 	}
 	
 	.entryTitle {
 		font-size: 3rem;
 		margin-top: 170px;
+	}
+	
+	.kantiTitle {
+		margin-bottom: 0px;
+		margin-top: -40px;
 	}
 	
 	.bookSeries {
