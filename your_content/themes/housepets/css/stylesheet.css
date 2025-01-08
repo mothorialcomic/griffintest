@@ -494,7 +494,7 @@ div#jump-to {
 		justify-content: center;
 		grid-template-areas:
 		"previous next" 
-		"first last";
+		"first latest";
 	}
 }
 

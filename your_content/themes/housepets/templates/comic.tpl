@@ -43,19 +43,19 @@
         {% endif %}
     {% else %}
         {% if first_id == current_id %}
-            <a class="navigation-button-disabled" id="first-button">First</a>
-            <a class="navigation-button-disabled" id="previous-button">Previous</a>
+            <a class="navigation-button-disabled first" id="first-button">First</a>
+            <a class="navigation-button-disabled previous" id="previous-button">Previous</a>
         {% else %}
-            <a class="navigation-button" id="first-button" href="{{ comic_base_dir }}/comic/{{ first_id }}/#comic-page">First</a>
-            <a class="navigation-button" id="previous-button" href="{{ comic_base_dir }}/comic/{{ previous_id }}/#comic-page">Previous</a>
-        {% endif %}
+            <a class="navigation-button first" id="first-button" href="{{ comic_base_dir }}/comic/{{ first_id }}/#comic-page">First</a>
+            <a class="navigation-button previous" id="previous-button" href="{{ comic_base_dir }}/comic/{{ previous_id }}/#comic-page">Previous</a>
+        {% endif %}	
         {# The block below is the same as the one above, except it checks if you're on the last page. #}
         {% if last_id == current_id %}
-            <a class="navigation-button-disabled" id="next-button">Next</a>
-            <a class="navigation-button-disabled" id="last-button">Latest</a>
+            <a class="navigation-button-disabled next" id="next-button">Next</a>
+            <a class="navigation-button-disabled latest" id="last-button">Latest</a>
         {% else %}
-            <a class="navigation-button" id="next-button" href="{{ comic_base_dir }}/comic/{{ next_id }}/#comic-page">Next</a>
-            <a class="navigation-button" id="last-button" href="{{ comic_base_dir }}/comic/{{ last_id }}/#comic-page">Latest</a>
+            <a class="navigation-button next" id="next-button" href="{{ comic_base_dir }}/comic/{{ next_id }}/#comic-page">Next</a>
+            <a class="navigation-button latest" id="last-button" href="{{ comic_base_dir }}/comic/{{ last_id }}/#comic-page">Latest</a>
         {% endif %}
     {% endif %}
     </div>
