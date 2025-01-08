@@ -480,14 +480,14 @@ div#jump-to {
 @media (max-width:37.5rem) {
 
 	a.navigation-button, a.navigation-button-disabled {
-		font-size: 17px;
+		font-size: 1em
 	}
 	
 	a.link-bar-link {
 		font-size: 13px;
 	}
 	
-	#navigation-bar {
+	div#navigation-bar {
 		display: grid;
 		margin: 0 auto 20px auto;
 		font-weight: bold;
