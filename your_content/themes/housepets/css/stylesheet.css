@@ -528,6 +528,23 @@ div#post-body {
 		"previous next" 
 		"first latest";
 	}
+	
+	div#blurb {
+		width: 100%;
+		margin-left: 0;
+		margin-right: 0;
+		padding-right: 0;
+		padding-left: 0;		
+	}
+	
+	.archive-thumbnail {
+		width: 11rem;
+	}
+	
+	img {
+		width: 146px;
+		height: 100%;
+	}
 }
 
 @media (max-width:28.125rem) {
@@ -538,11 +555,11 @@ div#post-body {
 	
 	
 	span.link-bar-separator {
-		margin: 0 12px;
+		margin: 0 7px;
 		font-size: .4em;
 	}
 	
 	a.link-bar-link {
-		font-size: 0.5rem;
+		font-size: 0.8rem;
 	}
 }
