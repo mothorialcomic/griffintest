@@ -541,7 +541,7 @@ div#post-body {
 		width: 11rem;
 	}
 	
-	img {
+	.archive-thumbnail-page img {
 		width: 146px;
 		height: 100%;
 	}
