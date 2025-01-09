@@ -397,6 +397,14 @@ div#jump-to {
 	align-items: center;
 }
 
+div#powered-by {
+  margin-bottom: 20px;
+}
+
+div#post-body {
+	text-align: left;
+}
+
 #comicWorldInTheNewAge, #comicWorldOther, #comicWorldHC, #bookWorldPitFighters, #bookWorldAniDroids, #bookWorldHC {
 	visibility: hidden;
 	height: 810px;
@@ -463,11 +471,11 @@ div#jump-to {
 
 @media (max-width:64.875rem) {
 	a.navigation-button {
-		font-size: 1em;  /* Size of the navigation bar hyperlinks */
+		font-size: 1.4em;  /* Size of the navigation bar hyperlinks */
 	}
 
 	a.navigation-button-disabled {
-		font-size: 1em;  /* Size of the disabled navigation bar hyperlinks */
+		font-size: 1.4em;  /* Size of the disabled navigation bar hyperlinks */
 	}
 	
 	h1#page-title {
@@ -478,6 +486,10 @@ div#jump-to {
 
 
 @media (max-width:37.5rem) {
+	
+	h1#page-title {
+		font-size: 1.5em;
+	}
 	
 	.navigation-button.previous {
 		grid-area: previous;
@@ -500,7 +512,11 @@ div#jump-to {
 	}
 	
 	a.link-bar-link {
-		font-size: 13px;
+		font-size: 0.5rem;
+	}
+	
+	span.link-bar-separator {
+		visibility: hidden;
 	}
 	
 	div#navigation-bar {
@@ -518,5 +534,11 @@ div#jump-to {
 	
 	a.navigation-button, a.navigation-button-disabled {
 		padding: 0 9px;
+	}
+	
+	
+	span.link-bar-separator {
+		margin: 0 7px;
+		font-size: .4em;
 	}
 }
