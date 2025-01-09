@@ -478,6 +478,22 @@ div#jump-to {
 
 
 @media (max-width:37.5rem) {
+	
+	.navigation-button.previous {
+		grid-area: previous;
+	}
+
+	.navigation-button.next {
+		grid-area: next;
+	}
+
+	.navigation-button.first {
+		grid-area: first;
+	}
+
+	.navigation-button.latest {
+		grid-area: latest;
+	}
 
 	a.navigation-button, a.navigation-button-disabled {
 		font-size: 1em
