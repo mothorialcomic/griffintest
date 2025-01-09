@@ -512,7 +512,7 @@ div#post-body {
 	}
 	
 	a.link-bar-link {
-		font-size: 0.5rem;
+		font-size: 0.9rem;
 	}
 	
 	span.link-bar-separator {
@@ -538,7 +538,11 @@ div#post-body {
 	
 	
 	span.link-bar-separator {
-		margin: 0 7px;
+		margin: 0 12px;
 		font-size: .4em;
+	}
+	
+	a.link-bar-link {
+		font-size: 0.5rem;
 	}
 }
