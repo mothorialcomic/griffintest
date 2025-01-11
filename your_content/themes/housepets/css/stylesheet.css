@@ -443,10 +443,6 @@ div#post-body {
 	.navigation-button {
 		font-size: 27px;
 	}
-	
-	a.chapter-links {
-		font-size: 70%;
-	}
 
 	
 	.bookDescription {
@@ -476,6 +472,12 @@ div#post-body {
 
 	a.navigation-button-disabled {
 		font-size: 1.4em;  /* Size of the disabled navigation bar hyperlinks */
+	}
+	
+	a.chapter-links {
+		margin-right: 22px;
+		font-size: 2rem;
+		line-height: 65px;
 	}
 	
 	h1#page-title {
