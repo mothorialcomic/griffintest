@@ -14,6 +14,7 @@
        the Python script that generates the HTML file. That value is dropped into the existing HTML with no changes.
        For example, if the value passed in to `google_analytics_id` is `UA-123456789-0`, then
        `id={{ google_analytics_id }}` becomes `id=UA-123456789-0` #}
+	   <script type="text/javascript" src="/your_content/themes/default/js/menu.js"></script>
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ google_analytics_id }}"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -58,6 +59,24 @@
         {% if not loop.last %}<span class="link-bar-separator">|</span>{% endif %}
     {%- endfor %}
     </div>
+	
+	<div id="mobileMenu" class="mobileMenu" onclick="revealMenu()" >
+		Show Menu
+	</div>
+	<div class="holdsBar">
+		<div id="links-bar-mobile">
+			{# For loops let you take a list of a values and do something for each of those values. In this case,
+			   it runs through list of all the links provided by the [Links Bar] section of your comic_info.ini file,
+			   and it generates a link for each of them. #}
+			<ul class="menuHide" id="links-menu">
+			{%- for link in links %}
+				<li onclick="location.href = '{{ link.url }}';">
+				<a class="link-bar-link" href="{{ link.url }}">{{ link.name }}</a>
+				</li>
+			{%- endfor %}
+			</ul>
+		</div>
+	</div>
     {# This is the start of the `content` block. Nothing is here now because other templates are expected to fill it
        in on their own. It will contain everything on a webpage after the links bar and before the
        "Powered by comic_git" footer. #}
