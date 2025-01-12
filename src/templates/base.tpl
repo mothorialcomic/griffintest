@@ -14,7 +14,7 @@
        the Python script that generates the HTML file. That value is dropped into the existing HTML with no changes.
        For example, if the value passed in to `google_analytics_id` is `UA-123456789-0`, then
        `id={{ google_analytics_id }}` becomes `id=UA-123456789-0` #}
-	   <script type="text/javascript" src="/your_content/themes/default/js/menuNav.js"></script>
+	   <script type="text/javascript" src="/griffintest/your_content/themes/default/js/menuNav.js"></script>
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ google_analytics_id }}"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
