@@ -25,6 +25,12 @@ div.archive-thumbnail {
 	text-align: center;
 }
 
+div#container {
+	max-width: 1000px;
+	background-color: white;
+	width: 90%;
+}
+
 span.link-bar-separator {
     margin: 0 18px;
 }
@@ -64,6 +70,7 @@ span.link-bar-separator {
 
 #banner-img {
 	margin-top: -13px;
+	width: 100%;
 }
 
 
@@ -629,7 +636,7 @@ div#links-bar-mobile, .mobileMenu {
 	}
 
 	a.navigation-button, a.navigation-button-disabled {
-		font-size: 140%;
+		font-size: 2rem;
 	}
 	
 	span.link-bar-separator {

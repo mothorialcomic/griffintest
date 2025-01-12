@@ -24,6 +24,12 @@ span.link-bar-separator {
     margin: 0 18px;
 }
 
+div#container {
+  max-width: 1000px;
+  background-color: white;
+  width: 90%;
+}
+
 .archive-thumbnail-page img {
   width: 120px;
   height: 180px;
@@ -34,7 +40,13 @@ span.link-bar-separator {
 }
 
 .infinite-page-image {
-  width: 100%;
+	width: 100%;
+}
+
+.archive-thumbnail {
+	padding: 16px 11px;
+    padding-right: 11px;
+    padding-left: 11px;
 }
 
 @font-face {
@@ -67,12 +79,11 @@ span.link-bar-separator {
 
 #banner-img {
 	margin-top: -13px;
+	width: 100%;
 }
 
 div.archive-thumbnail {
 	text-align: center;
-	width: 105px;
-	padding: 33px 23px;
 	color: black;	
 	}
 	
@@ -594,7 +605,7 @@ div#links-bar-mobile, .mobileMenu {
 		padding-left: 0;		
 	}
 	
-	.archive-thumbnail {
+	div.archive-thumbnail {
 		width:90%;
 		padding-left: 15px;
 		padding-right: 15px;
@@ -603,6 +614,11 @@ div#links-bar-mobile, .mobileMenu {
 	.archive-thumbnail-page img {
 		width: 300px;
 		max-height: 450px;
+		height: 100%;
+	}
+	
+	.archive-thumbnail-page {
+		width: 100%;
 	}
 	
 	.archive-thumbnail-title {
@@ -643,7 +659,7 @@ div#links-bar-mobile, .mobileMenu {
 	}
 
 	a.navigation-button, a.navigation-button-disabled {
-		font-size: 140%;
+		font-size: 2rem;
 	}
 	
 	span.link-bar-separator {
