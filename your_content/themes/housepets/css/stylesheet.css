@@ -492,8 +492,8 @@ div#links-bar-mobile, .mobileMenu {
 		display: none;
 	}
 	
-	.hideMenuText span {
-		display: none;
+	.showMenuText:after {
+		content: 'Show Menu';
 	}
 	
 	.hideMenuText:after {
