@@ -458,7 +458,7 @@ div#links-bar-mobile, .mobileMenu {
 
 	.mobileMenu {
 		text-decoration: none;
-		font-size: 24pt;
+		font-size: 2rem;
 		height: 45px;
 		padding-top: 9px;
 		display: flex;
@@ -482,8 +482,8 @@ div#links-bar-mobile, .mobileMenu {
 		width: 100%;
 		list-style-type: none;
 		height: 30px;
-		padding-top: 9px;
-		padding-bottom: 9px;
+		padding-top: 19px;
+		padding-bottom: 19px;
 	}
 	
 	#links-menu li:hover a {
@@ -493,7 +493,7 @@ div#links-bar-mobile, .mobileMenu {
 	a.link-bar-link {
 		color: white;  
 		text-decoration: none; 
-		font-size: 20pt;
+		font-size: 1.8rem;
 		transition: none;
 	}
 	
