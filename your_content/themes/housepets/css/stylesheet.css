@@ -598,7 +598,11 @@ div#links-bar-mobile, .mobileMenu {
 	
 	.archive-thumbnail-title {
 		max-width: 300px;
-}
+	}
+	
+	#first-button {
+		padding-bottom: 20px;
+	}
 
 }
 
