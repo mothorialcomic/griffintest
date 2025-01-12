@@ -481,6 +481,10 @@ div#links-bar-mobile, .mobileMenu {
 		color: black;
 	}
 	
+	.infinite-page-image {
+		width: 100%;
+	}
+			
 	a.link-bar-link {
 		color: white;  
 		text-decoration: none; 
