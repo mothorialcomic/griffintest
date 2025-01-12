@@ -445,6 +445,13 @@ div#links-bar-mobile, .mobileMenu {
 	}
 	
 	.mobileMenu {
+		text-decoration: none;
+		font-size: 24pt;
+		height: 45px;
+		padding-top: 9px;
+	}
+	
+	div#links-bar-mobile {
 		background-color: #FF9400;
 		color: black;
 		text-decoration: none;
