@@ -87,6 +87,10 @@ div.archive-thumbnail {
   width: 100%;
 }
 
+div#blurb {
+	text-align: center;
+}
+
 div#container {
     max-width: 1000px;  /* The width of the main box that contains all content on the pages */
     background-color: #c7ccd3;  /* The background color of the main box */
