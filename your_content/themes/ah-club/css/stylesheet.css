@@ -103,6 +103,7 @@ div#blurb {
 	background-color: #89817f;
 	width: 75%;
 	font-family: 'PT Sans', sans-serif;
+	text-align: center;
 }
 
 h1#page-title {
@@ -538,22 +539,22 @@ div#links-bar-mobile, .mobileMenu {
 	}
 	
 	a.navigation-button {
-		font-size: 1.5em;  /* Size of the navigation bar hyperlinks */
+		font-size: 2rem;  /* Size of the navigation bar hyperlinks */
 	}
 
 	a.navigation-button-disabled {
-		font-size: 1.5em;  /* Size of the disabled navigation bar hyperlinks */
+		font-size: 2rem;  /* Size of the disabled navigation bar hyperlinks */
 	}
 }
 
 
 @media (max-width:64.875rem) {
 	a.navigation-button {
-		font-size: 1.4em;  /* Size of the navigation bar hyperlinks */
+		font-size: 2rem;  /* Size of the navigation bar hyperlinks */
 	}
 
 	a.navigation-button-disabled {
-		font-size: 1.4em;  /* Size of the disabled navigation bar hyperlinks */
+		font-size: 2rem;  /* Size of the disabled navigation bar hyperlinks */
 	}
 	
 	a.chapter-links {
@@ -604,7 +605,7 @@ div#links-bar-mobile, .mobileMenu {
 @media (max-width:37.5rem) {
 	
 	h1#page-title {
-		font-size: 1.5em;
+		font-size: 2rem;
 	}
 	
 	.navigation-button.previous {
