@@ -11,7 +11,7 @@ export function hideOverlay(comicWorld) {
     centeredDiv.style.visibility = 'hidden';
 }
 
-function revealMenu() {
+export function revealMenu() {
 	var element = document.getElementById("links-menu");
 	element.classList.toggle("menuHide");
 	var menuBar = document.getElementById("mobileMenu");
