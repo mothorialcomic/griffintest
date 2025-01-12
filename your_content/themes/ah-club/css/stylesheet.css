@@ -49,21 +49,21 @@ span.link-bar-separator {
 
 @font-face {
     font-family: ahclub;
-    src: url(/your_content/fonts/UNMASKEDBB.OTF) format("opentype");
+    src: url(/griffintest/your_content/fonts/UNMASKEDBB.OTF) format("opentype");
 	font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: ahclub;
-    src: url(/your_content/fonts/UNMASKEDBB_BOLD.OTF) format("opentype");
+    src: url(/griffintest/your_content/fonts/UNMASKEDBB_BOLD.OTF) format("opentype");
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: ahclub;
-    src: url(/your_content/fonts/UNMASKEDBB_ITAL.OTF) format("opentype");
+    src: url(/griffintest/your_content/fonts/UNMASKEDBB_ITAL.OTF) format("opentype");
     font-weight: italic;
     font-style: normal;
 }

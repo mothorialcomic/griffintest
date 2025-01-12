@@ -46,28 +46,28 @@ div#blurb {
 
 @font-face {
     font-family: zootopia;
-    src: url(/your_content/fonts/SEQUENTIALISTBB_REG.OTF) format("opentype");
+    src: url(/griffintest/your_content/fonts/SEQUENTIALISTBB_REG.OTF) format("opentype");
 	font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: zootopia;
-    src: url(/your_content/fonts/SEQUENTIALISTBB_ITAL.OTF) format("opentype");
+    src: url(/griffintest/griffintest/your_content/fonts/SEQUENTIALISTBB_ITAL.OTF) format("opentype");
     font-weight: normal;
     font-style: italic;
 }
 
 @font-face {
     font-family: zootopia;
-    src: url(/your_content/fonts/SEQUENTIALISTBB_BOLD.OTF) format("opentype");
+    src: url(/griffintest/your_content/fonts/SEQUENTIALISTBB_BOLD.OTF) format("opentype");
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: zootopia;
-    src: url(/your_content/fonts/SEQUENTIALISTBB_BOLDITAL.OTF) format("opentype");
+    src: url(/griffintest/your_content/fonts/SEQUENTIALISTBB_BOLDITAL.OTF) format("opentype");
     font-weight: bold;
     font-style: italic;
 }
