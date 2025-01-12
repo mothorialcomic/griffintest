@@ -39,6 +39,7 @@
 {% block script %}
 <script type="module">
     import { load_page } from "{{ base_dir }}/src/js/infinite_scroll.js";
+	import { revealMenu } from "{{ base_dir }}/your_content/themes/default/js";
     load_page("{{ comic_base_dir }}", "{{ content_base_dir }}");
 </script>
 {% endblock %}
