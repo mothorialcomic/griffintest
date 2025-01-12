@@ -455,6 +455,7 @@ div#links-bar-mobile, .mobileMenu {
 		padding-top: 9px;
 		display: flex;
 		justify-content: center;
+		background-color: #FF9400;
 	}
 	
 	div#links-bar-mobile {
@@ -491,10 +492,22 @@ div#links-bar-mobile, .mobileMenu {
 		display: none;
 	}
 	
+	.hideMenuText span {
+		display: none;
+	}
+	
+	.hideMenuText:after {
+		content: 'Hide Menu';
+	}
+	
 	.mobileMenu:hover, #links-menu li:hover {
 		background-color: white;
 		color: black;
 		cursor: pointer;
+	}
+	
+	a.link-bar-link:hover { 
+		color: black;
 	}
 	  
 	.menuToggled {
