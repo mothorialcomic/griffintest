@@ -455,7 +455,7 @@ div#links-bar-mobile, .mobileMenu {
 		justify-content: center;
 		background-color: #89817f;
 		margin-top: -4px;
-		margin-bottom: 20px;
+		margin-bottom: 0px;
 	}
 	
 	div#links-bar-mobile {
