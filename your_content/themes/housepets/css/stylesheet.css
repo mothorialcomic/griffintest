@@ -626,7 +626,7 @@ div#links-bar-mobile, .mobileMenu {
 	}
 
 	a.navigation-button, a.navigation-button-disabled {
-		font-size: 1em
+		font-size: 140%;
 	}
 	
 	span.link-bar-separator {
