@@ -452,6 +452,10 @@ div#links-bar-mobile, .mobileMenu {
 		display: none;
 	}
 	
+	div#comic-page {
+		margin-top: 20px;
+	}
+
 	.mobileMenu {
 		text-decoration: none;
 		font-size: 24pt;
@@ -461,6 +465,7 @@ div#links-bar-mobile, .mobileMenu {
 		justify-content: center;
 		background-color: #FF9400;
 		margin-top: -4px;
+		margin-bottom: 20px;
 	}
 	
 	div#links-bar-mobile {
