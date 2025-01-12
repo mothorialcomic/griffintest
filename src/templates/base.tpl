@@ -60,7 +60,7 @@
     {%- endfor %}
     </div>
 	
-	<div id="mobileMenu" class="mobileMenu" onclick="revealMenu()" >
+	<div id="mobileMenu" class="mobileMenu" onclick="document.getElementById('links-menu').classList.toggle('menuHide'); document.getElementById('mobileMenu').classList.toggle('menuToggled');" >
 		Show Menu
 	</div>
 	<div class="holdsBar">

@@ -455,6 +455,10 @@ div#links-bar-mobile, .mobileMenu {
 		justify-content: center;
 	}
 	
+	 .menuHide {
+		display: none;
+	}
+	
 	.mobileMenu:hover, #links-menu li:hover {
 		background-color: white;
 		color: black;
