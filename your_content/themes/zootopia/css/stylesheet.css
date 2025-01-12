@@ -72,19 +72,15 @@ div#blurb {
     font-style: italic;
 }
 
-#banner-img {
-	margin-top: -13px;
-}
-
 div.archive-thumbnail {
 	text-align: center;
-	width: 105px;
-	padding: 33px 23px;
 	color: black;
 }
 
-.archive-thumbnail-page {
-  width: 105px;
+.archive-thumbnail {
+	padding: 16px 11px;
+    padding-right: 11px;
+    padding-left: 11px;
 }
 
 #powered-by {
@@ -603,7 +599,7 @@ div#links-bar-mobile, .mobileMenu {
 		padding-left: 0;		
 	}
 	
-	.archive-thumbnail {
+	div.archive-thumbnail {
 		width:90%;
 		padding-left: 15px;
 		padding-right: 15px;
@@ -612,6 +608,10 @@ div#links-bar-mobile, .mobileMenu {
 	.archive-thumbnail-page img {
 		width: 300px;
 		max-height: 450px;
+	}
+	
+	.archive-thumbnail-page {
+		width: 100%;
 	}
 	
 	.archive-thumbnail-title {
