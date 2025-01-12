@@ -489,6 +489,7 @@ div#links-bar-mobile, .mobileMenu {
 		color: white;  
 		text-decoration: none; 
 		font-size: 20pt;
+		transition: none;
 	}
 	
 	#links-menu {
