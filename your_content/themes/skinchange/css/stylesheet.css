@@ -29,6 +29,12 @@ span.link-bar-separator {
 	font-size: 22px;
 }
 
+div#container {
+  max-width: 1000px;
+  background-color: white;
+  width: 90%;
+}
+
 @font-face {
     font-family: zootopia;
     src: url(/your_content/fonts/SEQUENTIALISTBB_REG.OTF) format("opentype");
@@ -56,8 +62,10 @@ span.link-bar-separator {
     font-weight: bold;
     font-style: italic;
 }
+
 #banner-img {
 	margin-top: -13px;
+	width: 100%;
 }
 
 div.archive-thumbnail {
@@ -398,6 +406,14 @@ td, th {
 	align-items: center;
 }
 
+div#powered-by {
+  margin-bottom: 20px;
+}
+
+div#post-body {
+	text-align: left;
+}
+
 #comicWorldInTheNewAge, #comicWorldOther, #comicWorldHC, #bookWorldPitFighters, #bookWorldAniDroids, #bookWorldHC {
 	visibility: hidden;
 	height: 810px;
@@ -409,8 +425,201 @@ td, th {
 	overscroll-behavior: contain;
 }
 
+div#links-bar-mobile, .mobileMenu {
+	display: none;
+}
+
 /* All Comic Pages */
 
 #comic-image {
 	max-width: 100%;
 } /* Sets width for all comic images without going over their original maximum size */
+
+@media (max-width: 62.5rem) {
+	
+	body {
+		margin: 0;
+	}
+	
+	div#container {
+		max-width: 1000px;
+		width: 100%;
+		padding: 0;
+		margin: 0;
+	}
+	
+	#banner-img {
+		width:100%;
+		max-width: 1000px;
+		margin-top: 0;
+	}
+	
+	div#banner {
+		margin-bottom: 0;
+	}
+	
+	div#links-bar {
+		display: none;
+	}
+	
+	div#comic-page {
+		margin-top: 20px;
+	}
+
+	.mobileMenu {
+		text-decoration: none;
+		font-size: 2rem;
+		height: 45px;
+		padding-top: 9px;
+		display: flex;
+		justify-content: center;
+		background-color: #89817f;
+		margin-top: -4px;
+		margin-bottom: 0px;
+	}
+	
+	div#links-bar-mobile {
+		background-color:#89817f;
+		margin-bottom: 15px;
+		display: flex;
+		justify-content: center;
+		position: absolute;
+		width: 100%;
+		z-index: 2;
+	}
+	
+	#links-menu li {
+		width: 100%;
+		list-style-type: none;
+		height: 30px;
+		padding-top: 19px;
+		padding-bottom: 19px;
+	}
+	
+	#links-menu li:hover a {
+		color: black;
+	}
+	
+	.infinite-page-image {
+		width: 100%;
+	}
+			
+	a.link-bar-link {
+		color: white;  
+		text-decoration: none; 
+		font-size: 1.8rem;
+		transition: none;
+	}
+	
+	#links-menu {
+		padding: 0;
+		list-style-type: none;
+		width: 100%;
+		margin: 0;
+	}
+	
+	 .menuHide {
+		display: none;
+	}
+	
+	.showMenuText:after {
+		content: 'Show Menu';
+	}
+	
+	.hideMenuText:after {
+		content: 'Hide Menu';
+	}
+	
+	.mobileMenu:hover, #links-menu li:hover {
+		background-color: white;
+		color: black;
+		cursor: pointer;
+	}
+	
+	a.link-bar-link:hover { 
+		color: black;
+	}
+	  
+	.menuToggled {
+		background-color: white;
+		color: black;
+		content: "Hide Menu";
+	}
+
+	.navigation-button {
+		font-size: 27px;
+	}
+
+	
+	.bookDescription {
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+	
+	.pictureLeft {
+		padding-top: 20px;
+  padding-bottom: 20px;
+	}
+	
+	a.navigation-button {
+		font-size: 2rem;  /* Size of the navigation bar hyperlinks */
+	}
+
+	a.navigation-button-disabled {
+		font-size: 2rem;  /* Size of the disabled navigation bar hyperlinks */
+	}
+}
+
+
+@media (max-width:64.875rem) {
+	a.navigation-button {
+		font-size: 2rem;  /* Size of the navigation bar hyperlinks */
+	}
+
+	a.navigation-button-disabled {
+		font-size: 2rem;  /* Size of the disabled navigation bar hyperlinks */
+	}
+	
+	a.chapter-links {
+		margin-right: 22px;
+		font-size: 2rem;
+		line-height: 65px;
+	}
+	
+	h1#page-title {
+		color: black;
+		font-size: 2em;
+	}
+	
+	div#blurb {
+		width: 100%;
+		margin-left: 0;
+		margin-right: 0;
+		padding-right: 0;
+		padding-left: 0;		
+	}
+	
+	.archive-thumbnail {
+		width:90%;
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	
+	.archive-thumbnail-page img {
+		width: 300px;
+		max-height: 450px;
+	}
+	
+	.archive-thumbnail-title {
+		max-width: 300px;
+	}
+	
+	#first-button {
+		padding-bottom: 20px;
+	}
+	
+	#comic-image {
+		width: 100%;
+	}
+
+}

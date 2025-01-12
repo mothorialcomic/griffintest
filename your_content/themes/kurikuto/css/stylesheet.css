@@ -595,6 +595,7 @@ div#links-bar-mobile, .mobileMenu {
 	h1#page-title {
 		color: black;
 		font-size: 2em;
+		padding-top: 10px;
 	}
 	
 	div#blurb {
