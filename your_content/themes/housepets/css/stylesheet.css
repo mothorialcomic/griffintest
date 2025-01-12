@@ -629,10 +629,6 @@ div#links-bar-mobile, .mobileMenu {
 		font-size: 1em
 	}
 	
-	a.link-bar-link {
-		font-size: 0.9rem;
-	}
-	
 	span.link-bar-separator {
 		visibility: hidden;
 	}
