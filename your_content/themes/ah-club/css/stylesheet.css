@@ -593,6 +593,10 @@ div#links-bar-mobile, .mobileMenu {
 	#first-button {
 		padding-bottom: 20px;
 	}
+	
+	#comic-image {
+		width: 100%;
+	}
 
 }
 
