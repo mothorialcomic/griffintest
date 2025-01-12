@@ -442,6 +442,7 @@ div#links-bar-mobile, .mobileMenu {
 	#banner-img {
 		width:100%;
 		max-width: 1000px;
+		margin-top: 0;
 	}
 	
 	div#banner {
