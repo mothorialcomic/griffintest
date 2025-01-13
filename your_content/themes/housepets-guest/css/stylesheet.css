@@ -32,10 +32,6 @@ span.link-bar-separator {
     font-style: normal;
 }
 
-div#blurb {
-	text-align: center;
-}
-
 .archive-thumbnail-title {
   display: -webkit-box;
   -webkit-line-clamp: 3;
@@ -105,6 +101,8 @@ div#blurb {
 	background-color: #C6E9FD;
 	width: 75%;
 	font-family: 'PT Sans', sans-serif;
+	text-align: center;
+	padding: 15px 15px 10px 15px;
 }
 
 h1#page-title {
@@ -581,9 +579,7 @@ div#links-bar-mobile, .mobileMenu {
 	div#blurb {
 		width: 100%;
 		margin-left: 0;
-		margin-right: 0;
-		padding-right: 0;
-		padding-left: 0;		
+		margin-right: 0;	
 	}
 	
 	.archive-thumbnail {
