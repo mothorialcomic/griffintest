@@ -397,7 +397,7 @@ td, th {
 	align-items: center;
 }
 
-#comicWorldInTheNewAge, #comicWorldOther, #comicWorldHC, #bookWorldPitFighters, #bookWorldAniDroids, #bookWorldHC {
+#comicWorldInTheNewAge, #comicWorldOther, #comicWorldHC, #comicWorldHousepets, #bookWorldPitFighters, #bookWorldAniDroids, #bookWorldHC {
 	visibility: hidden;
 	height: 810px;
 	overflow: auto;
@@ -461,7 +461,7 @@ td, th {
 		position: fixed;
 		margin-left: auto;
 		margin-right: auto;
-		top: 0px;
+		top: 20px;
 		cursor: pointer;
 		z-index: 1002;
 	}
@@ -614,7 +614,7 @@ td, th {
 		overflow-x: hidden;
 	}
 	
-	#comicWorldInTheNewAge, #comicWorldOther, #comicWorldHC, #bookWorldPitFighters, #bookWorldAniDroids, #bookWorldHC {
+	#comicWorldInTheNewAge, #comicWorldOther, #comicWorldHC, #comicWorldHousepets, #bookWorldPitFighters, #bookWorldAniDroids, #bookWorldHC {
 	border: 0px;
 	width: 100%;
 }
