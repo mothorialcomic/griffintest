@@ -181,6 +181,10 @@ td, th {
 	border-radius: 6px;
 }
 
+.exitButtonInner {
+	right: 60px;
+}
+
 .borderOne {
 	background-color: rgba(87,61,78,0.42);
 	margin-bottom: 30px;
@@ -411,10 +415,6 @@ td, th {
 	box-sizing: border-box;
 }
 
-.exitButtonInner {
-	left: 81%;
-}
-
 	.comicAndBookThumbs {
 		position: relative;
 		top: 140px;
@@ -458,10 +458,8 @@ td, th {
 	
 	.exitButtonInner {
 		width: 104px;
-		position: fixed;
-		margin-left: auto;
-		margin-right: auto;
-		top: 20px;
+		position: absolute;
+		top: 40px;
 		cursor: pointer;
 		z-index: 1002;
 	}
@@ -603,9 +601,8 @@ td, th {
 	}
 	
 	.exitButtonInner {
-    top: 50px;
-    left: 80%;
-  }
+		top: 50px;
+	}
 }
 
 @media (max-width:56.25rem) {
@@ -717,7 +714,6 @@ td, th {
 	
 	.exitButtonInner {
 		top: 50px;
-		left: 60%;
 	}
 	
 	.storyDescription {
