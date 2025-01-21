@@ -1,7 +1,0 @@
-So THIS took a while
-
-<b style="font-size: 1.5rem;">If you want to run it yourself, you can download 12 Days of Housepets off of itch.io <a href="https://rickgriffin.itch.io/12-days-of-housepets">RIGHT HERE!!</a></b>
-
-OR, if you don’t want to bother with that, you can watch it all on Youtube!
-
-<p><iframe src="https://www.youtube.com/embed/k2Cor89KUPc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
