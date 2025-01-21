@@ -107,16 +107,16 @@
 	document.getElementById('bookWorldAniDroids').style.visibility = 'hidden'; document.getElementById('bookWorldHC').style.visibility = 'hidden';">
 																<table class="comicAndBookThumbs">
 																	<tr>
-																		<td>
-																			<a class="image-link" href="https://mothorialcomic.github.io/griffintest/the-witch-of-kurikuto/comic/001/">
-																				<img src="/griffintest/your_content/images/banners/banner_Kurikuto.png" alt="Image 1">
-					</a>
-																			</td>
 																			<td>
 																				<a class="image-link" href="https://mothorialcomic.github.io/griffintest/traces-of-the-past/comic/001/">
 																					<img src="/griffintest/your_content/images/banners/banner_TracesOfThePast.png" alt="Image 2">
 					</a>
 																				</td>
+																			<td>
+																			<a class="image-link" href="https://mothorialcomic.github.io/griffintest/the-witch-of-kurikuto/comic/001/">
+																				<img src="/griffintest/your_content/images/banners/banner_Kurikuto.png" alt="Image 1">
+					</a>
+																			</td>
 																			</tr>
 																		</table>
 																	</div>

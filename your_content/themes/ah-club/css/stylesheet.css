@@ -420,7 +420,7 @@ div#links-bar-mobile, .mobileMenu {
 /* All Comic Pages */
 
 #comic-image {
-	max-width: 100%;
+	width: 100%;
 } /* Sets width for all comic images without going over their original maximum size */
 
 @media (max-width: 62.5rem) {
