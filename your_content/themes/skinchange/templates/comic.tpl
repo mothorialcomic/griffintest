@@ -17,7 +17,7 @@
        becomes `/comic_git/comic` #}
     <div id="comic-page">
         <a href="{{ comic_base_dir }}/comic/{{ next_id }}/#comic-page">
-            <img id="comic-image" src="{{ base_dir }}/{{ comic_path }}" title="{{ alt_text }}"/>
+            <img id="comic-image" src="{{ base_dir }}/{{ comic_path }}" title="{{ page_title }}"/>
         </a>
     </div>
 
