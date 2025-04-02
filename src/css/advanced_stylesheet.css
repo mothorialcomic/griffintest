@@ -282,7 +282,7 @@ div#storyline, div#characters, div#tags {
 
 @font-face {
     font-family: rushford;
-    src: url(/griffintest/your_content/fonts/Rushfordclean-rgz89.otf) format("opentype");
+    src: url(/your_content/fonts/Rushfordclean-rgz89.otf) format("opentype");
 	font-weight: normal;
     font-style: normal;
 }

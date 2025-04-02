@@ -12,26 +12,26 @@
 							<tr>
 								<td>
 									<a class="image-link" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; document.getElementById('comicWorldHousepets').style.visibility = 'visible';">
-										<img src="/griffintest/your_content/images/banners/housepets2.png" alt="Image 1">
+										<img src="/your_content/images/banners/housepets2.png" alt="Image 1">
 					</a>
 									</td>
 									<td>
-										<a class="image-link" href="https://mothorialcomic.github.io/griffintest/ah-club/comic/001/">
-											<img src="/griffintest/your_content/images/banners/AH-icon2.png" alt="Image 2">
+										<a class="image-link" href="https://mothorialcomic.github.io/ah-club/comic/001/">
+											<img src="/your_content/images/banners/AH-icon2.png" alt="Image 2">
 					</a>
 										</td>
 										<td>
 											<a class="image-link" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'visible';">
-												<img src="/griffintest/your_content/images/banners/in-the-new-age.png" alt="Image 2">
+												<img src="/your_content/images/banners/in-the-new-age.png" alt="Image 2">
 					</a>
 											</td>
 										</tr>
 										<tr>
 											<td colspan="3" style="padding: 22px;padding-top: 6px;">
 												<div style="display: flex;justify-content: center;width: 100%;">
-													<img class="image-link" src="/griffintest/your_content/images/banners/hc-icon.png" alt="Image 2" style=" width: 33.3%;cursor: pointer;border-radius: 6px;margin-right: 16px;" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; 
+													<img class="image-link" src="/your_content/images/banners/hc-icon.png" alt="Image 2" style=" width: 33.3%;cursor: pointer;border-radius: 6px;margin-right: 16px;" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; 
            document.getElementById('comicWorldHC').style.visibility = 'visible';">
-														<img class="image-link" src="/griffintest/your_content/images/banners/banner_Other.png" alt="Image 1" style="width: 33.3%; cursor: pointer;border-radius: 6px;" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; 
+														<img class="image-link" src="/your_content/images/banners/banner_Other.png" alt="Image 1" style="width: 33.3%; cursor: pointer;border-radius: 6px;" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; 
            document.getElementById('comicWorldOther').style.visibility = 'visible';">
           
         </div>
@@ -46,17 +46,17 @@
 											<tr>
 												<td>
 													<a class="image-link" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; document.getElementById('bookWorldPitFighters').style.visibility = 'visible';">
-														<img src="/griffintest/your_content/images/banners/PF-icon.png" alt="Image 1">
+														<img src="/your_content/images/banners/PF-icon.png" alt="Image 1">
 					</a>
 													</td>
 													<td>
 														<a class="image-link" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; document.getElementById('bookWorldAniDroids').style.visibility = 'visible';">
-															<img src="/griffintest/your_content/images/banners/ad-icon.png" alt="Image 2">
+															<img src="/your_content/images/banners/ad-icon.png" alt="Image 2">
 					</a>
 														</td>
 														<td>
 															<a class="image-link" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; document.getElementById('bookWorldHC').style.visibility = 'visible';">
-																<img src="/griffintest/your_content/images/banners/hc-icon.png" alt="Image 2">
+																<img src="/your_content/images/banners/hc-icon.png" alt="Image 2">
 					</a>
 															</td>
 														</tr>
@@ -69,12 +69,12 @@
 															<tr>
 																<td>
 																	<a class="image-link" href="https://www.rickgriffinstudios.com/store/">
-																		<img alt="Image 2" src="/griffintest/your_content/images/banners/store-pb2-2.png">
+																		<img alt="Image 2" src="/your_content/images/banners/store-pb2-2.png">
 					</a>
 																	</td>
 																	<td>
 																		<a class="image-link" href="https://www.patreon.com/rickgriffin">
-																			<img alt="Image 2" src="/griffintest/your_content/images/banners/patreon-support.png">
+																			<img alt="Image 2" src="/your_content/images/banners/patreon-support.png">
 					</a>
 																		</td>
 																	</tr>
@@ -82,79 +82,79 @@
 															</table>
 														</div>
 														<div class="comicWorld" id="comicWorldHousepets">
-															<img class="exitButtonInner" style="width: 104px;position: absolute;top: 50px;cursor: pointer;z-index: 1002;" src="/griffintest/your_content/images/symbolXWhite.png" onclick="document.getElementById('overlayHome').style.visibility = 'hidden'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'hidden'; 
+															<img class="exitButtonInner" style="width: 104px;position: absolute;top: 50px;cursor: pointer;z-index: 1002;" src="/your_content/images/symbolXWhite.png" onclick="document.getElementById('overlayHome').style.visibility = 'hidden'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'hidden'; 
 															document.getElementById('comicWorldHousepets').style.visibility = 'hidden'; document.getElementById('comicWorldOther').style.visibility = 'hidden';  document.getElementById('comicWorldHC').style.visibility = 'hidden';
 	document.getElementById('bookWorldPitFighters').style.visibility = 'hidden';
 	document.getElementById('bookWorldAniDroids').style.visibility = 'hidden'; document.getElementById('bookWorldHC').style.visibility = 'hidden';">
 																<table class="comicAndBookThumbs">
 																	<tr>
 																		<td>
-																			<a class="image-link" href="https://mothorialcomic.github.io/griffintest/housepets/comic/0001/">
-																				<img src="/griffintest/your_content/images/banners/housepets2.png" alt="Image 1">
+																			<a class="image-link" href="https://mothorialcomic.github.io/housepets/comic/0001/">
+																				<img src="/your_content/images/banners/housepets2.png" alt="Image 1">
 					</a>
 																			</td>
 																			<td>
-																				<a class="image-link" href="https://mothorialcomic.github.io/griffintest/housepets-guest/comic/001/">
-																					<img src="/griffintest/your_content/images/banners/banner_Guest.png" alt="Image 2">
+																				<a class="image-link" href="https://mothorialcomic.github.io/housepets-guest/comic/001/">
+																					<img src="/your_content/images/banners/banner_Guest.png" alt="Image 2">
 					</a>
 																				</td>
 																			</tr>
 																		</table>
 																	</div>
 														<div class="comicWorld" id="comicWorldInTheNewAge">
-															<img class="exitButtonInner" style="width: 104px;position: absolute;top: 50px;cursor: pointer;z-index: 1002;" src="/griffintest/your_content/images/symbolXWhite.png" onclick="document.getElementById('overlayHome').style.visibility = 'hidden'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'hidden'; document.getElementById('comicWorldOther').style.visibility = 'hidden';  document.getElementById('comicWorldHC').style.visibility = 'hidden';
+															<img class="exitButtonInner" style="width: 104px;position: absolute;top: 50px;cursor: pointer;z-index: 1002;" src="/your_content/images/symbolXWhite.png" onclick="document.getElementById('overlayHome').style.visibility = 'hidden'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'hidden'; document.getElementById('comicWorldOther').style.visibility = 'hidden';  document.getElementById('comicWorldHC').style.visibility = 'hidden';
 	document.getElementById('bookWorldPitFighters').style.visibility = 'hidden';
 	document.getElementById('bookWorldAniDroids').style.visibility = 'hidden'; document.getElementById('bookWorldHC').style.visibility = 'hidden';">
 																<table class="comicAndBookThumbs">
 																	<tr>
 																			<td>
-																				<a class="image-link" href="https://mothorialcomic.github.io/griffintest/traces-of-the-past/comic/001/">
-																					<img src="/griffintest/your_content/images/banners/banner_TracesOfThePast.png" alt="Image 2">
+																				<a class="image-link" href="https://mothorialcomic.github.io/traces-of-the-past/comic/001/">
+																					<img src="/your_content/images/banners/banner_TracesOfThePast.png" alt="Image 2">
 					</a>
 																				</td>
 																			<td>
-																			<a class="image-link" href="https://mothorialcomic.github.io/griffintest/the-witch-of-kurikuto/comic/001/">
-																				<img src="/griffintest/your_content/images/banners/banner_Kurikuto.png" alt="Image 1">
+																			<a class="image-link" href="https://mothorialcomic.github.io/the-witch-of-kurikuto/comic/001/">
+																				<img src="/your_content/images/banners/banner_Kurikuto.png" alt="Image 1">
 					</a>
 																			</td>
 																			</tr>
 																		</table>
 																	</div>
 																	<div class="comicWorld" id="comicWorldOther">
-																		<img class="exitButtonInner" style="width: 104px;position: absolute;top: 50px;cursor: pointer;z-index: 1002;" src="/griffintest/your_content/images/symbolXWhite.png" onclick="document.getElementById('overlayHome').style.visibility = 'hidden'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'hidden'; document.getElementById('comicWorldOther').style.visibility = 'hidden';  document.getElementById('comicWorldHC').style.visibility = 'hidden';
+																		<img class="exitButtonInner" style="width: 104px;position: absolute;top: 50px;cursor: pointer;z-index: 1002;" src="/your_content/images/symbolXWhite.png" onclick="document.getElementById('overlayHome').style.visibility = 'hidden'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'hidden'; document.getElementById('comicWorldOther').style.visibility = 'hidden';  document.getElementById('comicWorldHC').style.visibility = 'hidden';
 	document.getElementById('bookWorldPitFighters').style.visibility = 'hidden';
 	document.getElementById('bookWorldAniDroids').style.visibility = 'hidden'; document.getElementById('bookWorldHC').style.visibility = 'hidden';">
 																			<table class="comicAndBookThumbs">
 																				<tr>
 																					<td>
-																						<a class="image-link" href="https://mothorialcomic.github.io/griffintest/the-storyboard/comic/001/">
-																							<img src="/griffintest/your_content/images/banners/the-storyboard.png" alt="Image 1">
+																						<a class="image-link" href="https://mothorialcomic.github.io/the-storyboard/comic/001/">
+																							<img src="/your_content/images/banners/the-storyboard.png" alt="Image 1">
 					</a>
 																						</td>
 																						<td>
-																							<a class="image-link" href="https://mothorialcomic.github.io/griffintest/zootopia-night-terrors/comic/001/">
-																								<img src="/griffintest/your_content/images/banners/banner_Zootopia.png" alt="Image 2">
+																							<a class="image-link" href="https://mothorialcomic.github.io/zootopia-night-terrors/comic/001/">
+																								<img src="/your_content/images/banners/banner_Zootopia.png" alt="Image 2">
 					</a>
 																							</td>
 																						</tr>
 																					</table>
 																				</div>
 																				<div class="comicWorld" id="comicWorldHC">
-																					<img class="exitButtonInner" style="width: 104px;position: absolute;top: 50px;cursor: pointer;z-index: 1002;" src="/griffintest/your_content/images/symbolXWhite.png" onclick="document.getElementById('overlayHome').style.visibility = 'hidden'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'hidden'; document.getElementById('comicWorldOther').style.visibility = 'hidden';  document.getElementById('comicWorldHC').style.visibility = 'hidden';
+																					<img class="exitButtonInner" style="width: 104px;position: absolute;top: 50px;cursor: pointer;z-index: 1002;" src="/your_content/images/symbolXWhite.png" onclick="document.getElementById('overlayHome').style.visibility = 'hidden'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'hidden'; document.getElementById('comicWorldOther').style.visibility = 'hidden';  document.getElementById('comicWorldHC').style.visibility = 'hidden';
 	document.getElementById('bookWorldPitFighters').style.visibility = 'hidden';
 	document.getElementById('bookWorldAniDroids').style.visibility = 'hidden'; document.getElementById('bookWorldHC').style.visibility = 'hidden';">
 																						<table class="comicAndBookThumbs">
 																							<tr>
 																								<td>
-																									<a class="image-link" href="https://mothorialcomic.github.io/griffintest/skinchange/comic/001/">
-																										<img src="/griffintest/your_content/images/banners/banner_Skinchange.png" alt="Image 1">
+																									<a class="image-link" href="https://mothorialcomic.github.io/skinchange/comic/001/">
+																										<img src="/your_content/images/banners/banner_Skinchange.png" alt="Image 1">
 					</a>
 																									</td>
 																								</tr>
 																							</table>
 																						</div>
 																						<div class="bookWorld" id="bookWorldPitFighters">
-																							<img class="exitButtonInner" src="/griffintest/your_content/images/symbolXWhite.png" onclick="document.getElementById('overlayHome').style.visibility = 'hidden'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'hidden'; document.getElementById('comicWorldOther').style.visibility = 'hidden';  document.getElementById('comicWorldHC').style.visibility = 'hidden';
+																							<img class="exitButtonInner" src="/your_content/images/symbolXWhite.png" onclick="document.getElementById('overlayHome').style.visibility = 'hidden'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'hidden'; document.getElementById('comicWorldOther').style.visibility = 'hidden';  document.getElementById('comicWorldHC').style.visibility = 'hidden';
 	document.getElementById('bookWorldPitFighters').style.visibility = 'hidden';
 	document.getElementById('bookWorldAniDroids').style.visibility = 'hidden'; document.getElementById('bookWorldHC').style.visibility = 'hidden';">
 																								<h1 class="entryTitle">Pit Fighters</h1>
@@ -166,7 +166,7 @@
 																								<div class="bookTable">
 																									<div class="borderOne">
 																										<div class="pictureLeft">
-																											<img class="bookImage pitFightersOne" src="/griffintest/your_content/images/books/pf1-cover.jpg" alt="Image 1">
+																											<img class="bookImage pitFightersOne" src="/your_content/images/books/pf1-cover.jpg" alt="Image 1">
 				</div>
 																											<div class="bookDescriptionRight">
 																												<h4>
@@ -193,7 +193,7 @@
 																											</div>
 																											<div class="borderTwo">
 																												<div class="pictureLeft pictureMobile">
-																													<img class="bookImage pitFightersOne" src="/griffintest/your_content/images/books/pf2-cover.jpg" alt="Image 1">
+																													<img class="bookImage pitFightersOne" src="/your_content/images/books/pf2-cover.jpg" alt="Image 1">
 																												</div>
 																													<div class="bookDescriptionLeft">
 																														<h4>
@@ -217,12 +217,12 @@
 																															</p>
 																														</div>
 																														<div class="pictureRightPit">
-																															<img class="bookImage pitFightersOne" src="/griffintest/your_content/images/books/pf2-cover.jpg" alt="Image 1"">
+																															<img class="bookImage pitFightersOne" src="/your_content/images/books/pf2-cover.jpg" alt="Image 1"">
 																														</div>
 																														</div>
 																														<div class="borderOne">
 																															<div class="pictureLeft">
-																																<img class="bookImage pitFightersOne" src="/griffintest/your_content/images/books/pf3-cover.jpg" alt="Image 1">
+																																<img class="bookImage pitFightersOne" src="/your_content/images/books/pf3-cover.jpg" alt="Image 1">
 				</div>
 																																<div class="bookDescriptionRight">
 																																	<h4>
@@ -258,7 +258,7 @@
 																																</div>
 																																<div class="borderTwo">
 																																<div class="pictureLeft pictureMobile">
-																																				<img class="bookImage pitFightersOne" src="/griffintest/your_content/images/books/pf4-cover.jpg" alt="Image 1">
+																																				<img class="bookImage pitFightersOne" src="/your_content/images/books/pf4-cover.jpg" alt="Image 1">
 					</div>
 																																	<div class="bookDescriptionLeft">
 																																		<h4>
@@ -292,13 +292,13 @@
 																																				</p>
 																																			</div>
 																																			<div class="pictureRightPit">
-																																				<img class="bookImage pitFightersOne" src="/griffintest/your_content/images/books/pf4-cover.jpg" alt="Image 1" style="margin-right: 30px;">
+																																				<img class="bookImage pitFightersOne" src="/your_content/images/books/pf4-cover.jpg" alt="Image 1" style="margin-right: 30px;">
 					</div>
 																																			</div>
 																																		</div>
 																																	</div>
 																																	<div class="bookWorld" id="bookWorldAniDroids">
-																																		<img class="exitButtonInner" src="/griffintest/your_content/images/symbolXWhite.png" onclick="document.getElementById('overlayHome').style.visibility = 'hidden'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'hidden'; document.getElementById('comicWorldOther').style.visibility = 'hidden';  document.getElementById('comicWorldHC').style.visibility = 'hidden';
+																																		<img class="exitButtonInner" src="/your_content/images/symbolXWhite.png" onclick="document.getElementById('overlayHome').style.visibility = 'hidden'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'hidden'; document.getElementById('comicWorldOther').style.visibility = 'hidden';  document.getElementById('comicWorldHC').style.visibility = 'hidden';
 	document.getElementById('bookWorldPitFighters').style.visibility = 'hidden';
 	document.getElementById('bookWorldAniDroids').style.visibility = 'hidden'; document.getElementById('bookWorldHC').style.visibility = 'hidden';">
 																																			<h1 class="entryTitle">Ani-Droids</h1>
@@ -308,7 +308,7 @@
 																																											<div>
 																																												<div class="borderOneHC borderOneAnidroids">
 																																													<div class="pictureLeft" style="">
-																																														<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/banners/ad-icon.png">
+																																														<img class="bookImageAnidroids" alt="Image 1" src="/your_content/images/banners/ad-icon.png">
 				</div>
 																																														<div class="anidroidsText">
 																																															<div class="anidroidsDescription descriptionRight">
@@ -334,7 +334,7 @@
 																																												<h6 class="whiteText bookTitle" style="margin-top: -40px;">Other stories!</h6>
 																																												<div class="borderOneHC">
 																																													<div class="pictureLeft" style="">
-																																														<img class="felidaeIcon" src="/griffintest/your_content/images/books/storyboard011.jpg" alt="Image 1">
+																																														<img class="felidaeIcon" src="/your_content/images/books/storyboard011.jpg" alt="Image 1">
 				</div>
 																																														<div class="anidroidsText textVertical">
 																																															<div class="anidroidsDescription descriptionRight felidaeText">
@@ -343,7 +343,7 @@
 																																																	
 																																																	<h2 class="whiteText anidroidsTitle seriesTitle">FELIDAE</h2>
 																																												<p>
-																																											<a class="redLink" href="https://mothorialcomic.github.io/griffintest/the-storyboard/comic/011/">Read now!</a>
+																																											<a class="redLink" href="https://mothorialcomic.github.io/the-storyboard/comic/011/">Read now!</a>
 																																										</p>
 																																																</div></div>
 																																																</div>
@@ -352,7 +352,7 @@
 																																																</div></div></div>
 																																						</div>
 																																						<div class="bookWorld" id="bookWorldHC">
-																																							<img class="exitButtonInner" src="/griffintest/your_content/images/symbolXWhite.png" onclick="document.getElementById('overlayHome').style.visibility = 'hidden'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'hidden'; document.getElementById('comicWorldOther').style.visibility = 'hidden';  document.getElementById('comicWorldHC').style.visibility = 'hidden';
+																																							<img class="exitButtonInner" src="/your_content/images/symbolXWhite.png" onclick="document.getElementById('overlayHome').style.visibility = 'hidden'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'hidden'; document.getElementById('comicWorldOther').style.visibility = 'hidden';  document.getElementById('comicWorldHC').style.visibility = 'hidden';
 	document.getElementById('bookWorldPitFighters').style.visibility = 'hidden';
 	document.getElementById('bookWorldAniDroids').style.visibility = 'hidden'; document.getElementById('bookWorldHC').style.visibility = 'hidden';">
 																																								<h1 class="entryTitle">
@@ -367,7 +367,7 @@ Hayven Celestia
 																																								<div class="anidroidsTable">
 																																									<div class="borderOneHC" style="border: none;background-color: rgba(17,17,17,0.42);">
 																																										<div class="pictureLeft">
-																																											<img class="bookImageAnidroids skinchangeImage" alt="Image 1" src="/griffintest/your_content/images/banners/banner_Skinchange.png">
+																																											<img class="bookImageAnidroids skinchangeImage" alt="Image 1" src="/your_content/images/banners/banner_Skinchange.png">
 				</div>
 																																											<div class="anidroidsText skinchangeText">
 																																												<div class="anidroidsDescription">
@@ -375,7 +375,7 @@ Hayven Celestia
 																																														<h6 class="whiteText novel">Comic</h6>
 																																														<h2 class="whiteText anidroidsTitle">Skinchange</h2>
 																																														<p>
-																																															<a class="redLink" href="https://mothorialcomic.github.io/griffintest/skinchange/comic/001/">Read now!</a>
+																																															<a class="redLink" href="https://mothorialcomic.github.io/skinchange/comic/001/">Read now!</a>
 																																														</p>
 																																													</div>
 																																												</div>
@@ -385,7 +385,7 @@ Hayven Celestia
 																																									<div class="anidroidsTable">
 																																										<div class="borderOneHC" style="border: none;background-color: rgba(17,17,17,0.42);">
 																																											<div class="pictureLeft">
-																																												<img class="bookImageAnidroids underOneSky" alt="Image 1" src="/griffintest/your_content/images/books/underonesky.jpg">
+																																												<img class="bookImageAnidroids underOneSky" alt="Image 1" src="/your_content/images/books/underonesky.jpg">
 				</div>
 																																												<div class="anidroidsText underOneSkyText">
 																																													<div class="anidroidsDescription" style="margin-right: 24px;">
@@ -415,7 +415,7 @@ Hayven Celestia
 																																												</div>
 																																												<div class="borderOneHC" style="padding-top: -130px;position: relative;margin-top: 0px;/*! padding-top: 0px; */">
 																																													<div class="pictureLeft" style="">
-																																														<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/traitorsthievesandliars.jpg">
+																																														<img class="bookImageAnidroids" alt="Image 1" src="/your_content/images/books/traitorsthievesandliars.jpg">
 				</div>
 																																														<div class="anidroidsText textVertical">
 																																															<div class="anidroidsDescription descriptionRight">
@@ -444,7 +444,7 @@ Hayven Celestia
 																																												<div class="">
 																																													<div class="borderOneHC titleTwo">
 																																														<div class="pictureLeft pictureMobile">
-																																																<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/thecaptainsoath.jpg">
+																																																<img class="bookImageAnidroids" alt="Image 1" src="/your_content/images/books/thecaptainsoath.jpg">
 					</div>
 																																														<div class="anidroidsDescription descriptionLeft">
 																																															<div>
@@ -463,14 +463,14 @@ Hayven Celestia
 																																															</div>
 																																														</div>
 																																														<div class="pictureRight">
-																																															<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/thecaptainsoath.jpg">
+																																															<img class="bookImageAnidroids" alt="Image 1" src="/your_content/images/books/thecaptainsoath.jpg">
 				</div>
 																																														</div>
 																																													</div>
 																																													<div class="">
 																																														<div class="borderOneHC titleThree" >
 																																															<div class="pictureLeft">
-																																																<img class="bookImageAnidroids imageChainUnbroken" alt="Image 1" src="/griffintest/your_content/images/books/chainunbroken.jpg">
+																																																<img class="bookImageAnidroids imageChainUnbroken" alt="Image 1" src="/your_content/images/books/chainunbroken.jpg">
 				</div>
 																																																<div class="anidroidsText textVertical">
 																																																	<div class="anidroidsDescription descriptionRight">
@@ -500,7 +500,7 @@ Hayven Celestia
 																																												<h6 class="whiteText bookTitle kantiTitle">The Kanti Cycle</h6>
 																																												<div class="borderOneHC">
 																																													<div class="pictureLeft" style="">
-																																														<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/sc.jpg">
+																																														<img class="bookImageAnidroids" alt="Image 1" src="/your_content/images/books/sc.jpg">
 				</div>
 																																														<div class="anidroidsText textVertical">
 																																															<div class="anidroidsDescription descriptionRight">
@@ -529,7 +529,7 @@ Hayven Celestia
 																																												<div class="">
 																																													<div class="borderOneHC titleTwo">
 																																														<div class="pictureLeft pictureMobile">
-																																																<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/sw.jpg">
+																																																<img class="bookImageAnidroids" alt="Image 1" src="/your_content/images/books/sw.jpg">
 					</div>
 																																														<div class="anidroidsDescription descriptionLeft">
 																																															<div>
@@ -548,14 +548,14 @@ Hayven Celestia
 																																															</div>
 																																														</div>
 																																														<div class="pictureRight">
-																																															<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/sw.jpg">
+																																															<img class="bookImageAnidroids" alt="Image 1" src="/your_content/images/books/sw.jpg">
 				</div>
 																																														</div>
 																																													</div>
 																																													<div class="">
 																																														<div class="borderOneHC titleFour">
 																																															<div class="pictureLeft">
-																																																<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/ft.jpg">
+																																																<img class="bookImageAnidroids" alt="Image 1" src="/your_content/images/books/ft.jpg">
 				</div>
 																																																<div class="anidroidsText textVertical">
 																																																	<div class="anidroidsDescription descriptionRight">
@@ -587,7 +587,7 @@ Hayven Celestia
 																																																		<h6 class="whiteText bookTitle toriTitle">Tori Mysteries</h6>
 																																																		<div class="borderOneHC">
 																																																			<div class="pictureLeft" style="">
-																																																				<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/rl.jpg">
+																																																				<img class="bookImageAnidroids" alt="Image 1" src="/your_content/images/books/rl.jpg">
 				</div>
 																																																				<div class="anidroidsText">
 																																																					<div class="anidroidsDescription descriptionRight" style="text-align: left;">
@@ -615,7 +615,7 @@ Hayven Celestia
 																																																		<div class="">
 																																																			<div class="borderOneHC titleFive">
 	<div class="pictureLeft pictureMobile">
-																																																					<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/eg.png">
+																																																					<img class="bookImageAnidroids" alt="Image 1" src="/your_content/images/books/eg.png">
 				</div>
 	<div class="anidroidsDescription descriptionLeft">
 																																																					<div>
@@ -635,7 +635,7 @@ Hayven Celestia
 																																																					</div>
 																																																				</div>
 																																																				<div class="pictureRight">
-																																																					<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/eg.png">
+																																																					<img class="bookImageAnidroids" alt="Image 1" src="/your_content/images/books/eg.png">
 				</div>																																																		</div>
 																																																				</div>
 																																																			</div>
@@ -645,7 +645,7 @@ Hayven Celestia
 																																												
 																																												<div class="borderOneHC" style="padding-top: -130px;position: relative;margin-top: 0px;/*! padding-top: 0px; */">
 																																													<div class="pictureLeft" style="">
-																																														<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/talesofhayvencelestia.jpg">
+																																														<img class="bookImageAnidroids" alt="Image 1" src="/your_content/images/books/talesofhayvencelestia.jpg">
 				</div>
 																																														<div class="anidroidsText textVertical">
 																																															<div class="anidroidsDescription descriptionRight">
@@ -677,7 +677,7 @@ Hayven Celestia
 																																												<div class="">
 																																													<div class="borderOneHC titleFive">
 																																														<div class="pictureLeft pictureMobile">
-																																																<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/front.jpg">
+																																																<img class="bookImageAnidroids" alt="Image 1" src="/your_content/images/books/front.jpg">
 					</div>
 																																														<div class="anidroidsDescription descriptionLeft">
 																																															<div>
@@ -697,7 +697,7 @@ Hayven Celestia
 																																															</div>
 																																														</div>
 																																														<div class="pictureRight" style="margin-top: -119px;">
-																																															<img class="bookImageAnidroids" alt="Image 1" src="/griffintest/your_content/images/books/front.jpg">
+																																															<img class="bookImageAnidroids" alt="Image 1" src="/your_content/images/books/front.jpg">
 				</div>
 																																														</div>
 																																													</div>

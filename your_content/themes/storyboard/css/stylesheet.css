@@ -11,7 +11,7 @@ body {
     font-family: 'ahclub';  /* The font of all the text on all pages */
     color: black;  /* The color of the font of most of the text on your website */
     background-color: white;  /* The color of the background behind everything */
-	background-image: url(/griffintest/your_content/images/banners/storyboardBG.png);
+	background-image: url(/your_content/images/banners/storyboardBG.png);
 	background-size: cover;
 	background-repeat: repeat;
 	background-attachment: fixed;
@@ -42,21 +42,21 @@ div#container {
 
 @font-face {
     font-family: ahclub;
-    src: url(/griffintest/your_content/fonts/UNMASKEDBB.OTF) format("opentype");
+    src: url(/your_content/fonts/UNMASKEDBB.OTF) format("opentype");
 	font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: ahclub;
-    src: url(/griffintest/your_content/fonts/UNMASKEDBB_BOLD.OTF) format("opentype");
+    src: url(/your_content/fonts/UNMASKEDBB_BOLD.OTF) format("opentype");
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: ahclub;
-    src: url(/griffintest/your_content/fonts/UNMASKEDBB_ITAL.OTF) format("opentype");
+    src: url(/your_content/fonts/UNMASKEDBB_ITAL.OTF) format("opentype");
     font-weight: italic;
     font-style: normal;
 }
