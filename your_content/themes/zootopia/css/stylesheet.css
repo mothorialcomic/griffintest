@@ -11,7 +11,7 @@ body {
     font-family: 'zootopia', sans-serif;  /* The font of all the text on all pages */
     color: black;  /* The color of the font of most of the text on your website */
     background-color: white;  /* The color of the background behind everything */
-	background-image: url(/your_content/images/banners/zootopiaBGtest.png);
+	background-image: url(/your_content/images/banners/zootopiaBGtest.webp);
 	background-size: cover;
 	background-repeat: repeat;
 	background-attachment: fixed;

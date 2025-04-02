@@ -12,26 +12,26 @@
 							<tr>
 								<td>
 									<a class="image-link" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; document.getElementById('comicWorldHousepets').style.visibility = 'visible';">
-										<img src="/your_content/images/banners/housepets2.png" alt="Image 1">
+										<img src="/your_content/images/banners/housepets2.webp" alt="Image 1">
 					</a>
 									</td>
 									<td>
 										<a class="image-link" href="https://rickgriffinstudios.com/ah-club/comic/001/">
-											<img src="/your_content/images/banners/AH-icon2.png" alt="Image 2">
+											<img src="/your_content/images/banners/AH-icon2.webp" alt="Image 2">
 					</a>
 										</td>
 										<td>
 											<a class="image-link" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; document.getElementById('comicWorldInTheNewAge').style.visibility = 'visible';">
-												<img src="/your_content/images/banners/in-the-new-age.png" alt="Image 2">
+												<img src="/your_content/images/banners/in-the-new-age.webp" alt="Image 2">
 					</a>
 											</td>
 										</tr>
 										<tr>
 											<td colspan="3" style="padding: 22px;padding-top: 6px;">
 												<div style="display: flex;justify-content: center;width: 100%;">
-													<img class="image-link" src="/your_content/images/banners/hc-icon.png" alt="Image 2" style=" width: 33.3%;cursor: pointer;border-radius: 6px;margin-right: 16px;" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; 
+													<img class="image-link" src="/your_content/images/banners/hc-icon.webp" alt="Image 2" style=" width: 33.3%;cursor: pointer;border-radius: 6px;margin-right: 16px;" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; 
            document.getElementById('comicWorldHC').style.visibility = 'visible';">
-														<img class="image-link" src="/your_content/images/banners/banner_Other.png" alt="Image 1" style="width: 33.3%; cursor: pointer;border-radius: 6px;" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; 
+														<img class="image-link" src="/your_content/images/banners/banner_Other.webp" alt="Image 1" style="width: 33.3%; cursor: pointer;border-radius: 6px;" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; 
            document.getElementById('comicWorldOther').style.visibility = 'visible';">
           
         </div>
@@ -46,17 +46,17 @@
 											<tr>
 												<td>
 													<a class="image-link" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; document.getElementById('bookWorldPitFighters').style.visibility = 'visible';">
-														<img src="/your_content/images/banners/PF-icon.png" alt="Image 1">
+														<img src="/your_content/images/banners/PF-icon.webp" alt="Image 1">
 					</a>
 													</td>
 													<td>
 														<a class="image-link" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; document.getElementById('bookWorldAniDroids').style.visibility = 'visible';">
-															<img src="/your_content/images/banners/ad-icon.png" alt="Image 2">
+															<img src="/your_content/images/banners/ad-icon.webp" alt="Image 2">
 					</a>
 														</td>
 														<td>
 															<a class="image-link" onclick="document.getElementById('overlayHome').style.visibility = 'visible'; document.getElementById('bookWorldHC').style.visibility = 'visible';">
-																<img src="/your_content/images/banners/hc-icon.png" alt="Image 2">
+																<img src="/your_content/images/banners/hc-icon.webp" alt="Image 2">
 					</a>
 															</td>
 														</tr>
@@ -69,12 +69,12 @@
 															<tr>
 																<td>
 																	<a class="image-link" href="https://www.amazon.com/stores/Rick-Griffin/author/B009C0N4SO">
-																		<img alt="Image 2" src="/your_content/images/banners/store-pb2-2.png">
+																		<img alt="Image 2" src="/your_content/images/banners/store-pb2-2.webp">
 					</a>
 																	</td>
 																	<td>
 																		<a class="image-link" href="https://www.patreon.com/rickgriffin">
-																			<img alt="Image 2" src="/your_content/images/banners/patreon-support.png">
+																			<img alt="Image 2" src="/your_content/images/banners/patreon-support.webp">
 					</a>
 																		</td>
 																	</tr>
@@ -90,12 +90,12 @@
 																	<tr>
 																		<td>
 																			<a class="image-link" href="https://rickgriffinstudios.com/housepets/comic/0001/">
-																				<img src="/your_content/images/banners/housepets2.png" alt="Image 1">
+																				<img src="/your_content/images/banners/housepets2.webp" alt="Image 1">
 					</a>
 																			</td>
 																			<td>
 																				<a class="image-link" href="https://rickgriffinstudios.com/housepets-guest/comic/001/">
-																					<img src="/your_content/images/banners/banner_Guest.png" alt="Image 2">
+																					<img src="/your_content/images/banners/banner_Guest.webp" alt="Image 2">
 					</a>
 																				</td>
 																			</tr>
@@ -109,12 +109,12 @@
 																	<tr>
 																			<td>
 																				<a class="image-link" href="https://rickgriffinstudios.com/traces-of-the-past/comic/001/">
-																					<img src="/your_content/images/banners/banner_TracesOfThePast.png" alt="Image 2">
+																					<img src="/your_content/images/banners/banner_TracesOfThePast.webp" alt="Image 2">
 					</a>
 																				</td>
 																			<td>
 																			<a class="image-link" href="https://rickgriffinstudios.com/the-witch-of-kurikuto/comic/001/">
-																				<img src="/your_content/images/banners/banner_Kurikuto.png" alt="Image 1">
+																				<img src="/your_content/images/banners/banner_Kurikuto.webp" alt="Image 1">
 					</a>
 																			</td>
 																			</tr>
@@ -128,12 +128,12 @@
 																				<tr>
 																					<td>
 																						<a class="image-link" href="https://rickgriffinstudios.com/the-storyboard/comic/001/">
-																							<img src="/your_content/images/banners/the-storyboard.png" alt="Image 1">
+																							<img src="/your_content/images/banners/the-storyboard.webp" alt="Image 1">
 					</a>
 																						</td>
 																						<td>
 																							<a class="image-link" href="https://rickgriffinstudios.com/zootopia-night-terrors/comic/001/">
-																								<img src="/your_content/images/banners/banner_Zootopia.png" alt="Image 2">
+																								<img src="/your_content/images/banners/banner_Zootopia.webp" alt="Image 2">
 					</a>
 																							</td>
 																						</tr>
@@ -147,7 +147,7 @@
 																							<tr>
 																								<td>
 																									<a class="image-link" href="https://rickgriffinstudios.com/skinchange/comic/001/">
-																										<img src="/your_content/images/banners/banner_Skinchange.png" alt="Image 1">
+																										<img src="/your_content/images/banners/banner_Skinchange.webp" alt="Image 1">
 					</a>
 																									</td>
 																								</tr>
@@ -308,7 +308,7 @@
 																																											<div>
 																																												<div class="borderOneHC borderOneAnidroids">
 																																													<div class="pictureLeft" style="">
-																																														<img class="bookImageAnidroids" alt="Image 1" src="/your_content/images/banners/ad-icon.png">
+																																														<img class="bookImageAnidroids" alt="Image 1" src="/your_content/images/banners/ad-icon.webp">
 				</div>
 																																														<div class="anidroidsText">
 																																															<div class="anidroidsDescription descriptionRight">
@@ -367,7 +367,7 @@ Hayven Celestia
 																																								<div class="anidroidsTable">
 																																									<div class="borderOneHC" style="border: none;background-color: rgba(17,17,17,0.42);">
 																																										<div class="pictureLeft">
-																																											<img class="bookImageAnidroids skinchangeImage" alt="Image 1" src="/your_content/images/banners/banner_Skinchange.png">
+																																											<img class="bookImageAnidroids skinchangeImage" alt="Image 1" src="/your_content/images/banners/banner_Skinchange.webp">
 				</div>
 																																											<div class="anidroidsText skinchangeText">
 																																												<div class="anidroidsDescription">
