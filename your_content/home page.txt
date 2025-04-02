@@ -68,7 +68,7 @@
 														<tbody>
 															<tr>
 																<td>
-																	<a class="image-link" href="https://www.rickgriffinstudios.com/store/">
+																	<a class="image-link" href="https://www.amazon.com/stores/Rick-Griffin/author/B009C0N4SO">
 																		<img alt="Image 2" src="/your_content/images/banners/store-pb2-2.png">
 					</a>
 																	</td>
