@@ -16,7 +16,7 @@
 					</a>
 									</td>
 									<td>
-										<a class="image-link" href="https://mothorialcomic.github.io/ah-club/comic/001/">
+										<a class="image-link" href="https://rickgriffinstudios.com/ah-club/comic/001/">
 											<img src="/your_content/images/banners/AH-icon2.png" alt="Image 2">
 					</a>
 										</td>
@@ -89,12 +89,12 @@
 																<table class="comicAndBookThumbs">
 																	<tr>
 																		<td>
-																			<a class="image-link" href="https://mothorialcomic.github.io/housepets/comic/0001/">
+																			<a class="image-link" href="https://rickgriffinstudios.com/housepets/comic/0001/">
 																				<img src="/your_content/images/banners/housepets2.png" alt="Image 1">
 					</a>
 																			</td>
 																			<td>
-																				<a class="image-link" href="https://mothorialcomic.github.io/housepets-guest/comic/001/">
+																				<a class="image-link" href="https://rickgriffinstudios.com/housepets-guest/comic/001/">
 																					<img src="/your_content/images/banners/banner_Guest.png" alt="Image 2">
 					</a>
 																				</td>
@@ -108,12 +108,12 @@
 																<table class="comicAndBookThumbs">
 																	<tr>
 																			<td>
-																				<a class="image-link" href="https://mothorialcomic.github.io/traces-of-the-past/comic/001/">
+																				<a class="image-link" href="https://rickgriffinstudios.com/traces-of-the-past/comic/001/">
 																					<img src="/your_content/images/banners/banner_TracesOfThePast.png" alt="Image 2">
 					</a>
 																				</td>
 																			<td>
-																			<a class="image-link" href="https://mothorialcomic.github.io/the-witch-of-kurikuto/comic/001/">
+																			<a class="image-link" href="https://rickgriffinstudios.com/the-witch-of-kurikuto/comic/001/">
 																				<img src="/your_content/images/banners/banner_Kurikuto.png" alt="Image 1">
 					</a>
 																			</td>
@@ -127,12 +127,12 @@
 																			<table class="comicAndBookThumbs">
 																				<tr>
 																					<td>
-																						<a class="image-link" href="https://mothorialcomic.github.io/the-storyboard/comic/001/">
+																						<a class="image-link" href="https://rickgriffinstudios.com/the-storyboard/comic/001/">
 																							<img src="/your_content/images/banners/the-storyboard.png" alt="Image 1">
 					</a>
 																						</td>
 																						<td>
-																							<a class="image-link" href="https://mothorialcomic.github.io/zootopia-night-terrors/comic/001/">
+																							<a class="image-link" href="https://rickgriffinstudios.com/zootopia-night-terrors/comic/001/">
 																								<img src="/your_content/images/banners/banner_Zootopia.png" alt="Image 2">
 					</a>
 																							</td>
@@ -146,7 +146,7 @@
 																						<table class="comicAndBookThumbs">
 																							<tr>
 																								<td>
-																									<a class="image-link" href="https://mothorialcomic.github.io/skinchange/comic/001/">
+																									<a class="image-link" href="https://rickgriffinstudios.com/skinchange/comic/001/">
 																										<img src="/your_content/images/banners/banner_Skinchange.png" alt="Image 1">
 					</a>
 																									</td>
@@ -343,7 +343,7 @@
 																																																	
 																																																	<h2 class="whiteText anidroidsTitle seriesTitle">FELIDAE</h2>
 																																												<p>
-																																											<a class="redLink" href="https://mothorialcomic.github.io/the-storyboard/comic/011/">Read now!</a>
+																																											<a class="redLink" href="https://rickgriffinstudios.com/the-storyboard/comic/011/">Read now!</a>
 																																										</p>
 																																																</div></div>
 																																																</div>
@@ -375,7 +375,7 @@ Hayven Celestia
 																																														<h6 class="whiteText novel">Comic</h6>
 																																														<h2 class="whiteText anidroidsTitle">Skinchange</h2>
 																																														<p>
-																																															<a class="redLink" href="https://mothorialcomic.github.io/skinchange/comic/001/">Read now!</a>
+																																															<a class="redLink" href="https://rickgriffinstudios.com/skinchange/comic/001/">Read now!</a>
 																																														</p>
 																																													</div>
 																																												</div>
