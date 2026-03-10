@@ -17,7 +17,7 @@
        becomes `/comic_git/comic` #}
     <div id="comic-page">
         <a href="{{ comic_base_dir }}/comic/{{ next_id }}/#comic-page">
-            <img id="comic-image" src="{{ base_dir }}/{{ comic_paths }}" title="{{ page_title }}"/>
+            <img id="comic-image" src="{{ base_dir }}/{{ comic_paths[0] }}" title="{{ _title }}"/>
         </a>
     </div>
 
@@ -77,7 +77,7 @@
                it runs through list of all the characters in this page, as defined by your info.ini file for this page,
                and it generates a link for each of those characters connecting to the `tagged` page for that
                character. #}
-            {%- for character in characters %}
+            {%- for character in _characters %}
                 {# The `if not loop.last` block at the end of the next line means that the ", " string will be added
                    after every character link EXCEPT the last one. #}
                 <a href="{{ comic_base_dir }}/tagged/{{ character }}/">{{ character }}</a>{% if not loop.last %}, {% endif %}
