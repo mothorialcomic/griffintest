@@ -29,7 +29,7 @@ __pycache__/
 *.pyc
 
 #ignore content
-ah-club
+ah-club/
 housepets
 housepets-guest
 index.html
