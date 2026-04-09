@@ -29,14 +29,14 @@ __pycache__/
 *.pyc
 
 #ignore content
-ah-club/
-housepets
-housepets-guest
-index.html
-the-storyboard
-the-witch-of-kurikuto
-traces-of-the-past
-zootopia-night-terrors
-comic
-archive
-skinchange
+/ah-club
+/housepets
+/housepets-guest
+/index.html
+/the-storyboard
+/the-witch-of-kurikuto
+/traces-of-the-past
+/zootopia-night-terrors
+/comic
+/archive
+/skinchange

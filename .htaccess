@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^(.+/)?comic/?$ /$1 [R=301,L] 
+Options -Indexes

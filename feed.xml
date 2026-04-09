@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <atom:link href="https://rickgriffinstudios.com/feed.xml" rel="self" type="application/rss+xml"/>
+        <title>Rick Griffin Studios</title>
+        <description>The latest pages from Housepets, A&amp;H Club and more!</description>
+        <link>https://rickgriffinstudios.com/</link>
+        <dc:creator>Rick Griffin</dc:creator>
+        <language>en-us</language>
+        <image>
+            <title>Rick Griffin Studios</title>
+            <link>https://rickgriffinstudios.com/</link>
+            <url>https://rickgriffinstudios.com/your_content/images/banner.png</url>
+            <width>100</width>
+            <height>36</height>
+        </image>
+    </channel>
+</rss>
